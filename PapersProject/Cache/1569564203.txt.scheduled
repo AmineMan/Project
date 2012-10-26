@@ -23,12 +23,10 @@ G. Kramer
 ----
 P. Zhong
 --
-“Compress-forward without Wyner-Ziv binning
 for the one-way and two-way relay channels
 ----
 O. Sahin
 --
-“Achievable rates for the Gaussian interference
 relay channel
 ----
 A. El Gamal
@@ -37,12 +35,10 @@ Network Information Theory
 ----
 B. Rankov
 --
-“Achievable rate regions for the two-way
 relay channel
 ----
 M. Khormuji
 --
-“Noisy analog network coding for the
 two-way relay channel
 [[[ META ]]]
 xmlpapertitle -> Layered Quantize-Forward For The Two-Way Relay Channel
@@ -53,7 +49,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569564203
 xmlsession -> S3.T3: *-and-Forward Relaying
 xmldate -> 1341237600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564203.txt
+file -> PapersDataset\1569564203.txt
 xmlstarttime -> 16:00
 xmlauthors -> Hieu T. Do, Tobias J. Oechtering, Mikael Skoglund
 xmlroom -> Stratton S. de P. Rico (202)

@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 ]D. Dash
 --
-“An outer bound for a multiuser two-way
 ≤ max(n12 
 [[[ META ]]]
 xmlpapertitle -> On the Capacity of Multi-user Two-way Linear Deterministic Channels
@@ -27,7 +26,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566553
 xmlsession -> S12.T3: Deterministic Channels
 xmldate -> 1341480600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566553.txt
+file -> PapersDataset\1569566553.txt
 xmlstarttime -> 11:30
 xmlauthors -> Zhiyu Cheng, Natasha Devroye
 xmlroom -> Stratton S. de P. Rico (202)

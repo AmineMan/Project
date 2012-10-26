@@ -20,17 +20,14 @@ V. Cadambe
 ----
 V. Cadambe
 --
-“Interference Alignment and the Degrees of
 Freedom of Wireless X Networks
 ----
 S. Jafar
 --
-“Degrees of Freedom Region for the MIMO
 X Channel
 ----
 T. Gou
 --
-“Degrees of Freedom of the K User M ×N MIMO
 Interference Channel”
 [[[ META ]]]
 xmlpapertitle -> Degrees of Freedom of MIMO X Networks: Spatial Scale Invariance, One-Sided Decomposability and Linear Feasibility
@@ -41,7 +38,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566389
 xmlsession -> S12.T2: Interference Alignment
 xmldate -> 1341483000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566389.txt
+file -> PapersDataset\1569566389.txt
 xmlstarttime -> 12:10
 xmlauthors -> Hua Sun, Chunhua Geng, Tiangao Gou, Syed Ali Jafar
 xmlroom -> Kresge Auditorium (109)

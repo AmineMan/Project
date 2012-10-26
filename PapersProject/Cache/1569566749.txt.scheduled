@@ -18,22 +18,18 @@ Jr
 ----
 H. Ochiai
 --
-“Performance analysis of deliberately clipped
 clipped OFDM signals
 ----
 M. Tanahashi
 --
-“Near constant envelope trellis shaping
 for PSK signaling
 ----
 W. Henkel
 --
-“Another application for trellis shaping: PAR
 reduction for DMT(OFDM)
 ----
 T. T. Nguyen
 --
-“On trellis shaping for PAR reduction in
 OFDM systems
 ----
 R. Yoshizawa
@@ -48,7 +44,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569566749
 xmlsession -> S8.T7: Communication Theory
 xmldate -> 1341328800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566749.txt
+file -> PapersDataset\1569566749.txt
 xmlstarttime -> 17:20
 xmlauthors -> Ryota Yoshizawa, Hideki Ochiai
 xmlroom -> Stratton (407)

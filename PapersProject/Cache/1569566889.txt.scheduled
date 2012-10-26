@@ -22,7 +22,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566889
 xmlsession -> S9.T7: Medium Access Control
 xmldate -> 1341389400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566889.txt
+file -> PapersDataset\1569566889.txt
 xmlstarttime -> 10:10
 xmlauthors -> Douglas Chan, Toby Berger
 xmlroom -> Stratton (407)

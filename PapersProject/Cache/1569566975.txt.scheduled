@@ -19,18 +19,14 @@ R. L. Cruz
 ----
 R. Bhatia
 --
-“On Power Efﬁcient Communication
 over Multi-hop Wireless Networks: Joint Routing
 ----
 C. Li
 --
-4 (April 2010)
 [6] 
 ----
 A. Dimakis
 --
-“Sufﬁcient conditions for stability of
-Longest-Queue-First scheduling: Second order properties using ﬂuid
 limits
 [[[ META ]]]
 xmlpapertitle -> Energy Efficient Greedy Link Scheduling and Power Control in wireless networks
@@ -41,7 +37,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566975
 xmlsession -> S5.T3: Energy-Efficient Communication
 xmldate -> 1341305400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566975.txt
+file -> PapersDataset\1569566975.txt
 xmlstarttime -> 10:50
 xmlauthors -> Arun Sridharan, Changhee Joo, Can Emre Koksal
 xmlroom -> Stratton S. de P. Rico (202)

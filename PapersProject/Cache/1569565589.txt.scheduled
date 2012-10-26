@@ -19,8 +19,8 @@ E. Arikan
 --
 IEEE Transactions on Information Theory
 ----
-E. Arikan
 N. Merhav; Joint Source-channel Coding
+E. Arikan
 --
 IEEE Transactions on Information Theory
 ----
@@ -32,8 +32,8 @@ S.S. Dragomir
 --
 Proc
 ----
-S.S. Dragomir
 S. Boztas; Estimation of Arithmetic Means
+S.S. Dragomir
 --
 Mathematical and Computer Modelling
 ----
@@ -41,8 +41,8 @@ J. L. Massey; Guessing
 --
 Proc
 ----
-M. Feder
 N. Merhav; Relations between entropy
+M. Feder
 --
 IEEE Transactions on Information Theory 40(1):259-266
 ----
@@ -62,21 +62,19 @@ R. Sundaresan; Guessing
 --
 Technical Report TR-PME-2010-12
 ----
-2H1/2 (Y )
-.
-1 + 1/2 + . . . + 1/N
-1 + ln N
-1 + ln N
-(5)
 Note that the upper
+(5)
+1 + ln N
+1 + ln N
+1 + 1/2 + . . . + 1/N
+.
+2H1/2 (Y )
 --
-once again the R´ nyi entropy of order
-e
 1/2
 ----
-and Malone
-Sullivan [8] also obtained results related
 to guesswork
+Sullivan [8] also obtained results related
+and Malone
 --
 which is available online [16]
 [[[ META ]]]
@@ -88,7 +86,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569565589
 xmlsession -> S12.T6: Cryptanalysis and Distributed Guessing
 xmldate -> 1341483000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565589.txt
+file -> PapersDataset\1569565589.txt
 xmlstarttime -> 12:10
 xmlauthors -> Serdar Boztas
 xmlroom -> Kresge Rehearsal A (033)

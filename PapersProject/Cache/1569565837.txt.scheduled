@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 Z. Li
 --
-“Network Coding: The Case of Multiple Unicast
 Sessions
 ----
 Z. Li
@@ -23,14 +22,10 @@ Z. Li
 ----
 R. Koetter
 --
-“An Algebraic Approach to Network
-e
 Coding
 ----
 M. Langberg
 --
-“On the Multiple Unicast Network Coding
-e
 Conjecture
 ----
 Z. Li
@@ -39,7 +34,6 @@ Z. Li
 ----
 A. Agarwal
 --
-“On the Advantage of Network Coding
 for Improving Network Throughput
 ----
 C. Fragouli
@@ -54,7 +48,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569565837
 xmlsession -> S11.T1: Network Coding for Multiple Unicast Sessions
 xmldate -> 1341474600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565837.txt
+file -> PapersDataset\1569565837.txt
 xmlstarttime -> 09:50
 xmlauthors -> Zongpeng Li, Chuan Wu
 xmlroom -> Kresge Rehearsal B (030)

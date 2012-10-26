@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 A. J. Felstr¨ m
 --
-“Time-varying periodic convoluo
 tional codes with low-density parity-check matrix
 ----
 S. Kudekar
 --
-“The effect of spatial coupling on
 compressive sensing
 ----
 T. Richardson
@@ -39,7 +37,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569565997
 xmlsession -> S3.T5: Spatially-Coupled Coding
 xmldate -> 1341234000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565997.txt
+file -> PapersDataset\1569565997.txt
 xmlstarttime -> 15:00
 xmlauthors -> Andrei Giurgiu, Nicolas Macris, Ruediger L Urbanke
 xmlroom -> Kresge Little Theatre (035)

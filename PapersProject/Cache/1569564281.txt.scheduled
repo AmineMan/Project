@@ -18,32 +18,26 @@ S. Shamai
 ----
 H. Herzberg
 --
-“Techniques of bounding the probability
 of decoding error for block coded modulation structures
 ----
 N. Shulman
 --
-“Random coding techniques for nonrandom
 codes
 ----
 G. Miller
 --
-“Bounds on the maximum-likelihood
 decoding error probability of low-density parity-check codes
 ----
 A. M. Macbeath
 --
-“A modiﬁed form of siegel’s
 mean-value theorem
 ----
 Y. Domb
 --
-“A distance spectrum based upper error bound
 for lattices
 ----
 S. Youseﬁ
 --
-“A new upper bound on the ml decoding
 error probability of linear binary block codes in awgn interference
 ----
 Y. Lomnitz
@@ -62,7 +56,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569564281
 xmlsession -> S10.T4: Coding with Lattices
 xmldate -> 1341395400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564281.txt
+file -> PapersDataset\1569564281.txt
 xmlstarttime -> 11:50
 xmlauthors -> Yuval Domb, Meir Feder
 xmlroom -> Stratton 20 Chimneys (306)

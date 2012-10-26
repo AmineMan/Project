@@ -26,7 +26,6 @@ E. J. Candes
 ----
 W. Xu
 --
-“Precise stability phase transitions for 1
 minimization: A uniﬁed geometric framework
 ----
 M. Herman
@@ -43,7 +42,6 @@ D. L. Donoho
 ----
 G. Reeves
 --
-“Differences between observation and
 sampling error in sparse signal reconstruction
 [[[ META ]]]
 xmlpapertitle -> The Sensitivity of Compressed Sensing Performance to Relaxation of Sparsity
@@ -60,7 +58,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566755
 xmlsession -> S12.T9: L1-Regularized Least Squares and Sparsity
 xmldate -> 1341480600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566755.txt
+file -> PapersDataset\1569566755.txt
 xmlstarttime -> 11:30
 xmlauthors -> David Donoho, Galen Reeves
 xmlroom -> Stratton West Lounge (201)

@@ -1,6 +1,7 @@
 package paper
 
 
+
 object Analyze {
   def main(args : Array[String]): Unit = {
 
@@ -38,7 +39,6 @@ class Analyzer extends Object with LoadPaper
 
     // Get a list of parsed papers
     val papers : List[Paper] = load(paperPos, cache, Isit)
-   
 
     // Mix in the schedule XML data
     val xmlPapers : List[Paper] = getXMLSchedule(paperPos, papers)
@@ -47,7 +47,6 @@ class Analyzer extends Object with LoadPaper
     // Compare the papers individually using bagOfWords
     val comparedPapers : List[Paper] = compare(xmlPapers, limit)
     
-   
    // val comparedPapers2 : List[Paper] = bagOfWords(...)
     // Extend papers with tertiary data
     val extendedPapers : List[Paper] = extend(comparedPapers, sources) 

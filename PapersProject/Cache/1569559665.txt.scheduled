@@ -15,17 +15,14 @@ Not saved
 [[[ REFS ]]]
 B. Hassibi
 --
-“High-Rate Codes that are Linear in
 Space and Time
 ----
 G. S. Rajan
 --
-“Multi-group ML Decodable Collocated
 and Distributed Space Time Block Codes
 ----
 Z. A. Khan
 --
-“Single Symbol Maximum Likelihood
 Decodable Linear STBCs
 ----
 K. P. Srinath
@@ -38,7 +35,6 @@ L. P. Natarajan
 ----
 E. Viterbo
 --
-“A Universal Lattice Code Decoder for
 Fading Channels
 ----
 K. P. Srinath
@@ -53,7 +49,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569559665
 xmlsession -> S16.T3: MIMO coding
 xmldate -> 1341567000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559665.txt
+file -> PapersDataset\1569559665.txt
 xmlstarttime -> 11:30
 xmlauthors -> Lakshmi Prasad Natarajan, Pavan K. Srinath, B. Sundar Rajan
 xmlroom -> Stratton S. de P. Rico (202)

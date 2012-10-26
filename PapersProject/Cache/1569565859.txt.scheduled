@@ -15,23 +15,18 @@ Not saved
 [[[ REFS ]]]
 J. K¨ rner
 --
-“How to encode the modulo-two sum of binary
-o
 sources
 ----
 R. Soundararajan
 --
-“Communicating Linear Functions
 of Correlated Gaussian Sources Over a MAC”
 ----
 S. S. Pradhan
 --
-“Distributed source coding using
 syndromes (DISCUS): design and construction
 ----
 N. Gehrig
 --
-“Symmetric and a-symmetric Slepian-Wolf
 codes with systematic and non-systematic linear codes
 [[[ META ]]]
 xmlpapertitle -> Transmission of non-linear binary input functions over a CDMA System
@@ -42,7 +37,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569565859
 xmlsession -> S8.T6: New Sequence Constructions
 xmldate -> 1341326400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565859.txt
+file -> PapersDataset\1569565859.txt
 xmlstarttime -> 16:40
 xmlauthors -> Elaheh Mohammadi, Amin Aminzadeh Gohari, Hassan Aghaeinia
 xmlroom -> Kresge Rehearsal A (033)

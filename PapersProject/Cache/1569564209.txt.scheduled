@@ -12,10 +12,10 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-L. Calabi
-W.E. Hartnett. Some general results of coding theory with
-applications to the study of codes for the correction of synchronization
 errors. Information
+applications to the study of codes for the correction of synchronization
+W.E. Hartnett. Some general results of coding theory with
+L. Calabi
 --
 15(3):235 – 249
 ----
@@ -25,7 +25,6 @@ D. S. Hirschberg
 ----
 Y. Liron
 --
-available
 on arXiv
 ----
 M. Mitzenmacher. A survey of results for deletion channels
@@ -40,7 +39,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569564209
 xmlsession -> S3.T7: Deletion Channels
 xmldate -> 1341232800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564209.txt
+file -> PapersDataset\1569564209.txt
 xmlstarttime -> 14:40
 xmlauthors -> Yuvalal Liron, Michael Langberg
 xmlroom -> Stratton (407)

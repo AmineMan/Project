@@ -12,11 +12,11 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-D. Eppstein
-M. T. Goodrich. Straggler identiﬁcation in round-trip
-data streams via Newton’s identities
-invertible Bloom ﬁlters. IEEE
 Trans. on Knowledge
+invertible Bloom ﬁlters. IEEE
+data streams via Newton’s identities
+M. T. Goodrich. Straggler identiﬁcation in round-trip
+D. Eppstein
 --
 23(2):297-306
 ----
@@ -54,7 +54,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569564291
 xmlsession -> S3.T6: Codes and Their Applications
 xmldate -> 1341234000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564291.txt
+file -> PapersDataset\1569564291.txt
 xmlstarttime -> 15:00
 xmlauthors -> Michael Mitzenmacher, George Varghese
 xmlroom -> Kresge Rehearsal A (033)

@@ -22,22 +22,18 @@ Elements of information theory
 ----
 L. Wang
 --
-“On the capacity of the noncausal relay
 channel
 ----
 H. Chang
 --
-“Capacity of strong and very strong Gaussian
 interference relay-without-delay channels
 ----
 I.-J. Baik
 --
-“Causal relay networks and new cut-set
 bounds
 ----
 B. Smith
 --
-“Unicast transmission over multiple access
 erasure networks: Capacity and duality
 [[[ META ]]]
 xmlpapertitle -> Causal relay networks with causal side information
@@ -48,7 +44,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569564769
 xmlsession -> S8.T2: Relay Strategies for Network Communications
 xmldate -> 1341327600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564769.txt
+file -> PapersDataset\1569564769.txt
 xmlstarttime -> 17:00
 xmlauthors -> Ihn-Jung Baik, Sae-Young Chung
 xmlroom -> Kresge Auditorium (109)

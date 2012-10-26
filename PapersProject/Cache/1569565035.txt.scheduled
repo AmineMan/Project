@@ -13,12 +13,10 @@ Not saved
 [[[ REFS ]]]
 D. Declercq
 --
-“Extended min-sum algorithm for
 decoding LDPC codes over GF(q)
 ----
 D. Declercq
 --
-“Decoding algorithms for nonbinary
 LDPC codes over GF(q)
 [[[ META ]]]
 xmlpapertitle -> Fourier domain representation of non-binary LDPC codes
@@ -29,7 +27,7 @@ xmlendtime -> 18:00
 xmlpaperid -> 1569565035
 xmlsession -> S14.T5: New Constructions of LDPC Codes
 xmldate -> 1341502800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565035.txt
+file -> PapersDataset\1569565035.txt
 xmlstarttime -> 17:40
 xmlauthors -> Valentin Savin
 xmlroom -> Kresge Little Theatre (035)

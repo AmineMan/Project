@@ -14,23 +14,18 @@ Not saved
 [[[ REFS ]]]
 T. M. Cover
 --
-“Capacity theorems for the relay
 channel
 ----
 O. Sahin
 --
-“Achievable rates for the Gaussian interference
 relay channel
 ----
 Y. Tian
 --
-“The Gaussian interference relay channel:
-improved achievable rates and sum rate upper bounds using a potent
 relay
 ----
 V. R. Cadambe
 --
-“Degrees of freedom of wireless
 networks with relays
 ----
 T. Cover
@@ -39,7 +34,6 @@ Elements of information theory
 ----
 A. Chaaban
 --
-“Achievable rates and upper bounds for
 the interference relay channel
 ----
 B. Nazer
@@ -48,12 +42,10 @@ B. Nazer
 ----
 U. Erez
 --
-“Achieving 1/2 log(1 + SNR) on the AWGN
 channel with lattice encoding and decoding
 ----
 V. M. Prabhakaran
 --
-“Interference channels with source
 cooperation
 [[[ META ]]]
 xmlpapertitle -> Lattice Coding and the Generalized Degrees of Freedom of the Interference Channel with Relay
@@ -64,7 +56,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566129
 xmlsession -> S9.T2: Relaying over Interference Networks
 xmldate -> 1341389400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566129.txt
+file -> PapersDataset\1569566129.txt
 xmlstarttime -> 10:10
 xmlauthors -> Anas Chaaban, Aydin Sezgin
 xmlroom -> Kresge Auditorium (109)

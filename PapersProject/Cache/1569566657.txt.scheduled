@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 A.R. Barron
 --
-“Toward fast reliable communication at
 rates near capacity with Gaussian noise
 ----
 A.R. Barron
 --
-“Sparse superposition codes: Fast and
 reliable at rates approaching capacity with Gaussian noise
 ----
 A.R. Barron
@@ -28,7 +26,6 @@ St
 ----
 M. Bayati
 --
-“The dynamics of message passing on
 dense graphs
 ----
 M. Bayati
@@ -37,7 +34,6 @@ M. Bayati
 ----
 A. Joseph
 --
-“Least squares superposition codes of
 moderate dictionary size are reliable at rates up to capacity
 [[[ META ]]]
 xmlpapertitle -> High-Rate Sparse Superposition Codes with Iteratively Optimal Estimates
@@ -48,7 +44,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569566657
 xmlsession -> S1.T7: Gaussian Channels
 xmldate -> 1341215400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566657.txt
+file -> PapersDataset\1569566657.txt
 xmlstarttime -> 09:50
 xmlauthors -> Andrew R Barron, Sanghee Cho
 xmlroom -> Stratton (407)

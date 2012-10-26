@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 C. Suh
 --
-“Exact-Repair MDS Code Construction
 Using Interference Alignment
 ----
 C. Suh
 --
-“On the existence of optimal exact-repair
 MDS codes for distributed storage
 [[[ META ]]]
 xmlpapertitle -> Long MDS Codes for Optimal Repair Bandwidth
@@ -31,7 +29,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569564857
 xmlsession -> S7.T5: Regenerating Codes
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564857.txt
+file -> PapersDataset\1569564857.txt
 xmlstarttime -> 14:40
 xmlauthors -> Zhiying Wang, Itzhak Tamo, Jehoshua Bruck
 xmlroom -> Kresge Little Theatre (035)

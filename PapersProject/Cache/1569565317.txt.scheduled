@@ -18,13 +18,10 @@ A. Fiat
 ----
 F. Fu
 --
-“On the capacity of generalized write once
-memory with state transitions described by an arbitrary directed acyclic
 graph
 ----
 R. Gabrys
 --
-“Characterizing capacity achieving write once
 memory codes for multilevel ﬂash memories
 ----
 R. L. Rivest
@@ -37,7 +34,6 @@ Algebra and Tiling
 ----
 Y. Wu
 --
-“Position modulation code for rewriting write-once
 memories
 [[[ META ]]]
 xmlpapertitle -> Short Q-ary WOM Codes with Hot/Cold Write Differentiation
@@ -48,7 +44,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569565317
 xmlsession -> S8.T5: WOM Codes
 xmldate -> 1341328800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565317.txt
+file -> PapersDataset\1569565317.txt
 xmlstarttime -> 17:20
 xmlauthors -> Yuval Cassuto, Eitan Yaakobi
 xmlroom -> Kresge Little Theatre (035)

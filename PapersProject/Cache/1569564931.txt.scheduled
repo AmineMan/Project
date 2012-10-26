@@ -19,7 +19,6 @@ F. Willems
 ----
 H. H. Permuter
 --
-“Multiple access channel with partial and
 controlled cribbing encoders
 ----
 P. Cuff
@@ -30,10 +29,10 @@ W. Equitz
 --
 “Successive reﬁnement of information
 ----
-The duality principles between source coding
-channel
-coding with cribbing appear in Table II. From ﬁrst glimpse at
 the regions of MAC with common message
+coding with cribbing appear in Table II. From ﬁrst glimpse at
+channel
+The duality principles between source coding
 --
 they do not look dual
 [[[ META ]]]
@@ -45,7 +44,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569564931
 xmlsession -> S8.T4: Multiple Description Coding
 xmldate -> 1341327600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564931.txt
+file -> PapersDataset\1569564931.txt
 xmlstarttime -> 17:00
 xmlauthors -> Himanshu Asnani, Haim H Permuter, Tsachy Weissman
 xmlroom -> Stratton 20 Chimneys (306)

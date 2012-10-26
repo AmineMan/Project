@@ -19,24 +19,21 @@ T. Ho
 ----
 D. Zhang
 --
-“Resource allocation for multicast in
 an OFDMA network with random network coding
 ----
 D. Zhang
 --
-“Analyzing random network coding with
 differential equations and differential inclusions
 ----
-“Propagation data
-prediction methods for the planning of indoor radio
 communication systems
+prediction methods for the planning of indoor radio
+“Propagation data
 --
 2001
 ----
-In this article we presented a new resource allocation
 algorithm speciﬁcally designed for RNC
+In this article we presented a new resource allocation
 --
-the
 algorithm evolves by introducing a gradient based state feedback
 [[[ META ]]]
 xmlpapertitle -> Network Coding Aware Resource Allocation to Improve Throughput
@@ -47,7 +44,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569565535
 xmlsession -> S8.T1: Network Coding:  Code Design and Resource Allocation
 xmldate -> 1341328800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565535.txt
+file -> PapersDataset\1569565535.txt
 xmlstarttime -> 17:20
 xmlauthors -> Dan Zhang, Kai Su, Narayan Mandayam
 xmlroom -> Kresge Rehearsal B (030)

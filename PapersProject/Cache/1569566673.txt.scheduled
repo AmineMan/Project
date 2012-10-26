@@ -19,34 +19,25 @@ R. Gray
 ----
 R. Ahlswede
 --
-“On common information and related
 characteristics of correlated information sources”
 ----
 S. Kamath
 --
-“A new dual to the Gács - Körner
 common information deﬁned via the Gray-Wyner system
 ----
-Proof: The proof follows in very similar lines to the proof
-of Theorem 1. The original Gray-Wyner’s characterization is
-in fact sufﬁcient in this case. Again we ﬁrst assume that there
-˜
-˜
-are unique channels P (X|X)
-P (Y |Y ) which achieve
 RX (D1 )
+P (Y |Y ) which achieve
+are unique channels P (X|X)
+˜
+˜
+in fact sufﬁcient in this case. Again we ﬁrst assume that there
+of Theorem 1. The original Gray-Wyner’s characterization is
+Proof: The proof follows in very similar lines to the proof
 --
-D2 ) which lie on both the planes R0 + R1 =
 RX (D1 ) and R0 + R2 = RY (D2 )
 ----
 Writing similar inequality relations for Y
 --
-it follows that for all
-X
-˜
-joint densities satisfying (28) and for which P (X|X) ∈ PD1
-Y
-˜
 and P (Y |Y ) ∈ PD2 
 [[[ META ]]]
 xmlpapertitle -> Lossy Common Information of Two Dependent Random Variables
@@ -57,7 +48,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569566673
 xmlsession -> S3.T8: Directed Information, Common Information, and Divergence
 xmldate -> 1341235200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566673.txt
+file -> PapersDataset\1569566673.txt
 xmlstarttime -> 15:20
 xmlauthors -> Kumar Viswanatha, Emrah Akyol, Kenneth Rose
 xmlroom -> Stratton (491)

@@ -14,8 +14,6 @@ Not saved
 [[[ REFS ]]]
 S. Shamai (Shitz)
 --
-“The empirical distiribution of good
-u
 codes
 ----
 R. Bustin
@@ -24,32 +22,27 @@ R. Bustin
 ----
 T. S. Han
 --
-“A new achievable rate region for
 the interference channel
 ----
 B. Bandemer
 --
-“Communication with disurbance
 constraints
 ----
 R. Bustin
 --
-“On Gaussian channels with MMSE
 interference
 ----
 D. P. Palomar
 --
-“Gradient of mutual information in linear
-u
 vector Gaussian channels
 ----
 T. M. Cover
 --
 Elements in Information Theory
 ----
-IV. D ISCUSSION AND C ONCLUSIONS
-The model presented here is not an interference channel,
 but rather a model with a single transmitter
+The model presented here is not an interference channel,
+IV. D ISCUSSION AND C ONCLUSIONS
 --
 in general
 [[[ META ]]]
@@ -61,7 +54,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569565669
 xmlsession -> S1.T7: Gaussian Channels
 xmldate -> 1341216600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565669.txt
+file -> PapersDataset\1569565669.txt
 xmlstarttime -> 10:10
 xmlauthors -> Ronit Bustin, Shlomo (Shitz) Shamai
 xmlroom -> Stratton (407)

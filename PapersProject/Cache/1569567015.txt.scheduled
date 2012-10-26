@@ -19,24 +19,21 @@ Dep
 ----
 S. Shamai (Shitz)
 --
-“The capacity of average and
 peak-power limited quadrature Gaussian channel
 ----
 J. Singh,O. Dabeer
 --
-”On the limits of communication
 with low-precision analog-to-digital conversion at the receiver
 ----
-where equality holds if x belongs to the points of increase of
 F ∗
+where equality holds if x belongs to the points of increase of
 --
 A]
 ----
-and the capacity-achieving input distribution is unique and
-discrete with a ﬁnite number of mass points.
 Proof: Based on Lemmas 6
+discrete with a ﬁnite number of mass points.
+and the capacity-achieving input distribution is unique and
 --
-(43)
 is immediate
 [[[ META ]]]
 xmlpapertitle -> On The Sum-Capacity of Gaussian MAC With Peak Constraint
@@ -47,7 +44,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569567015
 xmlsession -> S1.T2: Multiple Access Codes
 xmldate -> 1341216600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569567015.txt
+file -> PapersDataset\1569567015.txt
 xmlstarttime -> 10:10
 xmlauthors -> Babak Mamandipoor, Kamyar Moshksar, Amir K. Khandani
 xmlroom -> Kresge Auditorium (109)

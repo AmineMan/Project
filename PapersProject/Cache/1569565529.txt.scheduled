@@ -56,7 +56,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569565529
 xmlsession -> S7.T7: Approximate Belief Propagation
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565529.txt
+file -> PapersDataset\1569565529.txt
 xmlstarttime -> 14:40
 xmlauthors -> David Donoho, Adel Javanmard, Andrea Montanari
 xmlroom -> Stratton (407)

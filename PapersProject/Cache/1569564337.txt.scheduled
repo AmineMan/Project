@@ -20,27 +20,22 @@ X. Mei
 ----
 M. Asif
 --
-“Dynamic updating for sparse time varying
 signals
 ----
 P. Garrigues
 --
-“An homotopy algorithm for the lasso
 with online observations
 ----
 M. Asif
 --
-“Sparse signal recovery and dynamic update
 of the underdetermined system
 ----
 T. A. Davis
 --
-“Row modiﬁcations of a sparse cholesky
 factorization
 ----
 D. Donoho
 --
-“Fast solution of l1-norm minimization
 problems when the solution may be sparse
 [[[ META ]]]
 xmlpapertitle -> WarmL1: A Warm-start Homotopy-based Reconstruction Algorithm for Sparse Signals
@@ -51,7 +46,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569564337
 xmlsession -> S12.T9: L1-Regularized Least Squares and Sparsity
 xmldate -> 1341484200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564337.txt
+file -> PapersDataset\1569564337.txt
 xmlstarttime -> 12:30
 xmlauthors -> Tien-Ju Yang, Yi-Min Tsai, Chung-Te Li, Liang-Gee Chen
 xmlroom -> Stratton West Lounge (201)

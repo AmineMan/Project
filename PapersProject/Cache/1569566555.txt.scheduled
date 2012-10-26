@@ -13,15 +13,10 @@ Not saved
 [[[ REFS ]]]
 R. Ahlswede
 --
-“Common randomness in information theory
-a
 and cryptography–part i: Secret sharing
 ----
 I. Csisz´ r
 --
-Information theory: Coding Theorems for
-a
-o
 Discrete Memoryless Channels
 ----
 I. Csisz´ r
@@ -30,8 +25,6 @@ I. Csisz´ r
 ----
 I. Csisz´ r
 --
-“Secrecy capacities for multiterminal channel
-a
 models
 ----
 M. Madiman
@@ -46,7 +39,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569566555
 xmlsession -> S7.T4: Secrecy in Computation and Communication
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566555.txt
+file -> PapersDataset\1569566555.txt
 xmlstarttime -> 14:40
 xmlauthors -> Himanshu Tyagi
 xmlroom -> Stratton 20 Chimneys (306)

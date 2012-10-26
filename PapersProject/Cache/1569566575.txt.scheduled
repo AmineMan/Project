@@ -15,19 +15,16 @@ Not saved
 [[[ REFS ]]]
 Y. Birk
 --
-“Informed-source coding-on-demand (ISCOD) over
 broadcast channels
 ----
 Y. Birk
 --
-“Coding on demand by an informed source (ISCOD)
 for efﬁcient broadcast of different supplemental data to caching clients
 ----
-Z. Bar-Yossef
-Y. Birk
 T. S. Jayram
+Y. Birk
+Z. Bar-Yossef
 --
-“Index Coding
 With Side Information
 ----
 I. Haviv
@@ -36,18 +33,15 @@ I. Haviv
 ----
 Y. Berliner
 --
-“Index coding with outerplanar side
 information
 ----
-R. Dougherty
 C. Freiling
+R. Dougherty
 --
-“Insufﬁciency of linear
 coding in network information ﬂow 
 ----
 V. Cadambe
 --
-“Interference alignment and the degrees of
 freedom of the K user interference channel
 [[[ META ]]]
 xmlpapertitle -> Index Coding: An Interference Alignment Perspective
@@ -58,7 +52,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569566575
 xmlsession -> S13.T1: Index Coding
 xmldate -> 1341493200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566575.txt
+file -> PapersDataset\1569566575.txt
 xmlstarttime -> 15:00
 xmlauthors -> Hamed Maleki, Viveck Cadambe, Syed Ali Jafar
 xmlroom -> Kresge Rehearsal B (030)

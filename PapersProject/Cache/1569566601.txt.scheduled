@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 R. Cogill
 --
-“Delay bounds for random linear coding in
 multihop relay networks
 ----
 A. H. Mohsenian-Rad
@@ -27,7 +26,6 @@ Network Coding: An Introduction
 ----
 M. Chiani
 --
-“Improved exponential bounds and approximation for the Q-function with application to average error probability
 computation
 [[[ META ]]]
 xmlpapertitle -> On Decoding Delay of Intra-session Random Linear Network Coding for Line Networks
@@ -38,7 +36,7 @@ xmlendtime -> 18:00
 xmlpaperid -> 1569566601
 xmlsession -> S14.T1: Network Erasure Correction
 xmldate -> 1341502800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566601.txt
+file -> PapersDataset\1569566601.txt
 xmlstarttime -> 17:40
 xmlauthors -> Vahid Shah-Mansouri, Vincent W.S. Wong
 xmlroom -> Kresge Rehearsal B (030)

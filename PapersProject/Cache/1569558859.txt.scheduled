@@ -17,7 +17,6 @@ Not saved
 [[[ REFS ]]]
 P. Chaichanavong
 --
-“A tensor-product parity code for
 magnetic recording
 ----
 P. Chaichanavong
@@ -34,7 +33,6 @@ H. Imai
 ----
 Y. Maeda
 --
-“Error control coding for multilevel cell
 ﬂash memories using nonbinary low-density parity-check codes
 [[[ META ]]]
 xmlpapertitle -> Tackling Intracell Variability in TLC Flash Through Tensor Product Codes
@@ -45,7 +43,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569558859
 xmlsession -> S6.T5: Coding for Flash Memories
 xmldate -> 1341310200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569558859.txt
+file -> PapersDataset\1569558859.txt
 xmlstarttime -> 12:10
 xmlauthors -> Ryan Gabrys, Eitan Yaakobi, Laura M Grupp, Steven Swanson, Lara Dolecek
 xmlroom -> Kresge Little Theatre (035)

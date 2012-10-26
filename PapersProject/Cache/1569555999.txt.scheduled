@@ -16,20 +16,14 @@ Not saved
 [[[ REFS ]]]
 H. Saeedi
 --
-“Systematic Design of LDPC Codes
-Example 5 (Code design using GEXIT chart for Dv =20
 over Binary Erasure Channels
 ----
 Oswald
 --
-“Capacity-achieving sequences for the era7
-8
-9
 sure channel
 ----
 H. Mamani
 --
-“Generalized EXIT Charts for Irregular
 VI
 [[[ META ]]]
 xmlpapertitle -> On Generalized EXIT Charts of LDPC Code Ensembles over Binary-Input Output-Symmetric Memoryless Channels
@@ -40,7 +34,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569555999
 xmlsession -> S13.T5: Analysis of LDPC Codes
 xmldate -> 1341493200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569555999.txt
+file -> PapersDataset\1569555999.txt
 xmlstarttime -> 15:00
 xmlauthors -> Hosein Mamani, Hamid Saeedi, Ali Eslami, Hossein Pishro-Nik
 xmlroom -> Kresge Little Theatre (035)

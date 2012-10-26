@@ -13,7 +13,6 @@ Not saved
 [[[ REFS ]]]
 R. Ahlswede
 --
-“Source coding with side information and
 a converse for degraded broadcast channels
 ----
 N. Merhav
@@ -22,17 +21,14 @@ N. Merhav
 ----
 I. Csiszar
 --
-Information Theory: Coding Theorems for
 Discrete Memoryless Systems
 ----
 J. Korner
 --
-“How to encode the modulo-two sum of binary
 sources (corresp
 ----
 T. A. Courtade
 --
-“Multiterminal source coding under
 logarithmic loss
 [[[ META ]]]
 xmlpapertitle -> Information Masking and Amplification: The Source Coding Setting
@@ -45,7 +41,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569553519
 xmlsession -> S2.T1: Network Source Coding with Side Information
 xmldate -> 1341225000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569553519.txt
+file -> PapersDataset\1569553519.txt
 xmlstarttime -> 12:30
 xmlauthors -> Thomas Courtade
 xmlroom -> Kresge Rehearsal B (030)

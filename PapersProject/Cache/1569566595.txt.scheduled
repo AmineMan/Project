@@ -24,22 +24,18 @@ Elements of Info
 ----
 N. Santhanam
 --
-“Information-theoretic limits of
 selecting binary graphical models in high dimensions
 ----
 I. Mitliagkas
 --
-“Strong information-theoretic limits for
 source/model recovery
 ----
 D. Vats
 --
-“Necessary conditions for consistent set-based
 graphical model selection
 ----
 A. Montanari
 --
-“Which graphical models are difﬁcult
 to learn?
 ----
 L. Reichl
@@ -48,7 +44,6 @@ L. Reichl
 ----
 S. Geman
 --
-“Markov random ﬁeld image models and
 their applications to computer vision
 [[[ META ]]]
 xmlpapertitle -> Learning Markov Graphs Up To Edit Distance
@@ -59,7 +54,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566595
 xmlsession -> S15.T8: Tree Learning
 xmldate -> 1341563400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566595.txt
+file -> PapersDataset\1569566595.txt
 xmlstarttime -> 10:30
 xmlauthors -> Abhik K Das, Praneeth Netrapalli, Sujay Sanghavi, Sriram Vishwanath
 xmlroom -> Stratton (491)

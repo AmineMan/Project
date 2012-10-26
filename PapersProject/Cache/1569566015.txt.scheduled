@@ -25,12 +25,10 @@ E. Gilbert
 ----
 C. Fragouli
 --
-“Information ﬂow decomposition for network
 coding
 ----
 Lemma. (C. Fragouli
 --
-each coding subtree
 contains at least two receivers and each source subtree contains at least one receiver
 [[[ META ]]]
 xmlpapertitle -> Min-Cost Multicast Networks in Euclidean Space
@@ -41,7 +39,7 @@ xmlendtime -> 18:00
 xmlpaperid -> 1569566015
 xmlsession -> S8.T1: Network Coding:  Code Design and Resource Allocation
 xmldate -> 1341330000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566015.txt
+file -> PapersDataset\1569566015.txt
 xmlstarttime -> 17:40
 xmlauthors -> Xunrui Yin, Yan Wang, Xin Wang, Xiangyang Xue, Zongpeng Li
 xmlroom -> Kresge Rehearsal B (030)

@@ -13,31 +13,26 @@ Not saved
 [[[ REFS ]]]
 A. Sahai
 --
-“The necessity and sufﬁciency of anytime
-capacity for stabilization of a linear system over a noisy communication
 link; part I: Scalar systems
 ----
 C. Chang
 --
-“Error exponent for joint source-channel coding
 with delay-constraints
 ----
 C. Chang
 --
-“Sequential random coding error exponents for
 degraded broadcast channels
 ----
 H. Palaiyanur
 --
-“Sequential decoding for lossless streaming
 source coding with side information
 ----
 K. D. Nguyen
 --
 “Delay-universal decode-andforward relaying
 ----
-Fig. 4. Delay-exponent vs. R over a non-symmetric relaying networks:
 BSC Wy|x
+Fig. 4. Delay-exponent vs. R over a non-symmetric relaying networks:
 --
 y = 0
 [[[ META ]]]
@@ -49,7 +44,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569565865
 xmlsession -> S16.T4: Delay and Deadline Constrained Communication
 xmldate -> 1341570600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565865.txt
+file -> PapersDataset\1569565865.txt
 xmlstarttime -> 12:30
 xmlauthors -> Khoa D. Nguyen
 xmlroom -> Stratton 20 Chimneys (306)

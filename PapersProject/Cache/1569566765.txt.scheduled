@@ -14,33 +14,26 @@ Not saved
 [[[ REFS ]]]
 R. Schreier
 --
-“Understanding Delta-Sigma Data
 Converters
 ----
 A. Mezghani
 --
-“On Ultra-Wideband MIMO Systems
 with 1-bit Quantized Outputs: Performance Analysis and Input Optimization
 ----
 J. A. Nossek
 --
-“Capacity and coding for quantized
-c
 MIMO systems
 ----
 A. Mezghani
 --
-“Analysis of 1-bit Output Noncoherent
 Fading Channels in the Low SNR Regime
 ----
 T. Koch
 --
-“Asymmetric Quantizers are Better At Low
 SNR
 ----
 T. Koch
 --
-“Increased Capacity per Unit-Cost by
 Oversampling
 [[[ META ]]]
 xmlpapertitle -> Capacity Lower Bound of MIMO Channels with Output Quantization and Correlated Noise
@@ -51,7 +44,7 @@ xmlendtime -> 13:10
 xmlpaperid -> 1569566765
 xmlsession -> S10.T3: MIMO Capacity
 xmldate -> 1341399000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566765.txt
+file -> PapersDataset\1569566765.txt
 xmlstarttime -> 12:50
 xmlauthors -> Amine Mezghani, Josef A. Nossek
 xmlroom -> Stratton S. de P. Rico (202)

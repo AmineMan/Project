@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 X. Chen
 --
-“Zero-delay joint source-channel coding for
 the Gaussian Wyner-Ziv problem
 ----
 M. Kleiner
 --
-“A tight bound on the performance
 of a minimal-delay joint source-channel coding scheme
 ----
 J. Karlsson
@@ -36,12 +34,10 @@ K.H. Lee
 ----
 J. Ostergaard
 --
-“Incremental reﬁnement using a Gaussian
 test channel
 ----
 AW Marshall
 --
-Inequalities: Theory of Majorization and Its
 Applications 
 ----
 R.A. Horn
@@ -56,7 +52,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569566619
 xmlsession -> S9.T4: Joint Source-Channel Codes
 xmldate -> 1341388200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566619.txt
+file -> PapersDataset\1569566619.txt
 xmlstarttime -> 09:50
 xmlauthors -> Emrah Akyol, Kenneth Rose
 xmlroom -> Stratton 20 Chimneys (306)

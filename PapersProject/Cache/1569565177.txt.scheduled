@@ -16,7 +16,6 @@ Not saved
 [[[ REFS ]]]
 D. J. C. MacKay
 --
-“Weaknesses of Margulis and
 Ramanujan-Margulis low-density parity-check codes
 ----
 N. Kashyap
@@ -25,26 +24,21 @@ N. Kashyap
 ----
 S. L¨ ndner
 --
-“Algorithmic and combinatorial analysis
-a
 of trapping sets in structured LDPC codes
 ----
 S. Lin
 --
 Jr
 ----
-From (8)
 (10)
+From (8)
 --
-we obtain
-b
-
 
 ----
-This gives a lower bound on the number of CNs of degree one
-in a trapping set of size κ. We notice that this lower bound
-agrees with the lower bound in (7) whenever κl ≤ 2 for all
 1 ≤ l ≤ b
+agrees with the lower bound in (7) whenever κl ≤ 2 for all
+in a trapping set of size κ. We notice that this lower bound
+This gives a lower bound on the number of CNs of degree one
 --
 κ2 
 [[[ META ]]]
@@ -56,7 +50,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569565177
 xmlsession -> S17.T5: Cyclic and Quasicyclic LDPC Codes
 xmldate -> 1341583200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565177.txt
+file -> PapersDataset\1569565177.txt
 xmlstarttime -> 16:00
 xmlauthors -> Qiuju Diao, Ying Y. Tai, Shu Lin, Khaled Abdel-Ghaffar
 xmlroom -> Kresge Little Theatre (035)

@@ -19,23 +19,21 @@ M. J. Weinberger
 ----
 N. Merhav
 --
-“On Limited-Delay Lossy Coding and
 Filtering of Individual Sequences
 ----
 R. E. Krichevskii
 --
-“The performance of universal
 encoding
 ----
-where 1(xt−1 = 1) (resp. 1(xt−1 = 0)) is 1 (resp. 0) if
-xt−1 is all 1’s (resp. 0’s)
-0 otherwise. Notice that (13)
-corresponds to Laplace’s estimator while (14) corresponds to
-the conditional probability distribution induced by an equal
-mixture of the Laplace probability assignment (corresponding
-to the Dirichlet-1 mixture of product distributions)
-the
 respective deterministic distributions of all 1’s
+the
+to the Dirichlet-1 mixture of product distributions)
+mixture of the Laplace probability assignment (corresponding
+the conditional probability distribution induced by an equal
+corresponds to Laplace’s estimator while (14) corresponds to
+0 otherwise. Notice that (13)
+xt−1 is all 1’s (resp. 0’s)
+where 1(xt−1 = 1) (resp. 1(xt−1 = 0)) is 1 (resp. 0) if
 --
 1
 [[[ META ]]]
@@ -47,7 +45,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566579
 xmlsession -> S5.T8: Prediction and Estimation
 xmldate -> 1341303000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566579.txt
+file -> PapersDataset\1569566579.txt
 xmlstarttime -> 10:10
 xmlauthors -> Erik  Ordentlich, Marcelo Weinberger, Yihong Wu
 xmlroom -> Stratton (491)

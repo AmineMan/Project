@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 R. J. La
 --
-“A game-theoretic look at the Gaussian
 multiple access channel
 ----
 L. Lai
@@ -28,12 +27,10 @@ F. Facchinei
 ----
 Y. Su
 --
-“A simple characterization of strategic
 behaviors in broadcast channels
 ----
 J. B. Crawczyk
 --
-“How to use Rosen’s normalized
 equilibrium to enforce a socially desirable pareto efﬁcient solution
 ----
 S. Boyd
@@ -42,13 +39,11 @@ Convex Optimization
 ----
 S. Furuichi
 --
-“Reﬁnements of the trace inequalities of
 Belmega
 ----
-Theorem 3. For a 2-user ADBC with dirty paper coding at
 the transmitter
+Theorem 3. For a 2-user ADBC with dirty paper coding at
 --
-a unique
 normalized equilibrium point exists for r1 ≥ r2 /4 > 0
 [[[ META ]]]
 xmlpapertitle -> A Game Theoretic Model for the Gaussian Broadcast Channel
@@ -59,7 +54,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569566751
 xmlsession -> S14.T4: Game Theory
 xmldate -> 1341500400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566751.txt
+file -> PapersDataset\1569566751.txt
 xmlstarttime -> 17:00
 xmlauthors -> Srinivas Yerramalli, Rahul Jain, Urbashi Mitra
 xmlroom -> Stratton 20 Chimneys (306)

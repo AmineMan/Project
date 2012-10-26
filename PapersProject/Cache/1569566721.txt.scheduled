@@ -22,7 +22,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566721
 xmlsession -> S9.T8: Portfolios and Estimation
 xmldate -> 1341389400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566721.txt
+file -> PapersDataset\1569566721.txt
 xmlstarttime -> 10:10
 xmlauthors -> Mariko Tsurusaki, Jun'ichi Takeuchi
 xmlroom -> Stratton (491)

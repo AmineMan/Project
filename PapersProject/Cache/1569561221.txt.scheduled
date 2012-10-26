@@ -14,22 +14,18 @@ Not saved
 [[[ REFS ]]]
 O. Ozel
 --
-“AWGN channel under time-varying amplitude
 constraints with causal information at the transmitter
 ----
 O. Ozel
 --
-“Capacity of the AWGN channel with a
 batteryless energy harvesting transmitter
 ----
 O. Ozel
 --
-“Information theoretic analysis of an energy
 harvesting communication system
 ----
 O. Ozel
 --
-“Achieving AWGN capacity under stochastic
 energy harvesting
 ----
 N. Mehrav
@@ -44,7 +40,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569561221
 xmlsession -> S8.T3: Energy Issues in Communication Systems
 xmldate -> 1341328800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569561221.txt
+file -> PapersDataset\1569561221.txt
 xmlstarttime -> 17:20
 xmlauthors -> Omur Ozel, Sennur Ulukus
 xmlroom -> Stratton S. de P. Rico (202)

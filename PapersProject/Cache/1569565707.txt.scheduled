@@ -22,22 +22,19 @@ Analytic Combinatorics
 ----
 S. Edwards
 --
-“The eigenvalue spectrum of a large symmetric
 random matrix
 ----
 J. Almeida
 --
-“Stability of the Sherrington-Kirkpatrick
 solution of a spin glass model
 ----
 F. Comets
 --
-“The Sherrington-Kirkpatrick model of spin
 glasses and stochastic calculus: The high temperature case
 ----
-(13)
-where 0
 x0 are any ﬁxed elements in X
+where 0
+(13)
 --
 respectively
 [[[ META ]]]
@@ -49,7 +46,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569565707
 xmlsession -> S9.T9: Compressive Sensing and Phase Transitions
 xmldate -> 1341391800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565707.txt
+file -> PapersDataset\1569565707.txt
 xmlstarttime -> 10:50
 xmlauthors -> Ryuhei Mori, Toshiyuki Tanaka
 xmlroom -> Stratton West Lounge (201)

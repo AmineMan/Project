@@ -14,11 +14,11 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-G. Biau
-L. Devroye. On the layered nearest neighbour estimate,
-the bagged nearest neighbour estimate
-the random forest method
 in regression
+the random forest method
+the bagged nearest neighbour estimate
+L. Devroye. On the layered nearest neighbour estimate,
+G. Biau
 --
 2010
 ----
@@ -30,14 +30,13 @@ L. Devroye
 --
 82:88–110
 ----
-E |rn (x) − r(x)|p → 0 as n → ∞.
 Theorem 2.1
+E |rn (x) − r(x)|p → 0 as n → ∞.
 --
 that Y is bounded
 ----
 [8] E. Fix
 --
-Project
 Number 21-49-004
 ----
 E. Fix
@@ -56,9 +55,9 @@ L. Gordon
 --
 1980
 ----
-M. Hallin
-D. Paindaveine. Optimal tests for multivariate location
 based on interdirections
+D. Paindaveine. Optimal tests for multivariate location
+M. Hallin
 --
 30:1103–1133
 ----
@@ -66,24 +65,23 @@ J. Marcinkiewicz
 --
 29:60–90
 ----
-H. Oja. Afﬁne invariant multivariate sign
 rank tests
+H. Oja. Afﬁne invariant multivariate sign
 --
 26:319–343
 ----
-H. Oja
-D. Paindaveine. Optimal signed-rank tests based on
 hyperplanes. Journal of Statistical Planning
+D. Paindaveine. Optimal signed-rank tests based on
+H. Oja
 --
-135:300–
 323
 ----
 C. Quesenberry
 --
 39:664–673
 ----
-R.L. Wheeden
 A. Zygmund. Measure
+R.L. Wheeden
 --
 New York
 [[[ META ]]]
@@ -95,7 +93,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569566845
 xmlsession -> S8.T8: Estimation and Detection
 xmldate -> 1341326400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566845.txt
+file -> PapersDataset\1569566845.txt
 xmlstarttime -> 16:40
 xmlauthors -> Gerard Biau, Luc Devroye, Vida Dujmović, Adam Krzyżak
 xmlroom -> Stratton (491)

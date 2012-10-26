@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 L. Tassiulas
 --
-“Dynamic scheduling for minimum
 delay in tandem and parallel constrained queueing models
 [[[ META ]]]
 xmlpapertitle -> Delay-Optimal Buffered Decode-and-Forward for Two-hop Networks with Random Link Connectivity
@@ -26,7 +25,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569565097
 xmlsession -> S16.T4: Delay and Deadline Constrained Communication
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565097.txt
+file -> PapersDataset\1569565097.txt
 xmlstarttime -> 12:10
 xmlauthors -> Ying Cui, Vincent Lau, Edmund Yeh
 xmlroom -> Stratton 20 Chimneys (306)

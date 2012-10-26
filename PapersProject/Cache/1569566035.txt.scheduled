@@ -20,17 +20,14 @@ T. Cover
 ----
 A. Gamal
 --
-“The capacity of the semideterministic relay
 channel (corresp
 ----
 B. Rong
 --
-“Protocol-level cooperation in wireless
 networks: Stable throughput and delay analysis
 ----
 R. Rao
 --
-“On the stability of interacting queues in a
 multi-access system
 [[[ META ]]]
 xmlpapertitle -> Wireless Network-Level Partial Relay Cooperation
@@ -41,7 +38,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569566035
 xmlsession -> S7.T2: Relay Channels in Wireless Networks
 xmldate -> 1341321600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566035.txt
+file -> PapersDataset\1569566035.txt
 xmlstarttime -> 15:20
 xmlauthors -> Nikolaos Pappas, Jeongho Jeon, Anthony Ephremides, Apostolos Traganitis
 xmlroom -> Kresge Auditorium (109)

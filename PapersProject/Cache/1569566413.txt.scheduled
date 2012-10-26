@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 R. Ahlswede
 --
-“Bounds on algebraic code capacities for
 noisy channels
 ----
 G. Como
 --
-“The capacity of ﬁnite Abelian group codes
 over symmetric memoryless channels
 ----
 A. Hitron
 --
-“Optimality of linear codes over PAM
 for the modulo-additive Gaussian channel
 [[[ META ]]]
 xmlpapertitle -> Optimality of Linear Codes over PAM for the Modulo-Additive Gaussian Channel
@@ -35,7 +32,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566413
 xmlsession -> S10.T4: Coding with Lattices
 xmldate -> 1341397800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566413.txt
+file -> PapersDataset\1569566413.txt
 xmlstarttime -> 12:30
 xmlauthors -> Ayal Hitron, Uri Erez
 xmlroom -> Stratton 20 Chimneys (306)

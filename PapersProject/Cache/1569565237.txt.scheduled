@@ -18,7 +18,6 @@ G. Even
 ----
 T. Richardson
 --
-“The capacity of low-density parity-check
 codes under message-passing decoding
 ----
 J. Chen
@@ -35,12 +34,10 @@ Y. Weiss
 ----
 Y.-Y. Jian
 --
-“Convergence of weighted min-sum decoding
 via dynamic programming on coupled trees
 ----
 S. B. Korada
 --
-“Exchange of limits: Why iterative
 decoding works
 ----
 M. Sipser
@@ -49,7 +46,6 @@ M. Sipser
 ----
 A. Barg
 --
-“Error exponents of expander codes under lineare
 complexity decoding
 ----
 J. Feldman
@@ -62,7 +58,6 @@ Fig. 3. Growth of strong local-optimality
 ----
 We deal with terms (a)
 --
-it remains
 unchanged under trimming children of p from T 
 [[[ META ]]]
 xmlpapertitle -> Hierarchies of Local-Optimality Characterizations in Decoding Tanner Codes
@@ -73,7 +68,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569565237
 xmlsession -> S15.T5: Decoding Algorithms for Codes on Graphs
 xmldate -> 1341562200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565237.txt
+file -> PapersDataset\1569565237.txt
 xmlstarttime -> 10:10
 xmlauthors -> Nissim Halabi, Guy  Even
 xmlroom -> Kresge Little Theatre (035)

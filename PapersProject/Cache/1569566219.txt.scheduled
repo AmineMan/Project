@@ -19,22 +19,18 @@ S. Goel
 ----
 [6] X. Zhou
 --
-“Secure transmission with artiﬁcial noise over
 fading channels: Achievable rate and optimal power allocation
 ----
 A. Mukherjee
 --
-“Ensuring secrecy in MIMO wiretap
 channels with imperfect CSIT: A beamforming approach
 ----
 M. Bloch
 --
-“Information-spectrum methods for
 information-theoretic security
 ----
 R. Ahlswede
 --
-“Common randomness in information
 theory and cryptography
 [[[ META ]]]
 xmlpapertitle -> On the Ergodic Secret Message Capacity of the Wiretap Channel with Finite-Rate Feedback
@@ -45,7 +41,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569566219
 xmlsession -> S2.T4: Wiretap Channels with Feedback, Side Information, and Common Messaes
 xmldate -> 1341222600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566219.txt
+file -> PapersDataset\1569566219.txt
 xmlstarttime -> 11:50
 xmlauthors -> Zouheir Rezki, Ashish Khisti, Mohamed-Slim Alouini
 xmlroom -> Stratton 20 Chimneys (306)

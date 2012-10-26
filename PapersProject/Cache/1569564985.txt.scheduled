@@ -13,11 +13,10 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-C.H. Bennett
-G. Brassard. Quantum cryptography:
 public key distribution
+G. Brassard. Quantum cryptography:
+C.H. Bennett
 --
-Systems
 and Signal Processing
 ----
 S. Brierley
@@ -30,7 +29,6 @@ C. Carlet
 ----
 R.S. Coulter
 --
-Codes and
 Cryptography
 ----
 P. Dembowski
@@ -39,7 +37,6 @@ P. Dembowski
 ----
 C. Godsil
 --
-mutually
 unbiased bases
 ----
 A. Klappenecker
@@ -58,10 +55,10 @@ A. Roy
 --
 2007
 ----
-David Singmaster. Divisibility of binomial
-multinomial coefﬁcients by primes
-prime powers. In Verner
 E. Hoggatt Jr.
+prime powers. In Verner
+multinomial coefﬁcients by primes
+David Singmaster. Divisibility of binomial
 --
 editors
 ----
@@ -77,7 +74,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569564985
 xmlsession -> S6.T9: Tools for Quantum Information Theory
 xmldate -> 1341311400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564985.txt
+file -> PapersDataset\1569564985.txt
 xmlstarttime -> 12:30
 xmlauthors -> Joanne Hall, Asha Rao, Diane Donovan
 xmlroom -> Stratton West Lounge (201)

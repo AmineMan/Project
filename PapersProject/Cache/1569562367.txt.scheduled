@@ -12,25 +12,25 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-J. Bourgain
-L. Tzafriri. Invertibility of ‘large’ submatrices with
 applications to the geometry of banach spaces
+L. Tzafriri. Invertibility of ‘large’ submatrices with
+J. Bourgain
 --
 57(2):137–224
 ----
-A. Brieden. Geometric optimization problems likely not contained in
 APX. Discrete
+A. Brieden. Geometric optimization problems likely not contained in
 --
 28:201–209
 ----
-D. Donoho
-I. M. Johnstone. Minimax risk over p -balls for q -error.
 Probability Theory
+I. M. Johnstone. Minimax risk over p -balls for q -error.
+D. Donoho
 --
 99(2):277–303
 ----
-M. X. Goemans
 D. P. Williamson. Improved approximation algorithms for maximum cut
+M. X. Goemans
 --
 42(6):1115–1145
 ----
@@ -48,11 +48,10 @@ M. Meyer
 ----
 V. Milman. Spectrum of a position of a convex body
 --
-pages 151–
 162
 ----
-S. J. Szarek
 M. Talagrand. An isomorphic version of the SauerShelah lemma
+S. J. Szarek
 --
 Lecture Notes in Mathematics
 ----
@@ -70,7 +69,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569562367
 xmlsession -> S9.T8: Portfolios and Estimation
 xmldate -> 1341391800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569562367.txt
+file -> PapersDataset\1569562367.txt
 xmlstarttime -> 10:50
 xmlauthors -> Adel Javanmard, Li Zhang
 xmlroom -> Stratton (491)

@@ -12,8 +12,8 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-A. Broder. On the resemblance
 containment of documents. Compression
+A. Broder. On the resemblance
 --
 June 1997
 ----
@@ -27,7 +27,6 @@ Control
 ----
 A. Orlitsky
 --
-June
 2001
 ----
 Franco P. Preparata
@@ -50,7 +49,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569565319
 xmlsession -> S15.T9: Strings, Sorting, and Biology
 xmldate -> 1341563400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565319.txt
+file -> PapersDataset\1569565319.txt
 xmlstarttime -> 10:30
 xmlauthors -> Aryeh Kontorovich, Ari Trachtenberg
 xmlroom -> Stratton West Lounge (201)

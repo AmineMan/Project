@@ -17,33 +17,26 @@ Not saved
 [[[ REFS ]]]
 F. J. MacWilliams
 --
-The Theory of Error-Correcting
 Codes
 ----
 S. D. Constantin
 --
-“Concatenated group theoretic codes
 for binary asymmetric channels
 ----
 R. J. McEliece
 --
-“The Constantin-Rao construction
 for binary asymmetric error-correcting-codes
 ----
 R. R. Varshamov
 --
-“Correcting code for single
 asymmetric errors
 ----
 S. D. Constantin
 --
-“On the theory of binary asymmetric
 error correcting codes
 ----
 T. Etzion
 --
-“Greedy and heuristic algorithms for
-a
 codes and colorings
 [[[ META ]]]
 xmlpapertitle -> New Constructions of Codes for Asymmetric Channels via Concatenation
@@ -56,7 +49,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569565775
 xmlsession -> S5.T5: Coding for L1 Distance and Asymmetric Errors
 xmldate -> 1341304200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565775.txt
+file -> PapersDataset\1569565775.txt
 xmlstarttime -> 10:30
 xmlauthors -> Markus Grassl, Peter Shor, Graeme Smith, John Smolin, Bei Zeng
 xmlroom -> Kresge Little Theatre (035)

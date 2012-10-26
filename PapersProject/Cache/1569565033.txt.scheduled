@@ -15,42 +15,34 @@ Not saved
 [[[ REFS ]]]
 A. Lapidoth
 --
-“The multiple access channel with
 causal and strictly causal side information at the encoders
 ----
 A. Lapidoth
 --
-“The multiple access channel with
 two independent states each known causally at one encoder
 ----
 A. D. Wyner
 --
-“The rate-distortion function for source
 coding with side information at the decoder
 ----
 A. Lapidoth
 --
-“A note on multiple access
 channels with strictly causal state information
 ----
 G. Kramer
 --
-“On message lengths for noisy network
 coding
 ----
 X. Wu
 --
-“On the optimal compressions in the
 compress-and-forward relay schemes
 ----
 S. I. Gel’fand
 --
-“Coding for channel with random
 parameters
 ----
 T. M. Cover
 --
-“Capacity theorems for the relay
 channel
 [[[ META ]]]
 xmlpapertitle -> Wyner-Ziv Type Versus Noisy Network Coding For a State-Dependent MAC
@@ -61,7 +53,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569565033
 xmlsession -> S10.T2: Multiple Access Channels with Side Information
 xmldate -> 1341394200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565033.txt
+file -> PapersDataset\1569565033.txt
 xmlstarttime -> 11:30
 xmlauthors -> Abdellatif Zaidi, Pablo Piantanida, Shlomo (Shitz) Shamai
 xmlroom -> Kresge Auditorium (109)

@@ -14,13 +14,10 @@ Not saved
 [[[ REFS ]]]
 A. Heidarzadeh
 --
-“Network Codes with Overlapping
 Chunks over Line Networks: A Case for Linear-Time Codes
 ----
 A. Heidarzadeh
 --
-“How Fast Can Dense Codes
-Achieve the Min-Cut Capacity of Line Networks?” Submitted to IEEE
 ISIT’12
 ----
 N. Alon
@@ -39,7 +36,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569565185
 xmlsession -> S14.T1: Network Erasure Correction
 xmldate -> 1341501600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565185.txt
+file -> PapersDataset\1569565185.txt
 xmlstarttime -> 17:20
 xmlauthors -> Anoosheh Heidarzadeh, Amir Banihashemi
 xmlroom -> Kresge Rehearsal B (030)

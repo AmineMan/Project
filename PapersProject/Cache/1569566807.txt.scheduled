@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 M. Kodialam
 --
-“Detecting Network Intrusions via
 Sampling
 ----
 J. C. Wierman
 --
-“Modeling Computer Virus Prevalence
 with a Susceptible-Infected-Susceptible Model with Reintroduction
 ----
 C. H. Papadimitriou
 --
-“The Complexity of Optimal
 Queueing Network Control
 ----
 R. R. Weber
@@ -33,7 +30,6 @@ R. R. Weber
 ----
 R. R. Weber
 --
-“Addendum to ’On an Index Policy for Restless
 Bandits
 ----
 W. Lee
@@ -42,29 +38,24 @@ W. Lee
 ----
 K. D. Glazebrook
 --
-“An Index Policy for a Stochastic
 Scheduling Model with Improving/Deteriorating Jobs
 ----
-K. Liu
-Q. Zhao “A Restless Bandit Formulation of Opportunistic
 Access: Indexablity
+Q. Zhao “A Restless Bandit Formulation of Opportunistic
+K. Liu
 --
-Mesh and Ad Hoc Communications and Networks (SECON)
 Workshops
 ----
 K. Liu
 --
-“Indexability of Restless Bandit Problems and
 Optimality of Whittle Index for Dynamic Multichannel Access
 ----
 S. Ahmad
 --
-“Multi-channel Opportunistic Access: A Case of
 Restless Bandits with Multiple Plays
 ----
 K. Liu
 --
-“Intrusion Detection in Resource-Constrained
 Cyber Networks: A Restless Multi-Armed Bandit Approach
 [[[ META ]]]
 xmlpapertitle -> Dynamic Intrusion Detection in Resource-Constrained Cyber Networks
@@ -75,7 +66,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566807
 xmlsession -> S6.T4: Distributed Applications
 xmldate -> 1341307800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566807.txt
+file -> PapersDataset\1569566807.txt
 xmlstarttime -> 11:30
 xmlauthors -> Keqin Liu, Qing Zhao
 xmlroom -> Stratton 20 Chimneys (306)

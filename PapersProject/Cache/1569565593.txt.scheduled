@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 E. Amiri
 --
-“High rate ﬁngerprinting codes and the
 ﬁngerprinting capacity
 ----
 Y.-W. Huang
@@ -27,25 +26,18 @@ D. Boneh
 ----
 D. Boesten
 --
-“Asymptotic ﬁngerprinting capacity for nonc
 binary alphabets
 ----
 subject to h ∈ V q+1
 --
-∀y ∈ Y
-(18)
-λhy =
-∂vx
-x
-
 
 ----
-where · F is the Frobenius norm
-· 2 is the Euclidean
-norm. Nota that the functional T depends only on v
-h. If
-we deﬁne V q the manifold of points on the unit hypersphere in
 the ﬁrst hyperoctant {v : v 2 = 1
+we deﬁne V q the manifold of points on the unit hypersphere in
+h. If
+norm. Nota that the functional T depends only on v
+· 2 is the Euclidean
+where · F is the Frobenius norm
 --
 x ∈ X }
 [[[ META ]]]
@@ -57,7 +49,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569565593
 xmlsession -> S14.T7: Topics in Shannon Theory
 xmldate -> 1341500400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565593.txt
+file -> PapersDataset\1569565593.txt
 xmlstarttime -> 17:00
 xmlauthors -> Yen-Wei Huang, Pierre Moulin
 xmlroom -> Stratton (407)

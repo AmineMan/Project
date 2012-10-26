@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 V. S. Annapureddy
 --
-“Gaussian interference networks:
 Sum capacity in the low interference regime”
 [[[ META ]]]
 xmlpapertitle -> Sum Capacity of 3-user Deterministic Interference Channels with Connectivity Constraints
@@ -25,7 +24,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569557585
 xmlsession -> S12.T3: Deterministic Channels
 xmldate -> 1341481800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569557585.txt
+file -> PapersDataset\1569557585.txt
 xmlstarttime -> 11:50
 xmlauthors -> Suvarup Saha, Randall Berry
 xmlroom -> Stratton S. de P. Rico (202)

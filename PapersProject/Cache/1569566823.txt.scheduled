@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 A. Lapidoth
 --
-“Reliable communication under channel
 uncertainty
 ----
 M. Katz
 --
-“Cooperative schemes for a source and an
 occasional nearby relay in wireless networks
 ----
 A. Behboodi
 --
-“Broadcasting over the relay channel
 with oblivious cooperative strategy
 ----
 G. Kramer
@@ -33,7 +30,6 @@ G. Kramer
 ----
 X. Wu
 --
-“On the optimal compressions in the
 compress-and-forward relay schemes
 [[[ META ]]]
 xmlpapertitle -> Selective Coding Strategy for Unicast Composite Networks
@@ -44,7 +40,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569566823
 xmlsession -> S8.T2: Relay Strategies for Network Communications
 xmldate -> 1341326400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566823.txt
+file -> PapersDataset\1569566823.txt
 xmlstarttime -> 16:40
 xmlauthors -> Arash Behboodi, Pablo Piantanida
 xmlroom -> Kresge Auditorium (109)

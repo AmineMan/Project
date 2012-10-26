@@ -16,7 +16,6 @@ Not saved
 [[[ REFS ]]]
 T. Minka
 --
-“Tree-structured approximations by expectation
 propagation
 ----
 T. Richardson
@@ -35,7 +34,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569565093
 xmlsession -> S13.T5: Analysis of LDPC Codes
 xmldate -> 1341495600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565093.txt
+file -> PapersDataset\1569565093.txt
 xmlstarttime -> 15:40
 xmlauthors -> Pablo M. Olmos, Fernando Pérez-Cruz, Luis Salamanca, Juan José Murillo-Fuentes
 xmlroom -> Kresge Little Theatre (035)

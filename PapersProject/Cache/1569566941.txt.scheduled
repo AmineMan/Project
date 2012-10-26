@@ -15,17 +15,14 @@ Not saved
 [[[ REFS ]]]
 C. Suh
 --
-“Feedback capacity of the Gaussian interference
 channel to within 2 bits
 ----
 Z. Cheng
 --
-“Multi-user two-way deterministic modulo
 2 adder channels - when adaptation is useless
 ----
 A. El-Gamal
 --
-“The capacity region of a class of
 deterministic interference channels
 [[[ META ]]]
 xmlpapertitle -> Two-way Interference Channels
@@ -36,7 +33,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566941
 xmlsession -> S16.T2: Gaussian Interference Channels
 xmldate -> 1341570600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566941.txt
+file -> PapersDataset\1569566941.txt
 xmlstarttime -> 12:30
 xmlauthors -> Changho Suh, I-Hsiang Wang, David Tse
 xmlroom -> Kresge Auditorium (109)

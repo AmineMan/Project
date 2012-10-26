@@ -16,17 +16,14 @@ Not saved
 [[[ REFS ]]]
 P. W. Glynn
 --
-“Logarithmic asymptotics for steady-state tail
 probabilities in a single-server queue
 ----
 L. Jiang
 --
-“A distributed CSMA algorithm for throughput
 and utility maximization in wireless networks
 ----
 M. Lotﬁnezhad
 --
-“Throughput-optimal random access
 with order-optimal delay
 ----
 D. Shah
@@ -35,18 +32,14 @@ D. Shah
 ----
 V. Subramanian
 --
-“Delay performance of CSMA in
 networks with bounded degree conﬂict graphs
 ----
 L. Tassiulas
 --
-“Stability properties of constrained
-queueing systems and scheduling for maximum throughput in multihop
 radio networks
 ----
 Y. Yi
 --
-Next-Generation Internet Architectures and
 Protocols
 [[[ META ]]]
 xmlpapertitle -> From Glauber Dynamics To Metropolis Algorithm: Smaller Delay in Optimal CSMA
@@ -57,7 +50,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566373
 xmlsession -> S15.T4: Delay and Distributed Scheduling
 xmldate -> 1341564600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566373.txt
+file -> PapersDataset\1569566373.txt
 xmlstarttime -> 10:50
 xmlauthors -> Chul-Ho Lee, Do Young Eun, Se-Young Yun, Yung Yi
 xmlroom -> Stratton 20 Chimneys (306)

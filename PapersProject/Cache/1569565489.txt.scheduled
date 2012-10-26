@@ -15,18 +15,15 @@ Not saved
 [[[ REFS ]]]
 S. Hiyama
 --
-“Molecular communication: Harnessing
 biochemical materials to engineer biomimetic communication systems
 ----
 R. S. Chhikara
 --
 The Inverse Gaussian Distribution: Theory
 ----
-E. Proof of Theorem 1
 Proof: From Lemma 4
+E. Proof of Theorem 1
 --
-U ∗ = 0)) Pr(U ∗ = 0)
-(45)
 = (H(Y ∗ |U ∗ = 0) − H(Y ∗ |X
 [[[ META ]]]
 xmlpapertitle -> The peak constrained additive inverse Gaussian noise channel
@@ -37,7 +34,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569565489
 xmlsession -> S16.T9: Information Theory in Biology
 xmldate -> 1341570600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565489.txt
+file -> PapersDataset\1569565489.txt
 xmlstarttime -> 12:30
 xmlauthors -> Andrew Eckford, K. V. Srinivas, Raviraj Adve
 xmlroom -> Stratton West Lounge (201)

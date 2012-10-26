@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 S. Hong
 --
-“Lattice Strategies for Cooperative Distributed
 Antenna Systems
 ----
 U. Erez
 --
-“A close-to-capacity dirty paper coding
 scheme
 ----
 B. Nazer
@@ -32,7 +30,6 @@ S. Hong
 ----
 C. Schnorr
 --
-“Lattice basis reduction: Improved practical
 algorithms and solving subset sum problems
 [[[ META ]]]
 xmlpapertitle -> Reverse Compute and Forward: A Low-Complexity Architecture for Downlink Distributed Antenna System
@@ -43,7 +40,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566651
 xmlsession -> S7.T3: Cellular Networks
 xmldate -> 1341322800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566651.txt
+file -> PapersDataset\1569566651.txt
 xmlstarttime -> 15:40
 xmlauthors -> SongNam Hong, Giuseppe Caire
 xmlroom -> Stratton S. de P. Rico (202)

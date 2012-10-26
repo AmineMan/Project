@@ -27,7 +27,6 @@ V. Junnila
 ----
 A. Lobstein. Identifying
 --
-a
 bibliography
 [[[ META ]]]
 xmlpapertitle -> Codes for Locating Objects in Sensor Networks
@@ -38,7 +37,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569565711
 xmlsession -> S4.T6: Identifying Codes and Power Line Communications
 xmldate -> 1341242400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565711.txt
+file -> PapersDataset\1569565711.txt
 xmlstarttime -> 17:20
 xmlauthors -> Ville Junnila, Tero K Laihonen, Aline Parreau
 xmlroom -> Kresge Rehearsal A (033)

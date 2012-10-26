@@ -22,42 +22,33 @@ vol
 ----
 S. K. Leung-Yan-Cheong
 --
-“The Gaussian wire-tap
 channel”
 ----
 J.-C. Belﬁore
 --
-“Unimodular lattices for the Gaussian Wiretap
-e
 Channel
 ----
 F. Lin
 --
-“Secrecy gain of Gaussian wiretap codes from
 unimodular lattices
 ----
 F. Lin
 --
-“Unimodular Lattice Codes for Gaussian Wiretap
 Channel”
 ----
 Introduction to Elliptic Curves
 --
-Graduate Texts in
 Math
 ----
 A.-M. Ernvall-Hyt¨ nen
 --
-“On the Eavesdroppers Correct
-o
 Decision in Gaussian and Fading Wiretap Channels Using Lattice Codes
 ----
-Weak secrecy gains of the even 3-modular lattices in dimensions smaller than 24 in [16] are also shown in Table I.
-C. 2-
-3-modular lattices v.s. unimodular lattices
 Now that we have computed the weak secrecy gains of several 2-
+3-modular lattices v.s. unimodular lattices
+C. 2-
+Weak secrecy gains of the even 3-modular lattices in dimensions smaller than 24 in [16] are also shown in Table I.
 --
-we want to compare them with
 the best unimodular lattices in their respective dimensions
 [[[ META ]]]
 xmlpapertitle -> Secrecy Gain of Gaussian Wiretap Codes from 2- and 3-Modular Lattices
@@ -68,7 +59,7 @@ xmlendtime -> 13:10
 xmlpaperid -> 1569562285
 xmlsession -> S10.T4: Coding with Lattices
 xmldate -> 1341399000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569562285.txt
+file -> PapersDataset\1569562285.txt
 xmlstarttime -> 12:50
 xmlauthors -> Fuchun Lin, Frederique Oggier
 xmlroom -> Stratton 20 Chimneys (306)

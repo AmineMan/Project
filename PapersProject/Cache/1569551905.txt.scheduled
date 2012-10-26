@@ -17,17 +17,14 @@ Elements of Information Theory
 ----
 Y. Lomnitz
 --
-“Universal communication over modulo–
 additive channels with an individual noise sequence
 ----
 N. Merhav
 --
-“On the Wyner–Ziv problem for individual
 sequences
 ----
 J. Ziv
 --
-“Compression of individual sequences via
 variable-rate coding
 ----
 J. Ziv
@@ -46,7 +43,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569551905
 xmlsession -> S9.T6: Synchrony and Perfect Secrecy
 xmldate -> 1341389400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569551905.txt
+file -> PapersDataset\1569551905.txt
 xmlstarttime -> 10:10
 xmlauthors -> Neri Merhav
 xmlroom -> Kresge Rehearsal A (033)

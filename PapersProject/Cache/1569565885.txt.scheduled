@@ -23,7 +23,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569565885
 xmlsession -> S10.T3: MIMO Capacity
 xmldate -> 1341396600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565885.txt
+file -> PapersDataset\1569565885.txt
 xmlstarttime -> 12:10
 xmlauthors -> Wei Yang, Giuseppe Durisi, Erwin Riegler
 xmlroom -> Stratton S. de P. Rico (202)

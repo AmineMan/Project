@@ -24,13 +24,10 @@ Y. Chen
 ----
 S. K. Leung-Yan-Cheong
 --
-“The Gaussian wire-tap
 channel
 ----
 I. Csisz´r
 --
-“Broadcast channels with conﬁdential mesa
-o
 sages
 [[[ META ]]]
 xmlpapertitle -> Capacity Region of Non-degraded Wiretap Channel with Noiseless feedback
@@ -41,7 +38,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569557275
 xmlsession -> S2.T4: Wiretap Channels with Feedback, Side Information, and Common Messaes
 xmldate -> 1341223800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569557275.txt
+file -> PapersDataset\1569557275.txt
 xmlstarttime -> 12:10
 xmlauthors -> Bin Dai, Han Vinck, Yuan Luo, Zhuojun Zhuang
 xmlroom -> Stratton 20 Chimneys (306)

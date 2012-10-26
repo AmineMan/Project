@@ -11,38 +11,29 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-L. Birg´
 e
+L. Birg´
 --
 “Gaussian model selection
 ----
 I. Csisz´ r
 --
-“The consistency of the BIC Markov order
-a
 estimator
 ----
 I. Csisz´ r
 --
-“Context tree estimation for not necessarily
-a
 ﬁnite memory processes
 ----
 I. Csisz´ r
 --
-“On Rate of Convergence of Statistical
-a
 Estimation of Stationary Ergodic Processes
 ----
 R. Fern´ ndez
 --
-“Markov Approximations of Chains of
-a
 Inﬁnite Order
 ----
 R. E. Krichevsky
 --
-“The performance of universal
 encoding
 ----
 D. S. Ornstein
@@ -51,7 +42,6 @@ D. S. Ornstein
 ----
 Zs. Talata
 --
-“BIC context tree estimation for stationary
 ergodic processes
 [[[ META ]]]
 xmlpapertitle -> Penalized Maximum Likelihood Methods for Finite Memory Estimators of Infinite Memory Processes
@@ -62,7 +52,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569566939
 xmlsession -> S5.T8: Prediction and Estimation
 xmldate -> 1341301800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566939.txt
+file -> PapersDataset\1569566939.txt
 xmlstarttime -> 09:50
 xmlauthors -> Zsolt Talata
 xmlroom -> Stratton (491)

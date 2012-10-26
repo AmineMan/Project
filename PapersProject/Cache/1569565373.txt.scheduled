@@ -19,8 +19,6 @@ A. Fiat
 ----
 F.-W. Fu
 --
-“On the capacity of generalized write-once
-memory with state transitions described by an arbitrary directed acyclic
 graph
 ----
 R. L. Rivest
@@ -35,7 +33,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569565373
 xmlsession -> S6.T5: Coding for Flash Memories
 xmldate -> 1341307800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565373.txt
+file -> PapersDataset\1569565373.txt
 xmlstarttime -> 11:30
 xmlauthors -> Eyal En Gad, Anxiao Andrew Jiang, Jehoshua Bruck
 xmlroom -> Kresge Little Theatre (035)

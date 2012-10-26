@@ -19,17 +19,14 @@ B. Rankov
 ----
 R. Wang
 --
-“Joint source and relay precoding designs for
 MIMO two-way relay systems
 ----
 J. Joung
 --
-“Multiuser two-way amplify-and-forward relay
 processing and power control methods for beamforming systems
 ----
 A. U. T. Amah
 --
-“Beamforming-based physical layer
 network coding for non-regenerative multi-way relaying
 [[[ META ]]]
 xmlpapertitle -> Wireless MIMO Switching with MMSE Relaying
@@ -40,7 +37,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569564333
 xmlsession -> S7.T2: Relay Channels in Wireless Networks
 xmldate -> 1341322800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564333.txt
+file -> PapersDataset\1569564333.txt
 xmlstarttime -> 15:40
 xmlauthors -> Fanggang Wang, Soung Chang Liew, Dongning Guo
 xmlroom -> Kresge Auditorium (109)

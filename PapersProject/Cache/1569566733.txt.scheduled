@@ -16,12 +16,10 @@ Not saved
 [[[ REFS ]]]
 V. R. Cadambe
 --
-“Interference alignment and degrees of
 freedom of the K-user interference channel
 ----
 S. A. Jafar
 --
-“Dgrees of freedom region of the
 MIMO X channel
 [[[ META ]]]
 xmlpapertitle -> Opportunistic Interference Alignment for MIMO IMAC: Effect of User Scaling Over Degrees-of-Freedom
@@ -32,7 +30,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566733
 xmlsession -> S15.T2: Opportunistic and Relay-Aided Interference Alignment
 xmldate -> 1341563400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566733.txt
+file -> PapersDataset\1569566733.txt
 xmlstarttime -> 10:30
 xmlauthors -> Hyun Jong Yang, Won-Yong Shin, Bang Chul Jung, Arogyaswami Paulraj
 xmlroom -> Kresge Auditorium (109)

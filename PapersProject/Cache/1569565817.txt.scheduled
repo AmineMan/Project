@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 R. C. Bose
 --
-“On a class of error correcting
 binary group codes
 ----
 C. Hartmann
@@ -27,39 +26,32 @@ J. van Lint
 ----
 I. M. Duursma
 --
-“Error-locating pairs for
 cyclic codes
 ----
 I. M. Duursma
 --
-“A symmetric Roos bound for linear
 codes
 ----
 E. Betti
 --
-“A New Bound for the Minimum Distance
 of a Cyclic Code From Its Deﬁning Set
 ----
 G. L. Feng
 --
-“Decoding cyclic and BCH
-codes up to actual minimum distance using nonrecurrent syndrome
 dependence relations
 ----
 I. S. Reed
 --
-“Polynomial Codes Over Certain
 Finite Fields
 ----
-Note that for m = ν + 2 the non-zero-locator code is a single
 parity check code
+Note that for m = ν + 2 the non-zero-locator code is a single
 --
 ν
 ----
-For m − ν = d = 2 the associated RS code is a single parity
 check code
+For m − ν = d = 2 the associated RS code is a single parity
 --
-where the distance of
 the associated RS code m − ν = d is between two and six
 [[[ META ]]]
 xmlpapertitle -> Describing A Cyclic Code by Another Cyclic Code
@@ -74,7 +66,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569565817
 xmlsession -> S16.T6: Cyclic Codes and Symbol-Pair Codes
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565817.txt
+file -> PapersDataset\1569565817.txt
 xmlstarttime -> 12:10
 xmlauthors -> Alexander Zeh, Sergey Bezzateev
 xmlroom -> Kresge Rehearsal A (033)

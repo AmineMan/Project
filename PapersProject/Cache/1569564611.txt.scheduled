@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 T. S. Han
 --
-“A new achievable rate region for the
 interference channel
 ----
 C. Suh
 --
-“Feedback capacity of the Gaussian interference
 channel to within 2 bits
 ----
 S. Jafar
@@ -29,7 +27,6 @@ S. Jafar
 ----
 V. Cadambe
 --
-“Interference alignment and degrees of freedom
 of the K-user interference channel
 [[[ META ]]]
 xmlpapertitle -> Generalized Degrees of Freedom of the Symmetric K-user Interference Channel with Feedback
@@ -40,7 +37,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569564611
 xmlsession -> S17.T7: Interference Channels with Feedback
 xmldate -> 1341580800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564611.txt
+file -> PapersDataset\1569564611.txt
 xmlstarttime -> 15:20
 xmlauthors -> Soheil Mohajer, Ravi Tandon, H. Vincent Poor
 xmlroom -> Stratton (407)

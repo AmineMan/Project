@@ -22,12 +22,10 @@ J.-C. Boileau
 ----
 M. M. Wilde
 --
-“Polar codes for degradable quantum
 channels
 ----
 G. Smith
 --
-“Quantum communication with zero-capacity
 channels
 ----
 M. M. Wilde
@@ -36,7 +34,6 @@ M. M. Wilde
 ----
 M. M. Wilde
 --
-“Quantum polar codes for arbitrary
 channels
 [[[ META ]]]
 xmlpapertitle -> Quantum polar codes for arbitrary channels
@@ -47,7 +44,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569554759
 xmlsession -> S2.T9: Quantum Codes from Classical Codes,
 xmldate -> 1341221400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569554759.txt
+file -> PapersDataset\1569554759.txt
 xmlstarttime -> 11:30
 xmlauthors -> Mark M Wilde, Joseph M Renes
 xmlroom -> Stratton West Lounge (201)

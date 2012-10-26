@@ -16,19 +16,14 @@ Not saved
 [[[ REFS ]]]
 A. Jim´ nez Felstr¨ m
 --
-“Time-varying periodic
-e
-o
 convolutional codes with low-density parity-check matrices
 ----
 S. Kudekar
 --
-“The effect of spatial coupling on
 compressive sensing
 ----
 C. Schlegel
 --
-“Multiple access demodulation in the
 lifted signal graph with spatial coupling
 [[[ META ]]]
 xmlpapertitle -> Improving Spatially Coupled LDPC Codes by Connecting Chains
@@ -39,7 +34,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566605
 xmlsession -> S3.T5: Spatially-Coupled Coding
 xmldate -> 1341236400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566605.txt
+file -> PapersDataset\1569566605.txt
 xmlstarttime -> 15:40
 xmlauthors -> Dmitri Truhachev, David G. M. Mitchell, Michael Lentmaier, Daniel J. Costello, Jr.
 xmlroom -> Kresge Little Theatre (035)

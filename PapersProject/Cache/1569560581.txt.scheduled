@@ -12,9 +12,9 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-N. Alon
-J. H. Spencer. The probabilistic method. Wiley-Interscience
 Series in Discrete Mathematics
+J. H. Spencer. The probabilistic method. Wiley-Interscience
+N. Alon
 --
 New York
 ----
@@ -42,8 +42,8 @@ E. Lubetzky
 --
 55(8):3544–3551
 ----
-A. Naor
 J. Verstra¨ te. Parity check matrices
+A. Naor
 --
 28(2):163–185
 ----
@@ -67,7 +67,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569560581
 xmlsession -> S13.T1: Index Coding
 xmldate -> 1341492000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569560581.txt
+file -> PapersDataset\1569560581.txt
 xmlstarttime -> 14:40
 xmlauthors -> Ishay Haviv, Michael Langberg
 xmlroom -> Kresge Rehearsal B (030)

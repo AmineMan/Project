@@ -14,9 +14,9 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-M. Andrews
-M. Dinitz. Maximizing capacity in arbitrary wireless
 networks in the SINR model: complexity
+M. Dinitz. Maximizing capacity in arbitrary wireless
+M. Andrews
 --
 2009
 ----
@@ -24,9 +24,9 @@ S. A. Borbash
 --
 52:2749–2755
 ----
-S. A. Borbash
-A. Ephremides. Wireless link scheduling with power
 control
+A. Ephremides. Wireless link scheduling with power
+S. A. Borbash
 --
 52:5106–5111
 ----
@@ -54,7 +54,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569565041
 xmlsession -> S15.T4: Delay and Distributed Scheduling
 xmldate -> 1341562200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565041.txt
+file -> PapersDataset\1569565041.txt
 xmlstarttime -> 10:10
 xmlauthors -> Vangelis Angelakis, Anthony Ephremides, Qing He, Di Yuan
 xmlroom -> Stratton 20 Chimneys (306)

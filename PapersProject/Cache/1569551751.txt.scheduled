@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 A. El Gamal
 --
-“Lecture notes on network information
 theory
 ----
 B. Schumacher
 --
-“Sending classical information
 via noisy quantum channels
 ----
 I. Savov
 --
-“Classical codes for quantum broadcast
 channels
 [[[ META ]]]
 xmlpapertitle -> Classical codes for quantum broadcast channels
@@ -37,7 +34,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569551751
 xmlsession -> S4.T9: Quantum Channels in Network Information Theory
 xmldate -> 1341240000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569551751.txt
+file -> PapersDataset\1569551751.txt
 xmlstarttime -> 16:40
 xmlauthors -> Ivan Savov, Mark M Wilde
 xmlroom -> Stratton West Lounge (201)

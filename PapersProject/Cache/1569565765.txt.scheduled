@@ -18,7 +18,6 @@ R. Rivest
 ----
 S. Korada
 --
-“Polar codes are optimal for lossy source
 coding
 ----
 E. Arikan
@@ -27,9 +26,6 @@ E. Arikan
 ----
 I. Csisz´ r
 --
-Information Theory: Coding Theorems for
-a
-o
 Discrete Memoryless Systems
 ----
 T. M. Cover
@@ -38,7 +34,6 @@ Elements of Information Theory
 ----
 R. Mori
 --
-“Performance and construction of polar codes
 on symmetric binary-input memoryless channels 
 [[[ META ]]]
 xmlpapertitle -> Polar write once memory codes
@@ -49,7 +44,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569565765
 xmlsession -> S11.T5: Polar Codes:  Theory and Practice
 xmldate -> 1341478200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565765.txt
+file -> PapersDataset\1569565765.txt
 xmlstarttime -> 10:50
 xmlauthors -> David Burshtein, Alona Strugatski
 xmlroom -> Kresge Little Theatre (035)

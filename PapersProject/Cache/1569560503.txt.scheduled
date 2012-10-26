@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 J. P. M. Schalkwijk
 --
-“A coding scheme for additive
 noise channels with feedback
 [[[ META ]]]
 xmlpapertitle -> On Decoding Error Exponent of Gaussian Channel with Noisy Feedback: Nonexponential Number of Messages
@@ -25,7 +24,7 @@ xmlendtime -> 13:10
 xmlpaperid -> 1569560503
 xmlsession -> S16.T8: Error Exponents
 xmldate -> 1341571800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569560503.txt
+file -> PapersDataset\1569560503.txt
 xmlstarttime -> 12:50
 xmlauthors -> Marat V Burnashev, Hirosuke Yamamoto
 xmlroom -> Stratton (491)

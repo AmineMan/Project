@@ -17,18 +17,14 @@ Not saved
 [[[ REFS ]]]
 A. M. Tulino
 --
-“Random Matrix Theory and Wireless
-u
 Communications
 ----
 R. Couillet
 --
-Random Matrix Methods for Wireless
 Communications
 ----
 F. Dupuy
 --
-“On the capacity achieving covariance matrix
 for frequency selective MIMO channels using the asymptotic approach
 ----
 J. W. Silverstein
@@ -37,20 +33,18 @@ J. W. Silverstein
 ----
 S. Korada
 --
-“Applications of the Lindeberg principle
 in communications and statistical learning
 ----
 M. Vu
 --
-“Capacity optimization for Rician correlated
 MIMO wireless channels
 ----
 S. Boyd
 --
 Convex Optimization
 ----
-Fig. 1. Results of the ergodic mutual information versus SNRs with N1 =
 N2 = n1 = n2 = 2
+Fig. 1. Results of the ergodic mutual information versus SNRs with N1 =
 --
 while the markers plot the exact results
 [[[ META ]]]
@@ -62,7 +56,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569554971
 xmlsession -> S10.T3: MIMO Capacity
 xmldate -> 1341394200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569554971.txt
+file -> PapersDataset\1569554971.txt
 xmlstarttime -> 11:30
 xmlauthors -> Jun Zhang, Chao-Kai Wen, Shi Jin, Xiqi Gao, Kai Kit Wong
 xmlroom -> Stratton S. de P. Rico (202)

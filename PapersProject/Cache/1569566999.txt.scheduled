@@ -18,12 +18,10 @@ D. Julian
 ----
 W.-Y. L. I. F. Akyildiz
 --
-“Next generation/dynamic
 spectrum access/cognitive radio wireless networks: A survey
 ----
 L. Zhang
 --
-“Capacity of gaussian channels with duty cycle
 and power constraints
 ----
 S. Shamai (Shitz)
@@ -32,7 +30,6 @@ S. Shamai (Shitz)
 ----
 M. Katz
 --
-“On the capacity-achieving distribution
 of the discrete-time noncoherent and partially coherent AWGN channels
 ----
 T. M. Cover
@@ -41,12 +38,10 @@ Elements of information theory
 ----
 E. Ordentlich
 --
-“Approximations for the entropy rate of
 a hidden markov process
 ----
 J. Luo
 --
-“On the entropy rate of hidden markov processes
 observed through arbitrary memoryless channels
 [[[ META ]]]
 xmlpapertitle -> Achievable Rates of Gaussian Channels with Realistic Duty Cycle and Power Constraints
@@ -57,7 +52,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566999
 xmlsession -> S2.T7: Capacity of Gaussian Channels
 xmldate -> 1341223800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566999.txt
+file -> PapersDataset\1569566999.txt
 xmlstarttime -> 12:10
 xmlauthors -> Hui Li, Dongning Guo
 xmlroom -> Stratton (407)

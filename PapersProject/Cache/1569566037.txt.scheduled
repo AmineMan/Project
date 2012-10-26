@@ -14,37 +14,30 @@ Not saved
 [[[ REFS ]]]
 R. Ahlswede
 --
-“Hypothesis Testing with Communication
 Constraints
 ----
 R. Ahlswede
 --
-“Common Randomness in Information
 Theory and Cryptography - Part I: Secret Sharing
 ----
 R. Ahlswede
 --
-“Source Coding with Side Information and
 a Converse for Degraded Broadcast Channels
 ----
 I. Csiszar
 --
-Information Theory: Coding Theorems for
 Discrete Memoryless Systems
 ----
 I. Csiszar
 --
-“Common Randomness and Secret Key
 Generation with a Helper
 ----
 S.-W. Ho
 --
-“On the Interplay Between Conditional Entropy
 and Error Probability
 ----
 T. Ignatenko
 --
-“Biometric Systems: Privacy and
 Secrecy Aspects
 ----
 A. Juels
@@ -53,7 +46,6 @@ A. Juels
 ----
 If we now let δ ↓ 0
 --
-we get that for
 achievable false-acceptance exponents E ≤ I(X; Y )
 [[[ META ]]]
 xmlpapertitle -> Authentication Based on Secret-Key Generation
@@ -64,7 +56,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566037
 xmlsession -> S10.T6: Secret Key Generation and Sharing
 xmldate -> 1341397800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566037.txt
+file -> PapersDataset\1569566037.txt
 xmlstarttime -> 12:30
 xmlauthors -> Frans MJ Willems, Tanya Ignatenko
 xmlroom -> Kresge Rehearsal A (033)

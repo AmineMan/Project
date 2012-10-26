@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 B. Rankov
 --
-“Achievable rate regions for the two-way
 relay channel
 ----
 L. Ong
@@ -27,12 +26,10 @@ Elements of Information Theory
 ----
 A. El Gamal
 --
-June 22) Lecture notes on network
 information theory
 ----
 S. L. Fong
 --
-“Feedback enlarges capacity region of
 two-way relay channel
 [[[ META ]]]
 xmlpapertitle -> The Capacity Region of Restricted Multi-Way Relay Channels with Deterministic Uplinks
@@ -43,7 +40,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569555879
 xmlsession -> S5.T2: Relay Channels
 xmldate -> 1341304200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569555879.txt
+file -> PapersDataset\1569555879.txt
 xmlstarttime -> 10:30
 xmlauthors -> Lawrence Ong, Sarah J Johnson
 xmlroom -> Kresge Auditorium (109)

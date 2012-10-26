@@ -19,7 +19,6 @@ M. Fiala
 ----
 T. Ota
 --
-“On the Adaptive Antidictionary Code Using
 Minimal Forbidden Words with Constant Lengths
 ----
 M. Burrows
@@ -28,12 +27,10 @@ M. Burrows
 ----
 T. Ota
 --
-“On the Construction of an Antidictionary with
 Linear Complexity Using the Sufﬁx Tree
 ----
 J. K¨ rkk¨ inen
 --
-“Simple Linear Work Sufﬁx Array Cona a
 struction
 [[[ META ]]]
 xmlpapertitle -> On Fast and Memory-Efficient Construction of an Antidictionary Array
@@ -44,7 +41,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569564683
 xmlsession -> S7.T1: Lossless and Universal Source Coding
 xmldate -> 1341320400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564683.txt
+file -> PapersDataset\1569564683.txt
 xmlstarttime -> 15:00
 xmlauthors -> Hirotada Fukae, Takahiro Ota, Hiroyoshi Morita
 xmlroom -> Kresge Rehearsal B (030)

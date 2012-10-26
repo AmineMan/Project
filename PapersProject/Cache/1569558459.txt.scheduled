@@ -14,8 +14,8 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-S. A. Jafar. Interference alignment: A new look at signal dimensions in
 a communication network. Foundations
+S. A. Jafar. Interference alignment: A new look at signal dimensions in
 --
 7(1):1–134
 ----
@@ -29,7 +29,6 @@ C. S. Vaze
 ----
 C. S. Vaze
 --
-[arXiv:
 1109
 [[[ META ]]]
 xmlpapertitle -> On X-Channels with Feedback and Delayed CSI
@@ -42,7 +41,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569558459
 xmlsession -> S11.T2: Interference Channels with Delayed CSI
 xmldate -> 1341474600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569558459.txt
+file -> PapersDataset\1569558459.txt
 xmlstarttime -> 09:50
 xmlauthors -> Ravi Tandon, Soheil Mohajer, H. Vincent Poor, Shlomo (Shitz) Shamai
 xmlroom -> Kresge Auditorium (109)

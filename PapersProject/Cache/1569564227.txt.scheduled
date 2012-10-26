@@ -18,12 +18,10 @@ A. Gamal
 ----
 A. Wyner
 --
-“The rate-distortion function for source coding with
 side information at the decoder
 ----
 C. Heegard
 --
-“Rate distortion when side information may
 be absent
 ----
 S. Verd´
@@ -42,7 +40,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569564227
 xmlsession -> S2.T1: Network Source Coding with Side Information
 xmldate -> 1341221400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564227.txt
+file -> PapersDataset\1569564227.txt
 xmlstarttime -> 11:30
 xmlauthors -> Tetsunao Matsuta, Tomohiko Uyematsu
 xmlroom -> Kresge Rehearsal B (030)

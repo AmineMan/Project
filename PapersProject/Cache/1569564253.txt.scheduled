@@ -22,7 +22,6 @@ John Wiley & Sons
 ----
 H. Chung
 --
-“Optical orthogonal codes–new bounds and
 an optimal construction
 ----
 G.-C. Yang
@@ -31,7 +30,6 @@ G.-C. Yang
 ----
 R. Fuji-Hara
 --
-“Optical orthogonal codes: their bounds and
 new optimal constructions
 ----
 G. Ge
@@ -40,7 +38,6 @@ G. Ge
 ----
 W. Chu
 --
-“A new recursive construction for optical
 orthogonal codes
 ----
 R. Omrani
@@ -53,15 +50,11 @@ J.-H. Chung
 ----
 J.-H. Chung
 --
-“k-fold cyclotomy and its application to
 frequency-hopping sequences
 ----
-= 0.
 Case ii) τ = 0: If u : r : d = v : s : e
+= 0.
 --
-we have
-M −1
-
 
 [[[ META ]]]
 xmlpapertitle -> New Constructions of Asymptotically Optimal Optical Orthogonal Codes With lambda=1
@@ -72,7 +65,7 @@ xmlendtime -> 18:00
 xmlpaperid -> 1569564253
 xmlsession -> S8.T6: New Sequence Constructions
 xmldate -> 1341330000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564253.txt
+file -> PapersDataset\1569564253.txt
 xmlstarttime -> 17:40
 xmlauthors -> Jin-Ho Chung, Kyeongcheol Yang
 xmlroom -> Kresge Rehearsal A (033)

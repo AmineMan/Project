@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 V. R. Cadambe
 --
-“Interference alignment and the degrees
 of freedom for the K-user interference channel
 ----
 B. Nazer
@@ -24,29 +23,22 @@ B. Nazer
 ----
 R. Etkin
 --
-“The degrees-of-freedom of the K-user
-Gaussian interference channel is discontinuous at rational channel
 coefﬁcients
 ----
 S. A. Jafar
 --
-“Generalized degrees of freedom of the
 symmetric Gaussian K-user interference channel
 ----
 U. Niesen
 --
-“Interference alignment: From
 degrees-of-freedom to constant-gap capacity approximations
 ----
 U. Erez
 --
-“Achieving 1 log (1 + SNR) on the AWGN
-2
 channel with lattice encoding and decoding
 ----
 T. S. Han
 --
-“A new achievable rate region for the
 interference channel
 [[[ META ]]]
 xmlpapertitle -> The Approximate Sum Capacity of the Symmetric Gaussian K-User Interference Channel
@@ -57,7 +49,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569565067
 xmlsession -> S12.T2: Interference Alignment
 xmldate -> 1341480600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565067.txt
+file -> PapersDataset\1569565067.txt
 xmlstarttime -> 11:30
 xmlauthors -> Or Ordentlich, Uri Erez, Bobak Nazer
 xmlroom -> Kresge Auditorium (109)

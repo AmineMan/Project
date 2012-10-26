@@ -18,12 +18,10 @@ Generalization of the FisherDarrnois-Koopman-Pitman theorem on sufﬁcient stati
 ----
 T. Berger
 --
-A mathematical theory of energy efﬁcient
 neural computation and communication
 ----
 D. Blackwell
 --
-A Bayes but Not Classically
 Sufﬁcient Statistic
 [[[ META ]]]
 xmlpapertitle -> Design Principles and Specifications for Neural-like Computation Under Constraints on Information Preservation and Energy Costs as Analyzed with Statistical Theory
@@ -34,7 +32,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566839
 xmlsession -> S16.T9: Information Theory in Biology
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566839.txt
+file -> PapersDataset\1569566839.txt
 xmlstarttime -> 12:10
 xmlauthors -> William Levy, Toby Berger
 xmlroom -> Stratton West Lounge (201)

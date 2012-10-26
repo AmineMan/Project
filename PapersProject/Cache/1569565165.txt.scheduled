@@ -16,12 +16,10 @@ Not saved
 [[[ REFS ]]]
 H. Ishay
 --
-“Beating the Gilbert-Varshamov bound for
 online channels
 ----
 I. Csisz´ r
 --
-“The capacity of the arbitrarily varying chana
 nel revisited : Positivity
 ----
 A. D. Sarwate
@@ -30,8 +28,6 @@ A. D. Sarwate
 ----
 I. Csisz´ r
 --
-“Arbitrarily varying channels with constrained
-a
 inputs and states
 ----
 V. Guruswami
@@ -50,7 +46,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569565165
 xmlsession -> S4.T7: Capacity of Finite-Alphabet Channels
 xmldate -> 1341240000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565165.txt
+file -> PapersDataset\1569565165.txt
 xmlstarttime -> 16:40
 xmlauthors -> Bikash K Dey, Sidharth Jaggi, Michael Langberg, Anand D. Sarwate
 xmlroom -> Stratton (407)

@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 J. Kovacevic
 --
-“Life beyond bases: The advent of frames
 (Part I)
 ----
 M. Vaezi
@@ -23,22 +22,18 @@ M. Vaezi
 ----
 G. Rath
 --
-“Frame-theoretic analysis of DFT codes with
 erasures
 ----
 S. K. Mitra
 --
-Digital Signal Processing: A Computer-Based
 Approach
 ----
 G. H. Tucci
 --
-“Asymptotic results on generalized
 vandermonde matrices and their extreme eigenvalues
 ----
 G. H. Tucci
 --
-“Eigenvalue results for large scale
 random vandermonde matrices with unit complex entries
 ----
 T. M. Cover
@@ -53,7 +48,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569563721
 xmlsession -> S13.T9: Fourier Subsampling
 xmldate -> 1341492000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569563721.txt
+file -> PapersDataset\1569563721.txt
 xmlstarttime -> 14:40
 xmlauthors -> Mojtaba Vaezi, Fabrice Labeau
 xmlroom -> Stratton West Lounge (201)

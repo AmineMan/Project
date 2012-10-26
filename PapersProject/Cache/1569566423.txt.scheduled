@@ -17,12 +17,10 @@ Not saved
 [[[ REFS ]]]
 F. Fu
 --
-“On the capacity of generalized writeonce memory with state transitions described by an arbitrary directed
 acyclic graph
 ----
 R. Gabrys
 --
-“Characterizing capacity achieving write
 once memory codes for multilevel ﬂash memoriess
 ----
 L. Wang
@@ -35,7 +33,6 @@ R. Rivest
 ----
 Y. Wu
 --
-“Position modulation code for rewriting write-once
 memories
 [[[ META ]]]
 xmlpapertitle -> WOM with Retained Messages
@@ -46,7 +43,7 @@ xmlendtime -> 18:00
 xmlpaperid -> 1569566423
 xmlsession -> S8.T5: WOM Codes
 xmldate -> 1341330000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566423.txt
+file -> PapersDataset\1569566423.txt
 xmlstarttime -> 17:40
 xmlauthors -> Lele Wang, Minghai Qin, Eitan Yaakobi, Young-Han Kim, Paul H. Siegel
 xmlroom -> Kresge Little Theatre (035)

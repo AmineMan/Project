@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 D. B. Strukov
 --
-“Four-dimensional address topology
 for circuits with stacked multilayer crossbar arrays
 ----
 E. Ordentlich
 --
-“Low complexity two-dimensional
 weight-constrained codes
 [[[ META ]]]
 xmlpapertitle -> Approximately Counting the Number of Constrained Arrays via the Sum-Product Algorithm
@@ -30,7 +28,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569565665
 xmlsession -> S2.T6: Constrained Coding
 xmldate -> 1341222600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565665.txt
+file -> PapersDataset\1569565665.txt
 xmlstarttime -> 11:50
 xmlauthors -> Farzad Parvaresh, Pascal Vontobel
 xmlroom -> Kresge Rehearsal A (033)

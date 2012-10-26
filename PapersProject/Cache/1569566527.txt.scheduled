@@ -19,7 +19,6 @@ Prediction
 ----
 G. I. Shamir
 --
-“Low-complexity sequential lossless coding
 for piecewise-stationary memoryless sources
 ----
 M. Herbster
@@ -32,7 +31,6 @@ W. Koolen
 ----
 C. Monteleoni
 --
-“Online learning of non-stationary
 sequences
 ----
 S. de Rooij
@@ -41,27 +39,22 @@ S. de Rooij
 ----
 T. Linder
 --
-“A zero-delay sequential scheme for lossy
 coding of individual sequences
 ----
 T. Weissman
 --
-“On limited-delay lossy coding and
 ﬁltering of individual sequences
 ----
 F. Willems
 --
-“Live-and-die coding for binary piecewise
 i
 ----
 E. Hazan
 --
-“Efﬁcient learning algorithms for changing
 environments
 ----
 S. Kozat
 --
-“Universal switching linear least squares
 prediction
 [[[ META ]]]
 xmlpapertitle -> Efficient Tracking of Large Classes of Experts
@@ -72,7 +65,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566527
 xmlsession -> S5.T8: Prediction and Estimation
 xmldate -> 1341304200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566527.txt
+file -> PapersDataset\1569566527.txt
 xmlstarttime -> 10:30
 xmlauthors -> András György, Tamas Linder, Gabor Lugosi
 xmlroom -> Stratton (491)

@@ -13,10 +13,9 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-N. Ma
 K. Ramchandran
+N. Ma
 --
-“Eﬃcient ﬁle synchronization:
 A distributed source coding approach
 ----
 A. Orlitsky
@@ -29,7 +28,6 @@ A. Tridgell
 ----
 S. B. Needleman
 --
-“A general method applicable to
 the search for similarities in the amino acid sequence of two proteins
 [[[ META ]]]
 xmlpapertitle -> A Compression Algorithm Using Mis-aligned Side-information
@@ -40,7 +38,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566875
 xmlsession -> S1.T1: Source Coding with Side Information
 xmldate -> 1341219000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566875.txt
+file -> PapersDataset\1569566875.txt
 xmlstarttime -> 10:50
 xmlauthors -> Nan Ma, Kannan Ramchandran, David Tse
 xmlroom -> Kresge Rehearsal B (030)

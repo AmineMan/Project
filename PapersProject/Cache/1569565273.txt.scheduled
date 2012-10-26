@@ -18,23 +18,18 @@ A. O. Hero
 ----
 T. T. Cai
 --
-“Limiting laws of coherence of random matrices
-with applications to testing covariance structure and construction of
 compressed sensing matrices
 ----
 O. Ledoit
 --
-“Some hypothesis tests for the covariance matrix
 when the dimension is large compared to the sample size
 ----
 M. A. Cameron
 --
-“A new procedure for assessing
 large sets of correlations
 ----
 A. O. Hero
 --
-“Hub discovery in partial correlation
 graphs
 ----
 K. Joag-Dev
@@ -47,14 +42,10 @@ Elements of information theory
 ----
 A. Panconesi
 --
-“Randomized distributed edge coloring
 via an extension of the Chernoff–Hoeffding bounds
 ----
 where (21) is obtained by linearity of the trace
 --
-U
-=
-
 
 [[[ META ]]]
 xmlpapertitle -> Large scale correlation detection
@@ -65,7 +56,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569565273
 xmlsession -> S14.T8: High-Dimensional Inference
 xmldate -> 1341500400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565273.txt
+file -> PapersDataset\1569565273.txt
 xmlstarttime -> 17:00
 xmlauthors -> Francesca Bassi, Alfred Hero III
 xmlroom -> Stratton (491)

@@ -14,15 +14,13 @@ Not saved
 [[[ REFS ]]]
 D. Slepian
 --
-“A coding theorem for multiple access channels
 with correlated sources”
 ----
-where α0 is the smallest permissible α
-α1 the largest.
-First note that there is no permissible α at all if (4) is not
 satisﬁed. (1)
+First note that there is no permissible α at all if (4) is not
+α1 the largest.
+where α0 is the smallest permissible α
 --
-1] and (3)
 ensures α0 ≤ α1 
 ----
 Inserting these in (13)
@@ -37,7 +35,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569565919
 xmlsession -> S2.T4: Wiretap Channels with Feedback, Side Information, and Common Messaes
 xmldate -> 1341225000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565919.txt
+file -> PapersDataset\1569565919.txt
 xmlstarttime -> 12:30
 xmlauthors -> Moritz Wiese, Holger Boche
 xmlroom -> Stratton 20 Chimneys (306)

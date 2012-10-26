@@ -15,16 +15,14 @@ Not saved
 [[[ REFS ]]]
 Y. Wu
 --
-IEEE Transaction on Information
 Theory
 ----
-ˆ
-where Xi is the output of the ML decoder. The result shows
-approximately 4 dB loss in SNR for high SNR regime.
-ACKNOWLEDGEMENT
 E.A. would like to thank M. Madiman
+ACKNOWLEDGEMENT
+approximately 4 dB loss in SNR for high SNR regime.
+where Xi is the output of the ML decoder. The result shows
+ˆ
 --
-and
 P
 [[[ META ]]]
 xmlpapertitle -> Adaptive sensing using deterministic partial Hadamard matrices
@@ -35,7 +33,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566825
 xmlsession -> S10.T8: Group Testing and Detection
 xmldate -> 1341397800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566825.txt
+file -> PapersDataset\1569566825.txt
 xmlstarttime -> 12:30
 xmlauthors -> Saeid Haghighatshoar, Emmanuel Abbe, Emre Telatar
 xmlroom -> Stratton (491)

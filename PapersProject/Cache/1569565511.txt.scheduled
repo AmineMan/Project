@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 J. Korner
 --
-“General broadcast channels with degraded
 message sets
 ----
 I. Csiszar
@@ -23,13 +22,10 @@ I. Csiszar
 ----
 C. Nair
 --
-“The capacity region of a class of three-receiver
 broadcast channels with degraded message sets
 ----
 R. H. Gohary
 --
-“The capacity region of a product
-of two unmatched Gaussian broadcast channels with three particular
 messages and a common message
 [[[ META ]]]
 xmlpapertitle -> The Capacity Region of Some Classes of Parallel Degraded Broadcast Channels with Three Receivers and Three-Degraded Message Sets
@@ -40,7 +36,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569565511
 xmlsession -> S3.T2: Three-Receiver Broadcast Channels
 xmldate -> 1341234000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565511.txt
+file -> PapersDataset\1569565511.txt
 xmlstarttime -> 15:00
 xmlauthors -> Hon Fah Chong, Ying-Chang Liang
 xmlroom -> Kresge Auditorium (109)

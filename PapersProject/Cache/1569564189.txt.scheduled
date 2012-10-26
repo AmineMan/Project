@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 Y. Geng
 --
-“The capacity region of the two-receiver vector
 gaussian broadcast channel with private and common messages
 ----
 A. El Gamal
@@ -27,7 +26,6 @@ T. Liu
 ----
 S. G. Ghurye
 --
-“A characterization of the multivariate normal
 distribution
 [[[ META ]]]
 xmlpapertitle -> The capacity region of the two-receiver vector Gaussian broadcast channel with private and common messages
@@ -38,7 +36,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569564189
 xmlsession -> S4.T2: Capacity of Broadcast Channels
 xmldate -> 1341241200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564189.txt
+file -> PapersDataset\1569564189.txt
 xmlstarttime -> 17:00
 xmlauthors -> Yanlin Geng, Chandra Nair
 xmlroom -> Kresge Auditorium (109)

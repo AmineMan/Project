@@ -23,7 +23,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569566383
 xmlsession -> S7.T3: Cellular Networks
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566383.txt
+file -> PapersDataset\1569566383.txt
 xmlstarttime -> 14:40
 xmlauthors -> Angel Lozano, Jeffrey Andrews, Robert Heath
 xmlroom -> Stratton S. de P. Rico (202)

@@ -20,9 +20,9 @@ R. Little
 --
 New York
 ----
-P. Loh
-M.J. Wainwright. High-dimensional regression
 with noisy
+M.J. Wainwright. High-dimensional regression
+P. Loh
 --
 To appear
 ----
@@ -38,7 +38,7 @@ xmlendtime -> 18:00
 xmlpaperid -> 1569564703
 xmlsession -> S14.T8: High-Dimensional Inference
 xmldate -> 1341502800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564703.txt
+file -> PapersDataset\1569564703.txt
 xmlstarttime -> 17:40
 xmlauthors -> Po-Ling Loh, Martin J. Wainwright
 xmlroom -> Stratton (491)

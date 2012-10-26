@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 L. G. Tallini
 --
-“On symmetric/asymmetric Lee distance error
 control codes and elementary symmetric functions”
 ----
 L. G. Tallini
@@ -27,12 +26,10 @@ L. G. Tallini
 ----
 L. G. Tallini
 --
-“On decoding some error control codes using
 the elementary symmetric functions”
 ----
 L. G. Tallini
 --
-“On a new class of error control codes and
 symmetric functions”
 [[[ META ]]]
 xmlpapertitle -> On Symmetric L1 distance error control codes and elementary symmetric functions
@@ -43,7 +40,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569565709
 xmlsession -> S5.T5: Coding for L1 Distance and Asymmetric Errors
 xmldate -> 1341301800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565709.txt
+file -> PapersDataset\1569565709.txt
 xmlstarttime -> 09:50
 xmlauthors -> Luca G. Tallini, Bella Bose
 xmlroom -> Kresge Little Theatre (035)

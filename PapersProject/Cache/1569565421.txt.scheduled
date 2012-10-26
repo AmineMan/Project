@@ -15,19 +15,14 @@ Not saved
 [[[ REFS ]]]
 I. Csisz´ r
 --
-“The consistency of the BIC Markov order
-a
 estimator
 ----
 R. E. Krichevskii
 --
-“The performance of universal
 encoding
 ----
 I. Csisz´ r
 --
-“Context tree estimation for not necessarily
-a
 ﬁnite memory processes
 ----
 N. Cesa-Bianchi
@@ -42,7 +37,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569565421
 xmlsession -> S7.T1: Lossless and Universal Source Coding
 xmldate -> 1341322800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565421.txt
+file -> PapersDataset\1569565421.txt
 xmlstarttime -> 15:40
 xmlauthors -> Luciana Vitale, Álvaro Martín, Gadiel Seroussi
 xmlroom -> Kresge Rehearsal B (030)

@@ -18,27 +18,22 @@ M. Vu
 ----
 S. Jayaweera
 --
-“Capacity of multiple-antenna systems with
 both receiver and transmitter channel state information
 ----
 G. Caire
 --
-“On the capacity of some channels with channel
 state information
 ----
 M. Skoglund
 --
-“On the capacity of a multiple-antenna
 communication link with channel side information
 ----
 A. Hedayat
 --
-“Outage and diversity of linear receivers
 in ﬂat-fading MIMO channels
 ----
 A. Hesham Mehana
 --
-“Diversity of MMSE MIMO
 receivers
 ----
 A. Tajer
@@ -47,17 +42,14 @@ A. Tajer
 ----
 L. Zheng
 --
-“Diversity and multiplexing: a fundamental
 tradeoff in multiple-antenna channels
 ----
 A. H. Mehana
 --
-“Diversity of MIMO linear
 precoding
 ----
 R. Esmailzadeh
 --
-“Pre-RAKE diversity combination
 for direct sequence spread spectrum communications systems
 [[[ META ]]]
 xmlpapertitle -> High-SNR Analysis of MIMO Linear Precoders
@@ -68,7 +60,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566929
 xmlsession -> S13.T3: MIMO Precoding
 xmldate -> 1341495600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566929.txt
+file -> PapersDataset\1569566929.txt
 xmlstarttime -> 15:40
 xmlauthors -> Ahmed Hesham Mehana, Aria Nosratinia
 xmlroom -> Stratton S. de P. Rico (202)

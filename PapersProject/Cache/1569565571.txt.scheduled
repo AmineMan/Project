@@ -33,9 +33,9 @@ V. Guruswami
 --
 56(11):5681–5688
 ----
-∗∗
-∗∗
 where r0
+∗∗
+∗∗
 --
 1
 [[[ META ]]]
@@ -47,7 +47,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569565571
 xmlsession -> S12.T4: Classical and Adversarial Joint Source-Channel Coding
 xmldate -> 1341480600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565571.txt
+file -> PapersDataset\1569565571.txt
 xmlstarttime -> 11:30
 xmlauthors -> Yuval Kochman, Arya Mazumdar, Yury Polyanskiy
 xmlroom -> Stratton 20 Chimneys (306)

@@ -20,8 +20,6 @@ R. Ahlswede
 ----
 I. Csisz´r
 --
-“Broadcast channels with conﬁdential mesa
-o
 sages
 ----
 I. Csisz´r
@@ -30,18 +28,14 @@ Information Theory
 ----
 S. I. Gel’fand
 --
-“Coding for channel with random
 parameters
 ----
 J. K¨ ner
 --
-“General broadcast channels with degraded
-o
 message sets
 ----
 N. V. Kuznetsov
 --
-“Coding in memories with
 defective cells
 [[[ META ]]]
 xmlpapertitle -> Degraded Broadcast Channel with Noncausal Side Information, Confidential Messages and Noiseless Feedback
@@ -56,7 +50,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569554881
 xmlsession -> S3.T4: Secure Communications
 xmldate -> 1341235200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569554881.txt
+file -> PapersDataset\1569554881.txt
 xmlstarttime -> 15:20
 xmlauthors -> Bin Dai, Han Vinck, Yuan Luo, Zhuojun Zhuang
 xmlroom -> Stratton 20 Chimneys (306)

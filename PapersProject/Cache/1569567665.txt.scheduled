@@ -22,7 +22,6 @@ Information Theory
 ----
 Y. Lomnitz
 --
-“Prediction of priors for communication
 over arbitrarily varying channels
 ----
 M. Feder
@@ -31,7 +30,6 @@ M. Feder
 ----
 A. Tchamkerten
 --
-“Variable length coding over
 an unknown channel
 [[[ META ]]]
 xmlpapertitle -> Universal Rateless Coding with Finite Message Set
@@ -42,7 +40,7 @@ xmlendtime -> 13:10
 xmlpaperid -> 1569567665
 xmlsession -> S10.T5: Rateless Codes
 xmldate -> 1341399000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569567665.txt
+file -> PapersDataset\1569567665.txt
 xmlstarttime -> 12:50
 xmlauthors -> Navot Blits, Meir Feder
 xmlroom -> Kresge Little Theatre (035)

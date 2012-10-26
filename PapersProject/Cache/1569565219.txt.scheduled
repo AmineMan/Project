@@ -18,27 +18,22 @@ D. Neuhoff
 ----
 T. Weissman
 --
-“On causal source codes with side
 information
 ----
 V. Prabhakaran
 --
-“On secure distributed source
 coding
 ----
 D. Slepian
 --
-“Noiseless coding for correlated information
 sources
 ----
 J. Villard
 --
-“Secure multiterminal source coding with
 side information at the eavesdropper
 ----
 Y. Kaspi
 --
-“On secure real–time and causal source
 coding
 ----
 T. M. Cover
@@ -53,7 +48,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569565219
 xmlsession -> S3.T1: Lossy Source Coding
 xmldate -> 1341232800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565219.txt
+file -> PapersDataset\1569565219.txt
 xmlstarttime -> 14:40
 xmlauthors -> Yonatan Kaspi, Neri Merhav
 xmlroom -> Kresge Rehearsal B (030)

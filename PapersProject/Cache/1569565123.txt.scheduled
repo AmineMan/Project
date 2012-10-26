@@ -12,8 +12,8 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-A.S. Cohen
 R. Zamir. Entropy ampliﬁcation property
+A.S. Cohen
 --
 IEEE Transactions on
 ----
@@ -25,20 +25,20 @@ R.H. Etkin
 --
 IEEE Transactions on
 ----
-V.A. Kaimanovich
-A.M. Vershik. Random walks on discrete groups:
 Boundary
+A.M. Vershik. Random walks on discrete groups:
+V.A. Kaimanovich
 --
 11(3):pp
 ----
-I. Kontoyiannis
-M. Madiman. Sumset
 inverse sumset inequalities for differential entropy
+M. Madiman. Sumset
+I. Kontoyiannis
 --
 2012
 ----
-A. Lapidoth
 G. Pete. On the entropy of the sum
+A. Lapidoth
 --
 Eilat
 ----
@@ -60,7 +60,6 @@ T. Tao
 ----
 T. Tao
 --
-available at:
 www
 [[[ META ]]]
 xmlpapertitle -> Sumset Inequalities for Differential Entropy and Mutual Information
@@ -71,7 +70,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569565123
 xmlsession -> S7.T8: Information Inequalities
 xmldate -> 1341321600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565123.txt
+file -> PapersDataset\1569565123.txt
 xmlstarttime -> 15:20
 xmlauthors -> Ioannis Kontoyiannis, Mokshay Madiman
 xmlroom -> Stratton (491)

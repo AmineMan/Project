@@ -16,10 +16,9 @@ T. Cover
 --
 New York
 ----
-G. Kramer. Topics in Multi-User Information Theory. Foundations and
 Trends in Communications
+G. Kramer. Topics in Multi-User Information Theory. Foundations and
 --
-pp
 265-444
 [[[ META ]]]
 xmlpapertitle -> The Capacity of the Semi-Deterministic Cognitive Interference Channel with a Common Cognitive Message and Approximate Capacity for the Gaussian Case
@@ -30,7 +29,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569564245
 xmlsession -> S10.T7: Cognitive Channels
 xmldate -> 1341396600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564245.txt
+file -> PapersDataset\1569564245.txt
 xmlstarttime -> 12:10
 xmlauthors -> Stefano Rini, Carolin Huppert
 xmlroom -> Stratton (407)

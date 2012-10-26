@@ -22,17 +22,15 @@ B. M. Kurkoski
 ----
 B. Kurkoski
 --
-“Concatenation of a discrete memoryless
 channel and a quantizer
 ----
 J. M. Wozencraft
 --
-“Modulation and demodulation for
 probabilistic coding
 ----
-A. Quantized Channel Capacity for the Test Channel
-The quantized channel capacity of the test channel is shown
 in Fig. 3 for various values of M
+The quantized channel capacity of the test channel is shown
+A. Quantized Channel Capacity for the Test Channel
 --
 with K < M 
 [[[ META ]]]
@@ -44,7 +42,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569566303
 xmlsession -> S4.T7: Capacity of Finite-Alphabet Channels
 xmldate -> 1341241200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566303.txt
+file -> PapersDataset\1569566303.txt
 xmlstarttime -> 17:00
 xmlauthors -> Brian Michael Kurkoski, Hideki Yagi
 xmlroom -> Stratton (407)

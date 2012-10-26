@@ -19,7 +19,6 @@ Elements of Information Theory
 ----
 A. Sahai
 --
-“A general lower bound on the VLSI
 decoding complexity
 [[[ META ]]]
 xmlpapertitle -> Fundamental limits on the power consumption of encoding and decoding
@@ -30,7 +29,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569560459
 xmlsession -> S15.T6: Fundamental Limits on Complexity
 xmldate -> 1341563400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569560459.txt
+file -> PapersDataset\1569560459.txt
 xmlstarttime -> 10:30
 xmlauthors -> Pulkit Grover, Andrea Goldsmith, Anant  Sahai
 xmlroom -> Kresge Rehearsal A (033)

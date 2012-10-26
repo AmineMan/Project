@@ -15,17 +15,14 @@ Not saved
 [[[ REFS ]]]
 D. Slepian
 --
-“A coding theorem for multiple access
 channels with correlated sources
 ----
 J. Pokorny
 --
-“Random coding bound and codes
 produced by permutations for the multiple-access channel
 ----
 Y.-S. Liu
 --
-“A new universal random coding bound for
 the multiple-access channel
 ----
 U. Erez
@@ -34,7 +31,6 @@ U. Erez
 ----
 D. Krithivasan
 --
-“Lattices for distributed source coding:
 Jointly Gaussian sources and reconstruction of a linear function
 ----
 A. Barg
@@ -49,7 +45,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566909
 xmlsession -> S1.T2: Multiple Access Codes
 xmldate -> 1341217800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566909.txt
+file -> PapersDataset\1569566909.txt
 xmlstarttime -> 10:30
 xmlauthors -> Eli Haim, Yuval Kochman, Uri Erez
 xmlroom -> Kresge Auditorium (109)

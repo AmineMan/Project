@@ -12,17 +12,15 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-R. Vehkalahti
-H.-F. Lu “Inverse Determinant Sums
-Connections
 Between Fading Channel Information Theory
+Connections
+H.-F. Lu “Inverse Determinant Sums
+R. Vehkalahti
 --
-preprint
 available at http://arxiv
 ----
 L. Zheng
 --
-“Diversity and Multiplexing: A Fundamental
 Tradeoff in Multiple-Antenna Channels”
 ----
 J.-C. Belﬁore
@@ -43,26 +41,23 @@ J
 ----
 J. C. Belﬁore
 --
-“Lattice Code Design for the Rayleigh
 Fading Wiretap Channel”
 ----
 C. J. Bushnell
 --
-“Zeta Functions of Arithmetic Orders and
 Solomon’s Conjectures”
 ----
 C. J. Bushnell
 --
-“Solomons Conjecture and Local Functional
 Equation for Zeta Functions of Orders”
 ----
 where N
 --
 2|n
 ----
-where N
-K are constants independent of M .
 Proof: The right side is just Proposition 5.2
+K are constants independent of M .
+where N
 --
 σ
 [[[ META ]]]
@@ -74,7 +69,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569565929
 xmlsession -> S17.T3: MIMO Equalization, Diversity and Optimization
 xmldate -> 1341583200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565929.txt
+file -> PapersDataset\1569565929.txt
 xmlstarttime -> 16:00
 xmlauthors -> Roope Vehkalahti, Laura Luzzi
 xmlroom -> Stratton S. de P. Rico (202)

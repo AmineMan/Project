@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 Z. Cheng
 --
-“Effective diverse and obfuscated attacks on
 model-based recommender systems
 ----
 E. Ayday
 --
-“Application of belief propagation to trust
 and reputation management
 ----
 P. Resnick
@@ -39,7 +37,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569566853
 xmlsession -> S11.T7: Message Passing Algorithms
 xmldate -> 1341474600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566853.txt
+file -> PapersDataset\1569566853.txt
 xmlstarttime -> 09:50
 xmlauthors -> Erman Ayday, Arash Einolghozati, Faramarz Fekri
 xmlroom -> Stratton (407)

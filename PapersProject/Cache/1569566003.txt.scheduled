@@ -17,7 +17,6 @@ Not saved
 [[[ REFS ]]]
 A. Heidarzadeh
 --
-“Overlapped chunked network
 coding
 ----
 A. Heidarzadeh
@@ -40,7 +39,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569566003
 xmlsession -> S14.T1: Network Erasure Correction
 xmldate -> 1341499200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566003.txt
+file -> PapersDataset\1569566003.txt
 xmlstarttime -> 16:40
 xmlauthors -> Bin Tang, Shenghao Yang, Yitong Yin, Baoliu Ye, Sanglu Lu
 xmlroom -> Kresge Rehearsal B (030)

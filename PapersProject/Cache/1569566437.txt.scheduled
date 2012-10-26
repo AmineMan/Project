@@ -14,8 +14,6 @@ Not saved
 [[[ REFS ]]]
 V. Kostina
 --
-“Fixed-length lossy compression in the ﬁnite
-u
 blocklength regime
 [[[ META ]]]
 xmlpapertitle -> Lossy joint source-channel coding in the finite blocklength regime
@@ -26,7 +24,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566437
 xmlsession -> S9.T4: Joint Source-Channel Codes
 xmldate -> 1341390600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566437.txt
+file -> PapersDataset\1569566437.txt
 xmlstarttime -> 10:30
 xmlauthors -> Victoria Kostina, Sergio Verdú
 xmlroom -> Stratton 20 Chimneys (306)

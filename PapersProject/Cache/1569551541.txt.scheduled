@@ -13,30 +13,22 @@ Not saved
 [[[ REFS ]]]
 L. G¨ orﬁ
 --
-“f –dissimilarity: a generalization of the afﬁnity
-y
 of several distributions
 ----
 G. Kaplan
 --
-“Information rates and error exponents
-of compound channels with application to antipodal signaling in a fading
-¨
 environment
 ----
 A. J. Viterbi
 --
-Principles of Digital Communication and
 Coding
 ----
 E. Weinstein
 --
-“Lower bounds on the mean square
 estimation error
 ----
 M. Zakai
 --
-“A generalization of the rate-distortion theory and
 applications
 ----
 J. Ziv
@@ -45,22 +37,17 @@ J. Ziv
 ----
 J. Ziv
 --
-“On functionals satisfying a data-processing
 theorem
 ----
-2
-where θ = 2σ 2 /[N0 (1 + 2σ 2 E/N0 )]. On substituting this
 channel into IG (U ; Y )
+where θ = 2σ 2 /[N0 (1 + 2σ 2 E/N0 )]. On substituting this
+2
 --
-we eventually obtain in the high SNR regime (see [10]
-for details):
-
 
 ----
-which is again signiﬁcantly smaller than our bound. Thus,
 we observe that while the WWB
+which is again signiﬁcantly smaller than our bound. Thus,
 --
-when it comes
 to channels with fading
 [[[ META ]]]
 xmlpapertitle -> Data Processing Inequalities Based on a Certain Structured Class of Information Measures with Application to Estimation Theory
@@ -71,7 +58,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569551541
 xmlsession -> S7.T8: Information Inequalities
 xmldate -> 1341324000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569551541.txt
+file -> PapersDataset\1569551541.txt
 xmlstarttime -> 16:00
 xmlauthors -> Neri Merhav
 xmlroom -> Stratton (491)

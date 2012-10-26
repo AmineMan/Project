@@ -19,12 +19,10 @@ U. Mittal
 ----
 A. Lapidoth
 --
-“Sending a bivariate Gaussian over a
 Gaussian MAC
 ----
 A. D. Wyner
 --
-“The rate-distortion function for source coding
 with side information at the decoder
 [[[ META ]]]
 xmlpapertitle -> Broadcast Correlated Gaussians: the Vector-Scalar Case
@@ -35,7 +33,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569563919
 xmlsession -> S2.T2: Variations on Broadcast Channels
 xmldate -> 1341222600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569563919.txt
+file -> PapersDataset\1569563919.txt
 xmlstarttime -> 11:50
 xmlauthors -> Lin Song, Jun Chen, Chao Tian
 xmlroom -> Kresge Auditorium (109)

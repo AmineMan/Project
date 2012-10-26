@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 I. Andriyanova
 --
-“IR-HARQ schemes with ﬁnite-length
 punctured LDPC codes over the BEC
 ----
 J. Schalkwijk
 --
-“A coding scheme for additive noise
 channel with feedback–I: No bandwidth constraint
 ----
 T. Cover
@@ -33,20 +31,17 @@ Convex Optimization
 ----
 S. Torquato
 --
-“New conjectural lower bounds on the
 optimal density of sphere packings
 ----
 S. Lin
 --
 Error Control Coding
 ----
-The expected throughput Rt is again given by (8).
-VI. C ONCLUSION
-The purpose of this paper is to bring the information theory
 of feedback
+The purpose of this paper is to bring the information theory
+VI. C ONCLUSION
+The expected throughput Rt is again given by (8).
 --
-the paper eventually demonstrates a
-convolutional code with performance strikingly similar to the
 ideal rate-compatible sphere-packing (RCSP) codes
 [[[ META ]]]
 xmlpapertitle -> A Rate-compatible Sphere-packing Analysis of Feedback Coding with Limited Retransmissions
@@ -57,7 +52,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569559617
 xmlsession -> S16.T7: Feedback
 xmldate -> 1341570600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559617.txt
+file -> PapersDataset\1569559617.txt
 xmlstarttime -> 12:30
 xmlauthors -> Adam Williamson, Tsung-Yi Chen, Richard Wesel
 xmlroom -> Stratton (407)

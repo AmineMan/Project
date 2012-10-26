@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 B. V. Gnedenko
 --
-Limit Distributions for Sums
 of Independent Random Variables
 ----
 J. E. Marsden
@@ -23,7 +22,6 @@ Basic Complex Analysis
 ----
 J. Fahs
 --
-“On the Detrimental Effect of Assuming a
 Linear Model for Non-Linear AWGN Channels
 ----
 G. P´ lya
@@ -38,7 +36,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566985
 xmlsession -> S2.T7: Capacity of Gaussian Channels
 xmldate -> 1341221400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566985.txt
+file -> PapersDataset\1569566985.txt
 xmlstarttime -> 11:30
 xmlauthors -> Jihad Fahs, Ibrahim Abou-Faycal
 xmlroom -> Stratton (407)

@@ -19,12 +19,10 @@ Network Information Theory
 ----
 A. Gohari
 --
-“Evaluation of Marton’s inner bound for
 the general broadcast channel
 ----
 C. Nair
 --
-“An outer bound to the capacity region of the
 broadcast channel
 ----
 C. Nair
@@ -47,7 +45,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569565537
 xmlsession -> S4.T2: Capacity of Broadcast Channels
 xmldate -> 1341240000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565537.txt
+file -> PapersDataset\1569565537.txt
 xmlstarttime -> 16:40
 xmlauthors -> Amin Aminzadeh Gohari, Chandra Nair, Venkat Anantharam
 xmlroom -> Kresge Auditorium (109)

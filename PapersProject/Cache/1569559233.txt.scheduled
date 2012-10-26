@@ -19,7 +19,6 @@ Error Control Coding
 ----
 J. Hagenauer
 --
-”A Viterbi algorithm with soft-decision
 outputs and its applications
 [[[ META ]]]
 xmlpapertitle -> SISO MAP Decoding of Rate-1 Recursive Convolutional Codes: A Revisit
@@ -30,7 +29,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569559233
 xmlsession -> S13.T6: Convolutional and Turbo Codes
 xmldate -> 1341494400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559233.txt
+file -> PapersDataset\1569559233.txt
 xmlstarttime -> 15:20
 xmlauthors -> Yonghui Li, Md. Shahriar Rahman, Branka Vucetic
 xmlroom -> Kresge Rehearsal A (033)

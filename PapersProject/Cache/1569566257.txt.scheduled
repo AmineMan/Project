@@ -17,10 +17,10 @@ F. Chierichetti
 --
 2012
 ----
-M Draief
-M.Vojnovi´ . Convergence speed of binary interval
-c
 consensus. SIAM Journal on Control
+c
+M.Vojnovi´ . Convergence speed of binary interval
+M Draief
 --
 2012
 ----
@@ -66,7 +66,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566257
 xmlsession -> S6.T4: Distributed Applications
 xmldate -> 1341310200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566257.txt
+file -> PapersDataset\1569566257.txt
 xmlstarttime -> 12:10
 xmlauthors -> Kyomin Jung, Boyoung Kim, Milan Vojnović
 xmlroom -> Stratton 20 Chimneys (306)

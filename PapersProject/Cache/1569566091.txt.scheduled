@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 G. H. Tucci
 --
-Eigenvalue Results for Large Scale
 Vandermonde Matrices with Unit Complex Entries
 ----
 G. H. Tucci
 --
-Asymptotic Results on Generalized
 Vandermonde Matrices and their Extreme Eigenvalues
 ----
 Ø. Ryan
 --
-Asymptotic Behaviour of Random Vandermonde
 Matrices with Entries on the Unit Circle
 [[[ META ]]]
 xmlpapertitle -> Behavior of the Minimum Singular Value of a Random Vandermonde Matrix
@@ -35,7 +32,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566091
 xmlsession -> S13.T9: Fourier Subsampling
 xmldate -> 1341495600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566091.txt
+file -> PapersDataset\1569566091.txt
 xmlstarttime -> 15:40
 xmlauthors -> Gabriel H. Tucci, Philip Whiting
 xmlroom -> Stratton West Lounge (201)

@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 T. M. Cover
 --
-“Capacity theorems for the relay
 channel
 ----
 A. A. El Gamal
@@ -31,13 +30,10 @@ Convex Optimization
 ----
 D. P. Palomar
 --
-“Gradient of mutual information in linear
-u
 vector Gaussian channels
 ----
 R. H. Gohary
 --
-“Joint optimization of the transmit
 covariance and the relay precoder in general Gaussian amplify-andforward relay channels
 ----
 R. A. Horn
@@ -46,7 +42,6 @@ Matrix Analysis
 ----
 J. Cheng
 --
-“On minimal eigenvalues of a class of tridiagonal
 matrices
 ----
 G. H. Golub
@@ -61,7 +56,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569565397
 xmlsession -> S3.T3: *-and-Forward Relaying
 xmldate -> 1341236400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565397.txt
+file -> PapersDataset\1569565397.txt
 xmlstarttime -> 15:40
 xmlauthors -> Ramy Gohary, Halim Yanikomeroglu
 xmlroom -> Stratton S. de P. Rico (202)

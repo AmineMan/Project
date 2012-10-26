@@ -16,17 +16,14 @@ Not saved
 [[[ REFS ]]]
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 M. J. Wainwright
 --
-“Low-density graph codes that are
 optimal for binning and coding with side information
 ----
 S. B. Korada
 --
-“Polar codes are optimal for lossy
 source coding
 ----
 A. Gersho
@@ -35,7 +32,6 @@ Vector quantization and signal compression
 ----
 T. Filler
 --
-“Binary quantization using belief propagation
 with decimation over factor graphs of LDGM codes
 ----
 Q. Wang
@@ -44,7 +40,6 @@ Q. Wang
 ----
 S. S. Pradhan
 --
-“Distributed source coding using
 syndromes (DISCUS): Design and construction
 [[[ META ]]]
 xmlpapertitle -> Graph-based Code Design for Quadratic-Gaussian Wyner-Ziv Problem with Arbitrary Side Information
@@ -55,7 +50,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569565661
 xmlsession -> S1.T1: Source Coding with Side Information
 xmldate -> 1341216600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565661.txt
+file -> PapersDataset\1569565661.txt
 xmlstarttime -> 10:10
 xmlauthors -> Yi-Peng Wei, Shih-Chun Lin, Yu-Hsiu Lin, Hsuan-Jung Su
 xmlroom -> Kresge Rehearsal B (030)

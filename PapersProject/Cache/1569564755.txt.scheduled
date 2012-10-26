@@ -15,18 +15,12 @@ Not saved
 [[[ REFS ]]]
 T. Berger
 --
-A mathematical theory of energy efﬁcient
 neural computation and communication
 ----
-Substituting Eq. (22) into Eq. (23)
-applying integration
 by parts
+applying integration
+Substituting Eq. (22) into Eq. (23)
 --
-it
-follows that
-(1 + q/n)fΛ (λ) + (λq/n)fΛ (λ)
-Γ(n)
-=λ−n
 bκ (λ − b)n−κ−1 u(λ − b)
 ----
 T. Cover
@@ -47,7 +41,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569564755
 xmlsession -> S16.T9: Information Theory in Biology
 xmldate -> 1341568200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564755.txt
+file -> PapersDataset\1569564755.txt
 xmlstarttime -> 11:50
 xmlauthors -> Jie Xing, Toby Berger, Terrence J. Sejnowski
 xmlroom -> Stratton West Lounge (201)

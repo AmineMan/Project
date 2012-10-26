@@ -14,18 +14,14 @@ Not saved
 [[[ REFS ]]]
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 V. Y. F. Tan
 --
-“On the dispersions of three network
 information theory problems
 ----
 V. Kostina
 --
-“Fixed-length lossy compression in the ﬁnite
-u
 blocklength regime: Discrete memoryless sources
 ----
 A. Ingber
@@ -34,9 +30,6 @@ A. Ingber
 ----
 I. Csisz´ r
 --
-Information Theory: Coding Theorems for
-a
-o
 Discrete Memoryless Systems
 [[[ META ]]]
 xmlpapertitle -> The Dispersion of Slepian-Wolf Coding
@@ -47,7 +40,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569552251
 xmlsession -> S6.T1: Finite Blocklength Analysis for Source Coding
 xmldate -> 1341309000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569552251.txt
+file -> PapersDataset\1569552251.txt
 xmlstarttime -> 11:50
 xmlauthors -> Vincent Tan, Oliver Kosut
 xmlroom -> Kresge Rehearsal B (030)

@@ -16,12 +16,11 @@ Not saved
 --
 one obtains from (22)
 ----
-so that the columns of U are also the eigenvectors of
-−1
-−1
 W2 −W1
+−1
+−1
+so that the columns of U are also the eigenvectors of
 --
-one
 f (αX1 + βX2 ) ≥ αf (X1 ) + βf (X2 )
 [[[ META ]]]
 xmlpapertitle -> On Optimal Signaling over Secure MIMO Channels
@@ -32,7 +31,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569563425
 xmlsession -> S3.T4: Secure Communications
 xmldate -> 1341236400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569563425.txt
+file -> PapersDataset\1569563425.txt
 xmlstarttime -> 15:40
 xmlauthors -> Sergey Loyka, Charalambos D Charalambous
 xmlroom -> Stratton 20 Chimneys (306)

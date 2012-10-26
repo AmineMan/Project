@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 V. R. Cadambe
 --
-“Interference alignment and degrees of
 freedom of the K-user interference channel
 ----
 M. A. Maddah-Ali
 --
-“Completely stale transmitter channel
 state information is still very useful
 ----
 U. Niesen
@@ -28,12 +26,10 @@ U. Niesen
 ----
 R. H. Etkin
 --
-“The degrees-of-freedom of the Kuser Gaussian interference channel is discontinuous at rational channel
 coefﬁcients
 ----
 U. Niesen
 --
-“Interference alignment: From
 degrees-of-freedom to constant-gap capacity approximations
 [[[ META ]]]
 xmlpapertitle -> Interference Alignment: From Degrees-of-Freedom to Constant-Gap Capacity Approximations
@@ -44,7 +40,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569560235
 xmlsession -> S12.T2: Interference Alignment
 xmldate -> 1341481800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569560235.txt
+file -> PapersDataset\1569560235.txt
 xmlstarttime -> 11:50
 xmlauthors -> Urs Niesen, Mohammad Maddah-Ali
 xmlroom -> Kresge Auditorium (109)

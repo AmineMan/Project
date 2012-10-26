@@ -18,19 +18,14 @@ T. S. Han
 ----
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 J. K¨ rner
 --
-“How to encode the modulo-two sum of binary
-o
 sources
 ----
 R. Ahlswede
 --
-“On source coding with side information via
-a multiple-access channel and related problems in multi-user information
 theory
 ----
 A. Orlitsky
@@ -57,7 +52,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569564481
 xmlsession -> S5.T1: Multiterminal Source Coding
 xmldate -> 1341305400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564481.txt
+file -> PapersDataset\1569564481.txt
 xmlstarttime -> 10:50
 xmlauthors -> Sheng Huang, Mikael Skoglund
 xmlroom -> Kresge Rehearsal B (030)

@@ -14,8 +14,6 @@ Not saved
 [[[ REFS ]]]
 I. Csisz´ r
 --
-“Broadcast channels with conﬁdential mesa
-o
 sages
 ----
 Y. Steinberg
@@ -24,7 +22,6 @@ Y. Steinberg
 ----
 Y. Oohama
 --
-“Capacity results for relay channels with
 conﬁdential messages
 ----
 I. Csisz´ r
@@ -49,7 +46,6 @@ M. Hayashi
 ----
 M. Bloch
 --
-“On secure communication with constrained
 randomization
 ----
 S. Watanabe
@@ -58,13 +54,10 @@ S. Watanabe
 ----
 J. K¨ rner
 --
-“General broadcast channels with degraded
-o
 message sets
 ----
 O. Ozel
 --
-“Wiretap channels: Roles of rate splitting
 and channel preﬁxing
 [[[ META ]]]
 xmlpapertitle -> Broadcast Channels with Confidential Messages by Randomness Constrained Stochastic Encoder
@@ -75,7 +68,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569564141
 xmlsession -> S1.T4: Secrecy Models in Wiretap Channels
 xmldate -> 1341215400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564141.txt
+file -> PapersDataset\1569564141.txt
 xmlstarttime -> 09:50
 xmlauthors -> Shun Watanabe, Yasutada Oohama
 xmlroom -> Stratton 20 Chimneys (306)

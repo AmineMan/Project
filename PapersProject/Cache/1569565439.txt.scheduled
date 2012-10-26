@@ -14,18 +14,14 @@ Not saved
 [[[ REFS ]]]
 E. Yang
 --
-“On the redundancy of lossy source coding with
 abstract alphabets
 ----
 T. Linder
 --
-“On the asymptotic tightness of the Shannon
 lower bound
 ----
 I. Csisz´ r
 --
-Information theory: Coding theorems for disa
-o
 crete memoryless systems
 ----
 P. Algoet
@@ -34,13 +30,10 @@ P. Algoet
 ----
 W. Philipp
 --
-Almost sure invariance principles for partial
 sums of weakly dependent random variables
 ----
 B. O˘ uz
 --
-“Compressing a long range dependent
-g
 renewal process
 ----
 F. Fitzek
@@ -55,7 +48,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569565439
 xmlsession -> S3.T1: Lossy Source Coding
 xmldate -> 1341235200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565439.txt
+file -> PapersDataset\1569565439.txt
 xmlstarttime -> 15:20
 xmlauthors -> Barlas Oğuz, Venkat Anantharam
 xmlroom -> Kresge Rehearsal B (030)

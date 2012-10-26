@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 A. Barg
 --
-“Codes in permutations and error correction
 for rank modulation
 ----
 M. Deza
@@ -24,7 +23,6 @@ M. Deza
 ----
 S. W. Golomb
 --
-“Perfect codes in the Lee metric and
 the packing of polyominoes
 ----
 M. Mares
@@ -37,7 +35,6 @@ M. Schwartz
 ----
 I. Tamo
 --
-“Correcting limited-magnitude errors in the
 rank-modulation scheme
 [[[ META ]]]
 xmlpapertitle -> Systematic Error-Correcting Codes for Rank Modulation
@@ -50,7 +47,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569565385
 xmlsession -> S17.T1: Rank-Modulation Coding
 xmldate -> 1341579600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565385.txt
+file -> PapersDataset\1569565385.txt
 xmlstarttime -> 15:00
 xmlauthors -> Hongchao Zhou, Anxiao Andrew Jiang, Jehoshua Bruck
 xmlroom -> Kresge Rehearsal B (030)

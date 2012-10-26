@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 V. R. Cadambe
 --
-“Interference alignment and degrees of
 freedom of the K-user interference channel
 ----
 I. Shomorony
 --
-“Two-unicast wireless networks:
 Characterizing the degrees-of-freedom
 ----
 P. Gupta
@@ -29,14 +27,10 @@ P. Gupta
 ----
 I. Csisz´ r
 --
-Information Theory: Coding Theorems for
-a
-o
 Discrete Memoryless Systems
 ----
 M. Grossglauser
 --
-“Mobility increases the capacity of
 ad hoc wireless networks
 [[[ META ]]]
 xmlpapertitle -> Degrees of Freedom of Sparsely Connected Wireless Networks
@@ -47,7 +41,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566531
 xmlsession -> S9.T3: Degrees of Freedom and Scaling
 xmldate -> 1341389400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566531.txt
+file -> PapersDataset\1569566531.txt
 xmlstarttime -> 10:10
 xmlauthors -> Sang-Woon Jeon, Naveen Goela, Michael  Gastpar
 xmlroom -> Stratton S. de P. Rico (202)

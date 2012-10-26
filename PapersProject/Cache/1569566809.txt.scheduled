@@ -18,7 +18,6 @@ D. MacKay
 ----
 E. Cavus
 --
-“A performance improvement and error ﬂoor
 avoidance technique for belief propagation decoding of LDPC codes
 ----
 Y. Han
@@ -27,7 +26,6 @@ Y. Han
 ----
 B. Butler
 --
-“Error ﬂoor approximation for LDPC codes in
 the AWGN channel
 ----
 X. Zhang
@@ -42,7 +40,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566809
 xmlsession -> S16.T5: Decoding Techniques for LDPC Codes
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566809.txt
+file -> PapersDataset\1569566809.txt
 xmlstarttime -> 12:10
 xmlauthors -> Xiaojie Zhang, Paul H. Siegel
 xmlroom -> Kresge Little Theatre (035)

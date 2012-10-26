@@ -14,8 +14,6 @@ Not saved
 [[[ REFS ]]]
 H. Dinh
 --
-“Cyclic and negacyclic codes over
-o
 ﬁnite chain rings
 ----
 W. C. Huffman
@@ -26,14 +24,12 @@ X. Kai
 --
 “On cyclic self-dual codes
 ----
-Example 4.4: Let 𝑟
-𝛼 be positive integers.
-𝛼
-𝑟−1
 (i) For 𝑝 = 3
+𝑟−1
+𝛼
+𝛼 be positive integers.
+Example 4.4: Let 𝑟
 --
-the polynomial 𝑔(𝑥) = (𝑥3 +1)2
-generates the unique self-dual cyclic code of length 2 𝑟 3 𝛼
 over 𝔽25 
 [[[ META ]]]
 xmlpapertitle -> Self-Dual Repeated Root Cyclic and Negacyclic Codes Over Finite Fields
@@ -44,7 +40,7 @@ xmlendtime -> 13:10
 xmlpaperid -> 1569566217
 xmlsession -> S16.T6: Cyclic Codes and Symbol-Pair Codes
 xmldate -> 1341571800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566217.txt
+file -> PapersDataset\1569566217.txt
 xmlstarttime -> 12:50
 xmlauthors -> Kenza Guenda, T. Aaron Gulliver
 xmlroom -> Kresge Rehearsal A (033)

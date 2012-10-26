@@ -16,12 +16,10 @@ Not saved
 [[[ REFS ]]]
 M.A. Maddah-Ali
 --
-“Completely Stale Transmitter
 Channel State Information is Still Very Useful
 ----
 L. Zheng
 --
-“Diversity and multiplexing: A fundamental
 tradeoff in multiple-antenna channels
 [[[ META ]]]
 xmlpapertitle -> On the Degrees of Freedom of Time Correlated MISO Broadcast Channel with Delayed CSIT
@@ -32,7 +30,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569566759
 xmlsession -> S14.T3: Multiple-Antenna Broadcast Channels
 xmldate -> 1341501600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566759.txt
+file -> PapersDataset\1569566759.txt
 xmlstarttime -> 17:20
 xmlauthors -> Mari Kobayashi, Sheng Yang, David Gesbert, Xinping Yi
 xmlroom -> Stratton S. de P. Rico (202)

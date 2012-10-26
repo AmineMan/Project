@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 E.J. Candes
 --
-“Near-optimal signal recovery from random
 projections: Universal encoding strategies?
 ----
 T. Blumensath
@@ -24,17 +23,14 @@ T. Blumensath
 ----
 W. Yihong
 --
-“Renyi information dimension: Fundamental
 limits of almost lossless analog compression
 ----
 Fan Zhang
 --
-“On the iterative decoding of high-rate
 LDPC codes with applications in compressed sensing
 ----
 Fan Zhang
 --
-“Analysis of veriﬁcation-based decoding
 on the q -ary symmetric channel for large q
 [[[ META ]]]
 xmlpapertitle -> Binary Graphs and Message Passing Strategies for Compressed Sensing in the Noiseless Setting
@@ -45,7 +41,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566497
 xmlsession -> S10.T9: Compressive Sensing and Algorithms
 xmldate -> 1341397800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566497.txt
+file -> PapersDataset\1569566497.txt
 xmlstarttime -> 12:30
 xmlauthors -> Francisco Ramirez-Javega, Meritxell Lamarca, Javier Villares
 xmlroom -> Stratton West Lounge (201)

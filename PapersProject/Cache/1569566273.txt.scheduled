@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 F. J. MacWilliams
 --
-“The theory of Error Correcting
 Codes”
 ----
 R. Johannesson
 --
-Fundamentals of Convolutional
 Coding
 [[[ META ]]]
 xmlpapertitle -> Properties and encoding aspects of direct product convolutional codes
@@ -31,7 +29,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569566273
 xmlsession -> S13.T6: Convolutional and Turbo Codes
 xmldate -> 1341492000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566273.txt
+file -> PapersDataset\1569566273.txt
 xmlstarttime -> 14:40
 xmlauthors -> Vladimir Sidorenko, Martin Bossert, Francesca Vatta
 xmlroom -> Kresge Rehearsal A (033)

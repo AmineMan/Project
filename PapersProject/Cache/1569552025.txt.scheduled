@@ -14,8 +14,6 @@ Not saved
 [[[ REFS ]]]
 E. J. Cand` s
 --
-“Near-optimal signal recovery from random
-e
 projections: Universal encoding strategies?” IEEE Transactions on Information Theory
 ----
 P. T. Boufounos
@@ -24,20 +22,15 @@ P. T. Boufounos
 ----
 E. J. Cand` s
 --
-“The dantzig selector: statistical estimation
-e
 when p is much larger than n
 ----
 M. X. Goemans
 --
-“Improved approximation algorithms for maximum cut and satisﬁability problems using semideﬁnite
 programming
 ----
-IV. E MPIRICAL STUDY
 This section evaluates 1-bit HCS
+IV. E MPIRICAL STUDY
 --
-we draw a
-normalized Gaussian random matrix Φ ∈ Rm×n given in Theorem 1
 and a signal of length n and cardinality K
 [[[ META ]]]
 xmlpapertitle -> 1-bit Hamming Compressed Sensing
@@ -48,7 +41,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569552025
 xmlsession -> S10.T9: Compressive Sensing and Algorithms
 xmldate -> 1341396600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569552025.txt
+file -> PapersDataset\1569552025.txt
 xmlstarttime -> 12:10
 xmlauthors -> Tianyi Zhou, Dacheng Tao
 xmlroom -> Stratton West Lounge (201)

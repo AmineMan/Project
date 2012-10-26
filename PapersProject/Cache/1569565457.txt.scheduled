@@ -13,8 +13,6 @@ Not saved
 [[[ REFS ]]]
 R. Ahlswede
 --
-“Common randomness in information theory
-a
 and cryptography part 1: Secret sharing
 ----
 L. Carter
@@ -27,7 +25,6 @@ vol
 ----
 R. Renner
 --
-“Simple and Tight Bounds for Information
 Reconciliation and Privacy Ampliﬁcation
 [[[ META ]]]
 xmlpapertitle -> Precise evaluation of leaked information with universal2 privacy amplification in the presence of quantum attacker
@@ -38,7 +35,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569565457
 xmlsession -> S5.T9: Secrecy in Quantum Communications
 xmldate -> 1341301800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565457.txt
+file -> PapersDataset\1569565457.txt
 xmlstarttime -> 09:50
 xmlauthors -> Masahito Hayashi
 xmlroom -> Stratton West Lounge (201)

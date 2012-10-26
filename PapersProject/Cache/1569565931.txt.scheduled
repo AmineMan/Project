@@ -14,36 +14,26 @@ Not saved
 [[[ REFS ]]]
 I. Csisz´ r
 --
-“Broadcast Channels with Conﬁdential Mesa
-o
 sages
 ----
 M. Bloch
 --
-Physical-Layer Security: From Information
 Theory to Security Engineering
 ----
 U. M. Maurer
 --
-“Information-Theoretic Key Agreement:
 From Weak to Strong Secrecy for Free
 ----
 E. Ekrem
 --
-“On Gaussian MIMO Compound Wiretap
 Channels
 ----
 I. Csisz´ r
 --
-Information Theory - Coding Theorems for
-a
-o
 Discrete Memoryless Systems
 ----
 J. K¨ rner
 --
-“General Broadcast Channels with Degraded
-o
 Message Sets
 [[[ META ]]]
 xmlpapertitle -> Strong Secrecy in Compound Broadcast Channels with Confidential Messages
@@ -54,7 +44,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569565931
 xmlsession -> S1.T4: Secrecy Models in Wiretap Channels
 xmldate -> 1341219000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565931.txt
+file -> PapersDataset\1569565931.txt
 xmlstarttime -> 10:50
 xmlauthors -> Rafael F. Wyrembelski, Holger Boche
 xmlroom -> Stratton 20 Chimneys (306)

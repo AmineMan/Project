@@ -18,7 +18,6 @@ J. H. Conway
 ----
 E. Dubois
 --
-“The Discrete Fourier Transform
 Over Finite Rings with Application to Fast Convolution
 ----
 S. Litsyn
@@ -29,9 +28,9 @@ F. J. MacWilliams
 --
 The Theory of Error-CorrectingCodes
 ----
-which has 56 words
-is of minimum Lee distance 6.
 The code turns out to be distance-invariant
+is of minimum Lee distance 6.
+which has 56 words
 --
 y) = x14 + 36 x8 y 6 + 7 x6 y 8 + 12 x4 y 10 
 [[[ META ]]]
@@ -43,7 +42,7 @@ xmlendtime -> 16:40
 xmlpaperid -> 1569566369
 xmlsession -> S17.T6: Codes over Rings
 xmldate -> 1341584400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566369.txt
+file -> PapersDataset\1569566369.txt
 xmlstarttime -> 16:20
 xmlauthors -> Marcus Greferath, Jens Zumbrägel
 xmlroom -> Kresge Rehearsal A (033)

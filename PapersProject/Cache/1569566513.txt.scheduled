@@ -19,7 +19,6 @@ S. A. Ramprashad
 ----
 R. Zakhour
 --
-“Base station cooperation on the downlink:
 Large system analysis
 ----
 R. Bhagavatula
@@ -28,7 +27,6 @@ R. Bhagavatula
 ----
 W. Santipach
 --
-“Capacity of a multiple-antenna fading
 channel with a quantized precoding matrix
 ----
 N. Ravindran
@@ -43,7 +41,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569566513
 xmlsession -> S7.T3: Cellular Networks
 xmldate -> 1341324000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566513.txt
+file -> PapersDataset\1569566513.txt
 xmlstarttime -> 16:00
 xmlauthors -> Rusdha Muharar, Randa Zakhour, Jamie Evans
 xmlroom -> Stratton S. de P. Rico (202)

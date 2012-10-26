@@ -20,9 +20,9 @@ A. B¨ ttcher
 --
 1999
 ----
-N. R. Draper
-H. Smith. Applied Regression Analysis (Wiley Series
 in Probability
+H. Smith. Applied Regression Analysis (Wiley Series
+N. R. Draper
 --
 1998
 [[[ META ]]]
@@ -34,7 +34,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569561623
 xmlsession -> S14.T8: High-Dimensional Inference
 xmldate -> 1341501600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569561623.txt
+file -> PapersDataset\1569561623.txt
 xmlstarttime -> 17:20
 xmlauthors -> Gabriel H. Tucci, Ke Wang
 xmlroom -> Stratton (491)

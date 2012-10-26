@@ -19,7 +19,6 @@ Modern Coding Theory
 ----
 M. G. Kim
 --
-“Undetected error probabilities of binary
 primitive BCH codes for both error correction and detection
 [[[ META ]]]
 xmlpapertitle -> Approaching Capacity at High Rates with Iterative Hard-Decision Decoding
@@ -30,7 +29,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566397
 xmlsession -> S15.T5: Decoding Algorithms for Codes on Graphs
 xmldate -> 1341563400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566397.txt
+file -> PapersDataset\1569566397.txt
 xmlstarttime -> 10:30
 xmlauthors -> Yung-Yih Jian, Henry D Pfister, Krishna Narayanan
 xmlroom -> Kresge Little Theatre (035)

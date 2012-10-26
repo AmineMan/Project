@@ -19,12 +19,10 @@ Elements of Information Theory
 ----
 B. Hassibi
 --
-“The entropy region for three gaussian
 random variables
 ----
 Z. Zhang
 --
-“On the characterization of entropy function
 via information inequalities
 [[[ META ]]]
 xmlpapertitle -> Entropy functions and determinant inequalities
@@ -35,7 +33,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569558483
 xmlsession -> S7.T8: Information Inequalities
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569558483.txt
+file -> PapersDataset\1569558483.txt
 xmlstarttime -> 14:40
 xmlauthors -> Terence H. Chan, Dongning Guo, Raymond Yeung
 xmlroom -> Stratton (491)

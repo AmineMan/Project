@@ -18,7 +18,6 @@ IEEE
 ----
 A. Kaspi
 --
-IEEE Transactions
 on
 ----
 J. K¨ rner
@@ -57,7 +56,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566415
 xmlsession -> S5.T1: Multiterminal Source Coding
 xmldate -> 1341304200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566415.txt
+file -> PapersDataset\1569566415.txt
 xmlstarttime -> 10:30
 xmlauthors -> Milad Sefidgaran, Aslan Tchamkerten
 xmlroom -> Kresge Rehearsal B (030)

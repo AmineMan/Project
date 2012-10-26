@@ -23,11 +23,10 @@ A. Khisti
 ----
 L. Tassiulas
 --
-“Jointly optimal routing and scheduling
 in packet ratio networks
 ----
-where U jp (k)
 U jo (k) are private
+where U jp (k)
 --
 we may obtain an upper bound for (27)
 [[[ META ]]]
@@ -39,7 +38,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569565989
 xmlsession -> S7.T3: Cellular Networks
 xmldate -> 1341321600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565989.txt
+file -> PapersDataset\1569565989.txt
 xmlstarttime -> 15:20
 xmlauthors -> Yunus Sarikaya, Ozgur Ercetin, Can Emre Koksal
 xmlroom -> Stratton S. de P. Rico (202)

@@ -22,7 +22,6 @@ G. Miller
 ----
 I. Sason
 --
-“Parity-check density versus performance of
 binary linear block codes over memoryless symmetric channels
 ----
 T. Richardson
@@ -31,18 +30,16 @@ Modern Coding Theory
 ----
 E.-H. Yang
 --
-“Jar decoding: Basic concepts and nonasymptotic capacity achieving coding theorems for channels with discrete
 inputs
 ----
 J. Meng
 --
 “Interactive encoding and decoding based on binary ldpc codes with syndrome accumulation
 ----
-{xn : Hm×n xn = S m }
-for use over our testing channel. Let X n denote the transmitted
 codeword
+for use over our testing channel. Let X n denote the transmitted
+{xn : Hm×n xn = S m }
 --
-the standard BP decoding algorithm was
 used
 [[[ META ]]]
 xmlpapertitle -> Jar Decoding: LDPC Coding Theorems for Binary Input Memoryless Channels
@@ -53,7 +50,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569564613
 xmlsession -> S16.T5: Decoding Techniques for LDPC Codes
 xmldate -> 1341567000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564613.txt
+file -> PapersDataset\1569564613.txt
 xmlstarttime -> 11:30
 xmlauthors -> En-hui Yang, Jin Meng
 xmlroom -> Kresge Little Theatre (035)

@@ -16,38 +16,30 @@ Not saved
 [[[ REFS ]]]
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 R. Ahlswede
 --
-“Source coding with side information and a
-o
 converse for degraded broadcast channel
 ----
 J. Barros
 --
-“Network information ﬂow with correlated
 sources
 ----
 M. Bakshi
 --
-“On achievable rates for multicast in the
 presence of side information
 ----
 D. Mosk-Aoyamam
 --
-“Information dissemination via
 network coding
 ----
 B. Haeupler
 --
-“Faster information dissemination in
 dynamic networks via network coding
 ----
 B. Haeupler
 --
-“One Packet Sufﬁces - Highly Efﬁcient
 Packetized Network Coding With Finite Memory
 [[[ META ]]]
 xmlpapertitle -> Network Coded Gossip With Correlated Data
@@ -60,7 +52,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569565139
 xmlsession -> S15.T1: Data Exchange and Gathering
 xmldate -> 1341563400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565139.txt
+file -> PapersDataset\1569565139.txt
 xmlstarttime -> 10:30
 xmlauthors -> Bernhard Haeupler, Asaf Cohen, Chen Avin, Muriel Médard
 xmlroom -> Kresge Rehearsal B (030)

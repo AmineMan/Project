@@ -14,28 +14,22 @@ Not saved
 [[[ REFS ]]]
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 S. Pradhan
 --
-“Distributed source coding using
 syndromes (DISCUS): design and construction
 ----
 M. Sartipi
 --
-“Distributed source coding using short to
-moderate length rate-compatible LDPC codes: the entire Slepian-Wolf
 rate region
 ----
 A. Beirami
 --
-“Results on the redundancy of universal
 compression for ﬁnite-length sequences
 ----
 N. Merhav
 --
-“A strong version of the redundancy-capacity
 theorem of universal coding
 ----
 A. Beirami
@@ -44,17 +38,14 @@ A. Beirami
 ----
 B. Clarke
 --
-“Information-theoretic asymptotics of Bayes
 methods
 ----
 M. Drmota
 --
-“Precise minimax redundancy and
 regret
 ----
 R. E. Krichevsky
 --
-“The performance of universal
 encoding
 ----
 N. Alon
@@ -69,7 +60,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569565113
 xmlsession -> S4.T1: The Slepian-Wolf and CEO Problems
 xmldate -> 1341240000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565113.txt
+file -> PapersDataset\1569565113.txt
 xmlstarttime -> 16:40
 xmlauthors -> Ahmad Beirami, Faramarz Fekri
 xmlroom -> Kresge Rehearsal B (030)

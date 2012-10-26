@@ -15,17 +15,14 @@ Not saved
 [[[ REFS ]]]
 A. El Gamal
 --
-“Lecture notes on network information
 theory
 ----
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 I. Csiszar
 --
-“Information theory: coding theorems for
 discrete memoryless systems
 ----
 J. M. Renes
@@ -34,12 +31,10 @@ J. M. Renes
 ----
 Y.-K. Chia
 --
-“3-receiver broadcast channels with
 common and conﬁdential messages”
 ----
 T. S. Han
 --
-“Broadcast channels with arbitrarily
 correlated sources
 [[[ META ]]]
 xmlpapertitle -> Achievability Proof via Output Statistics of Random Binning
@@ -50,7 +45,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569565655
 xmlsession -> S6.T7: Tools for Bounding Capacity
 xmldate -> 1341311400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565655.txt
+file -> PapersDataset\1569565655.txt
 xmlstarttime -> 12:30
 xmlauthors -> Mohammad Hossein Yassaee, Mohammad Reza Aref, Amin Aminzadeh Gohari
 xmlroom -> Stratton (407)

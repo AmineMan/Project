@@ -25,13 +25,12 @@ A. Barg
 --
 Jr
 ----
-B. Fading
-Shadowing
-Fading
-shadowing will impact both the capacity of the
 channel from Alice to Bob
+shadowing will impact both the capacity of the
+Fading
+Shadowing
+B. Fading
 --
-they have little impact on the asymptotic
 results presented here
 [[[ META ]]]
 xmlpapertitle -> Square Root Law for Communication with Low Probability of Detection on AWGN Channels
@@ -42,7 +41,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569556671
 xmlsession -> S3.T4: Secure Communications
 xmldate -> 1341237600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569556671.txt
+file -> PapersDataset\1569556671.txt
 xmlstarttime -> 16:00
 xmlauthors -> Boulat Bash, Dennis Goeckel, Don Towsley
 xmlroom -> Stratton 20 Chimneys (306)

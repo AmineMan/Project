@@ -22,22 +22,18 @@ Information
 ----
 A. Barg
 --
-“Random codes: Minimum distances and
 error exponents
 ----
 D. J. C. MacKay
 --
-“Near Shannon limit performance of
 low density parity check codes
 ----
 J. Garcia-Frias
 --
-“Approaching Shannon performance by
 iterative decoding of linear codes with low-density generator matrix
 ----
 H. Chun-Hao
 --
-“Capacity-achieving codes with
 bounded graphical complexity and maximum likelihood decoding
 ----
 A. Dembo
@@ -54,7 +50,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569566147
 xmlsession -> S4.T4: Structured Codes
 xmldate -> 1341240000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566147.txt
+file -> PapersDataset\1569566147.txt
 xmlstarttime -> 16:40
 xmlauthors -> Abbasali Makhdoumi Kakhaki, Hossein Karkeh Abadi, Pedram Pad, Hamid Saeedi, Farokh Marvasti, Kasra Alishahi
 xmlroom -> Stratton 20 Chimneys (306)

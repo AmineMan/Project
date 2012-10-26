@@ -19,7 +19,6 @@ A. Barron
 ----
 A. Barron
 --
-“Toward fast reliable communication at rates
 near capacity with Gaussian noise
 ----
 T. M. Cover
@@ -32,28 +31,22 @@ G
 ----
 I. Kontoyiannis
 --
-“Efﬁcient random codebooks and
 databases for lossy compression in near-linear time
 ----
 S. Jalali
 --
-“Rate-distortion via Markov Chain Monte
 Carlo
 ----
 S. Korada
 --
-“Polar codes are optimal for lossy source
 coding
 ----
 V. Kostina
 --
-“Fixed-length lossy compression in the
-u
 ﬁnite blocklength regime: Gaussian source
 ----
 S. Ihara
 --
-“Error exponent for coding of memoryless
 Gaussian sources with a ﬁdelity criterion
 ----
 A. Dembo
@@ -72,7 +65,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569565461
 xmlsession -> S3.T1: Lossy Source Coding
 xmldate -> 1341236400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565461.txt
+file -> PapersDataset\1569565461.txt
 xmlstarttime -> 15:40
 xmlauthors -> Ramji Venkataramanan, Antony Joseph, Sekhar Tatikonda
 xmlroom -> Kresge Rehearsal B (030)

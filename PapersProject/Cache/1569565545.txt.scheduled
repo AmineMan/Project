@@ -36,8 +36,8 @@ T. Richardson
 --
 Cambridge
 ----
-P. J. Schreier
 L. L. Scharf. Statistical signal processing of complexvalued data : the theory of improper
+P. J. Schreier
 --
 Cambridge
 ----
@@ -58,7 +58,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569565545
 xmlsession -> S13.T9: Fourier Subsampling
 xmldate -> 1341493200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565545.txt
+file -> PapersDataset\1569565545.txt
 xmlstarttime -> 15:00
 xmlauthors -> Adel Javanmard, Andrea Montanari
 xmlroom -> Stratton West Lounge (201)

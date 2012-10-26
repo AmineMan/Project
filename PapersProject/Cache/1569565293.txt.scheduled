@@ -14,22 +14,18 @@ Not saved
 [[[ REFS ]]]
 S. Vishwanath
 --
-“On the capacity of vector Gaussian
 interference channels
 ----
 T. S. Han
 --
-“A new achievable rate region for the
 interference channel
 ----
 M. H. M. Costa
 --
-“The capacity region of the discrete
 memoryless interference channel with strong interference
 ----
 V. S. Annapureddy
 --
-“Sum capacity of MIMO
 interference channels in the low interference regime
 ----
 Fig. 3. The HK achievable region
@@ -46,7 +42,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569565293
 xmlsession -> S16.T2: Gaussian Interference Channels
 xmldate -> 1341567000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565293.txt
+file -> PapersDataset\1569565293.txt
 xmlstarttime -> 11:30
 xmlauthors -> Xiaohu Shang, H. Vincent Poor
 xmlroom -> Kresge Auditorium (109)

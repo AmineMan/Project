@@ -13,7 +13,6 @@ Not saved
 [[[ REFS ]]]
 A.K. Brodzik
 --
-“Bat chirps with good properties: Zak
 space construction of perfect polyphase sequences”
 ----
 N. Levanon
@@ -22,22 +21,18 @@ N. Levanon
 ----
 B. Popovic
 --
-“Generalized chirp-like sequences with zero
 correlation zone”
 ----
 B. Popovic
 --
-“Random access preambles for evolved
 UTRA cellular system”
 ----
 X. Tang
 --
-“A new systematic construction of zero
 correlation zone sequences based on interleaved perfect sequences”
 ----
 L. Xu
 --
-“Optimized punctured ZCZ sequence-pair set:
 design
 [[[ META ]]]
 xmlpapertitle -> New polyphase sequence sets with all-zero cross-correlation
@@ -48,7 +43,7 @@ xmlendtime -> 18:20
 xmlpaperid -> 1569559523
 xmlsession -> S8.T6: New Sequence Constructions
 xmldate -> 1341331200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559523.txt
+file -> PapersDataset\1569559523.txt
 xmlstarttime -> 18:00
 xmlauthors -> Andrzej Brodzik
 xmlroom -> Kresge Rehearsal A (033)

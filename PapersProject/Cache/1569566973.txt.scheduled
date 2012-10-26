@@ -17,7 +17,6 @@ Not saved
 [[[ REFS ]]]
 D. Ozgul
 --
-“An algorithm for cooperative data exchange
 with cost criterion
 ----
 T. Courtade
@@ -30,7 +29,6 @@ I. Csisz´ r
 ----
 R. Koetter
 --
-“An Algebraic Approach to Network
 Coding
 ----
 T. Cover
@@ -39,8 +37,6 @@ T. Cover
 ----
 H. Sherali
 --
-“Recovery of primal solutions when using
-subgradient optimization methods to solve lagrangian duals of linear
 programs
 [[[ META ]]]
 xmlpapertitle -> Data Exchange Problem with Helpers
@@ -51,7 +47,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566973
 xmlsession -> S15.T1: Data Exchange and Gathering
 xmldate -> 1341562200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566973.txt
+file -> PapersDataset\1569566973.txt
 xmlstarttime -> 10:10
 xmlauthors -> Nebojsa Milosavljevic, Sameer Pawar, Salim El Rouayheb, Michael  Gastpar, Kannan Ramchandran
 xmlroom -> Kresge Rehearsal B (030)

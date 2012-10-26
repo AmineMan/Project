@@ -18,7 +18,6 @@ J. Fang
 ----
 A. Ribeiro
 --
-“Bandwidth-constrained distributed
 estimation for wireless sensor networks-Part I: Gaussian case
 ----
 J. Li
@@ -27,18 +26,15 @@ J. Li
 ----
 Y. Jing
 --
-“Network beamforming using relays with perfect
 channel information
 ----
 S. Kar
 --
-“Linear coherent estimation with spatial
 collaboration
 ----
-IV. N UMERICAL R ESULTS
 To demonstrate the (cumulative) power saved due to collaboration
+IV. N UMERICAL R ESULTS
 --
-we
 consider the following simulation setup
 [[[ META ]]]
 xmlpapertitle -> On Linear Coherent Estimation with Spatial Collaboration
@@ -49,7 +45,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569559541
 xmlsession -> S8.T8: Estimation and Detection
 xmldate -> 1341327600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559541.txt
+file -> PapersDataset\1569559541.txt
 xmlstarttime -> 17:00
 xmlauthors -> Swarnendu Kar, Pramod Varshney
 xmlroom -> Stratton (491)

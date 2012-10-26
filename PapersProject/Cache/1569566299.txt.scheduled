@@ -14,33 +14,26 @@ Not saved
 [[[ REFS ]]]
 L. Ong
 --
-“Coding strategies for multiple-access channels
 with feedback and correlated sources
 ----
 A. Lapidoth
 --
-“Sending a bivariate Gaussian source over
 a Gaussian MAC with feedback
 ----
 T. M. Cover
 --
-“An achievable rate region for
 the multiple-access channel with feedback
 ----
 S. Bross
 --
-“An improved achievable region for the
-discrete memoryless two-user multiple-access channel with noiseless
 feedback
 ----
 R. Venkataramanan
 --
-“A new achievable rate region
 for the multiple-access channel with noiseless feedback
 ----
 P. Gács
 --
-“Common information is far less than mutual
 information
 ----
 A. El Gamal
@@ -49,7 +42,6 @@ Network Information Theory
 ----
 P. Minero
 --
-“Lossy communication over multiple-access
 channels with feedback
 [[[ META ]]]
 xmlpapertitle -> Lossy Communication over Multiple-Access Channels with Feedback
@@ -60,7 +52,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569566299
 xmlsession -> S17.T2: Communication and Computation over Multiple Access Channels
 xmldate -> 1341579600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566299.txt
+file -> PapersDataset\1569566299.txt
 xmlstarttime -> 15:00
 xmlauthors -> Paolo Minero, Safitha Jayaraj
 xmlroom -> Kresge Auditorium (109)

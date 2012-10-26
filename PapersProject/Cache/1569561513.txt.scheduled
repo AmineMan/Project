@@ -15,23 +15,18 @@ Not saved
 [[[ REFS ]]]
 E. Kiefer
 --
-“Stochastic estimation of a maximum
 regression function
 ----
 V. Y. A. Katkovnik
 --
-“Convergence of a class of
 random search algorithms
 ----
 S. Bhatnagar
 --
-“Multiscale chaotic SPSA and smoothed
 functional algorithms for simulation optimization
 ----
 J. Havrda
 --
-“Quantiﬁcation method of classiﬁcation
-a
 processes: Concept of structural a-entropy
 ----
 D. Prato
@@ -40,7 +35,6 @@ D. Prato
 ----
 C. Vignat
 --
-“Central limit theorem and deformed
 exponentials
 [[[ META ]]]
 xmlpapertitle -> q-Gaussian based Smoothed Functional Algorithms for Stochastic Optimization
@@ -51,7 +45,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569561513
 xmlsession -> S6.T8: Probability and Estimation
 xmldate -> 1341310200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569561513.txt
+file -> PapersDataset\1569561513.txt
 xmlstarttime -> 12:10
 xmlauthors -> Debarghya Ghoshdastidar, Ambedkar Dukkipati, Shalabh Bhatnagar
 xmlroom -> Stratton (491)

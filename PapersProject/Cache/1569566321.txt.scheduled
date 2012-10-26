@@ -18,7 +18,6 @@ C. Hegde
 ----
 E. J. Candes
 --
-“The power of convex relaxation: Near-optimal
 matrix completion
 ----
 R. Baraniuk
@@ -27,20 +26,16 @@ R. Baraniuk
 ----
 M. F. Duarte
 --
-“Structured compressed sensing: From
 theory to applications
 ----
 C. A. Rogers
 --
-“Covering convex bodies by translates of
 convex bodies
 ----
-with failure probability pe ≤ 2 (d/δ)
-e−c0 (δ/2)M for some
 ﬁxed constant d > 1
+e−c0 (δ/2)M for some
+with failure probability pe ≤ 2 (d/δ)
 --
-1)?
-
 
 ----
 c) Sparse Circular Convolutions
@@ -55,7 +50,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566321
 xmlsession -> S7.T9: Compressive Sensing
 xmldate -> 1341322800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566321.txt
+file -> PapersDataset\1569566321.txt
 xmlstarttime -> 15:40
 xmlauthors -> Philipp Walk, Peter Jung
 xmlroom -> Stratton West Lounge (201)

@@ -17,12 +17,10 @@ Convex optimization
 ----
 H. Yamamoto
 --
-“Source coding theory for multi-terminal
 communication systems with a remote source
 ----
 C. Tian
 --
-“Remote vector Gaussian source coding with
 decoder side information under mutual information and distortion constraints
 [[[ META ]]]
 xmlpapertitle -> Amplification of the Hidden Gaussian Channel States
@@ -33,7 +31,7 @@ xmlendtime -> 16:40
 xmlpaperid -> 1569563411
 xmlsession -> S17.T4: Communication Models
 xmldate -> 1341584400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569563411.txt
+file -> PapersDataset\1569563411.txt
 xmlstarttime -> 16:20
 xmlauthors -> Chao Tian
 xmlroom -> Stratton 20 Chimneys (306)

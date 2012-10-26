@@ -16,12 +16,10 @@ Not saved
 [[[ REFS ]]]
 W. Zhang
 --
-“SC-FDMA for uplink smart meter transmission
 over low voltage power lines
 ----
 C. Ding
 --
-“Algebraic constructions of constant composition
 codes
 ----
 C. Ding
@@ -30,7 +28,6 @@ C. Ding
 ----
 C. Ding
 --
-“A construction of optimal constant composition
 codes
 ----
 S. Huczynska
@@ -45,7 +42,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569565155
 xmlsession -> S4.T6: Identifying Codes and Power Line Communications
 xmldate -> 1341241200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565155.txt
+file -> PapersDataset\1569565155.txt
 xmlstarttime -> 17:00
 xmlauthors -> Yeow Meng Chee, Han Mao Kiah, Alan Ling, Chengmin Wang
 xmlroom -> Kresge Rehearsal A (033)

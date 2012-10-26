@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 H. Seferoglu
 --
-“Video-aware opportunistic network
 coding over wireless networks
 ----
 S. Sorour
 --
-“On minimizing broadcast completion delay
 for instantly decodable network coding
 ----
 M. Chaudhry
@@ -28,7 +26,6 @@ M. Chaudhry
 ----
 S. Sorour
 --
-“Completion delay minimization for instantly
 decodable network codes
 [[[ META ]]]
 xmlpapertitle -> On Densifying Coding Opportunities in Instantly Decodable Network Coding Graphs
@@ -39,7 +36,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569565579
 xmlsession -> S14.T1: Network Erasure Correction
 xmldate -> 1341500400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565579.txt
+file -> PapersDataset\1569565579.txt
 xmlstarttime -> 17:00
 xmlauthors -> Sameh Sorour, Shahrokh Valaee
 xmlroom -> Kresge Rehearsal B (030)

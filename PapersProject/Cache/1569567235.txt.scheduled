@@ -17,27 +17,22 @@ Not saved
 [[[ REFS ]]]
 J. E. Heffernan
 --
-“A conditional approach for multivariate
 extreme value”
 ----
 P. J. Northrop
 --
-“Threshold modelling of spatially dependent non-stationary extremes with application to hurricane-induced wave
 heights
 ----
 J. M. F. Moura
 --
-“Recursive Structure of Noncausal Gauss
 Markov Random Fields
 ----
 J. R. M. Hosking
 --
-“Parameter and Quantile Estimation
 for the Generalized Pareto Distribution
 ----
 P. Jonathan
 --
-“Uncertainties in extreme wave height
 estimates for hurricane-dominated regions
 [[[ META ]]]
 xmlpapertitle -> Modeling Spatially-Dependent Extreme Events with Markov Random Field Priors
@@ -48,7 +43,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569567235
 xmlsession -> S8.T8: Estimation and Detection
 xmldate -> 1341328800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569567235.txt
+file -> PapersDataset\1569567235.txt
 xmlstarttime -> 17:20
 xmlauthors -> Hang Yu, Zheng Choo, Justin Dauwels, Philip Jonathan, Qiao Zhou
 xmlroom -> Stratton (491)

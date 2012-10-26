@@ -13,12 +13,10 @@ Not saved
 [[[ REFS ]]]
 J. Chen
 --
-“The capacity of ﬁnite-state Markov channels
 with feedback
 ----
 O. Elishco
 --
-“Capacity of the ising channel with
 feedback
 ----
 S. Tatikonda
@@ -31,17 +29,14 @@ J. Schalkwijk
 ----
 O. Shayevitz
 --
-“Communication with feedback via posterior
 matching
 ----
 J. H. Bae
 --
-“A posterior matching scheme for
 ﬁnite-state channels with feedback
 ----
 S. Gorantla
 --
-“Equivalence between reliable feedback
 communication and nonlinear ﬁlter stability
 [[[ META ]]]
 xmlpapertitle -> A sequential transmission scheme for unifilar finite-state channels with feedback based on posterior matching
@@ -52,7 +47,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569565415
 xmlsession -> S16.T7: Feedback
 xmldate -> 1341568200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565415.txt
+file -> PapersDataset\1569565415.txt
 xmlstarttime -> 11:50
 xmlauthors -> Achilleas Anastasopoulos
 xmlroom -> Stratton (407)

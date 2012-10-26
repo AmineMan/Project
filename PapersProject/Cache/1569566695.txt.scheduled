@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 T. Chan
 --
-“Mission impossible: Computing the network
 coding capacity region
 ----
 G. Kramer
@@ -23,12 +22,10 @@ G. Kramer
 ----
 J. Chuzhoy
 --
-“Polynomial ﬂow-cut gaps and hardness of
 directed cut problems
 ----
 F. Leighton
 --
-“An approximate max-ﬂow min-cut theorem for
 uniform multicommodity ﬂow problems with applications to approximation algorithms
 ----
 Z. Li
@@ -37,7 +34,6 @@ Z. Li
 ----
 J. Naor
 --
-“A 2-approximation algorithm for the directed
 multiway cut problem
 ----
 Theorems 11
@@ -52,7 +48,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566695
 xmlsession -> S10.T1: Network Coding: Capacity and Bounds
 xmldate -> 1341394200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566695.txt
+file -> PapersDataset\1569566695.txt
 xmlstarttime -> 11:30
 xmlauthors -> Sudeep Kamath, Pramod  Viswanath
 xmlroom -> Kresge Rehearsal B (030)

@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 S. Agrawal
 --
-“On the secrecy rate of interference
 networks using structured codes
 ----
 X. He
 --
-“Providing secrecy with structured codes: Tools and
 applications to two-user Gaussian channels
 ----
 B. Hern
@@ -29,12 +27,10 @@ B. Hern
 ----
 J. Korner
 --
-“How to encode the modulo-two sum of binary
 sources (corresp
 ----
 D. Krithivasan
 --
-“Lattices for distributed source coding:
 Jointly gaussian sources and reconstruction of a linear function
 ----
 B. Nazer
@@ -43,13 +39,12 @@ B. Nazer
 ----
 A. Sahebi
 --
-“On the capacity of abelian group codes
 over discrete memoryless channels
 ----
-We provide a sketch of the achievable rate with feedback
-stated in Prop. 2. We use a two phase protocol. In the ﬁrst
-phase encoders 1
 2 transmit b1i
+phase encoders 1
+stated in Prop. 2. We use a two phase protocol. In the ﬁrst
+We provide a sketch of the achievable rate with feedback
 --
 2 
 [[[ META ]]]
@@ -61,7 +56,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566711
 xmlsession -> S17.T2: Communication and Computation over Multiple Access Channels
 xmldate -> 1341582000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566711.txt
+file -> PapersDataset\1569566711.txt
 xmlstarttime -> 15:40
 xmlauthors -> Ashish Khisti, Brett Hern, Krishna Narayanan
 xmlroom -> Kresge Auditorium (109)

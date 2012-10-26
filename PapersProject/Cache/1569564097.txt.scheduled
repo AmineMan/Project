@@ -13,32 +13,27 @@ Not saved
 [[[ REFS ]]]
 J. Lee
 --
-“High SNR analysis for MIMO broadcast channels:
 Dirty paper coding versus linear precoding
 ----
 J. Mo
 --
-“Fair end-to-end window-based congestion
 control
 ----
 J. Liu
 --
-“Weighted proportional fairness capacity of
 Gaussian MIMO broadcast channels
 ----
 A. M. Tulino
 --
-Random Matrix Theory and Wireless
-u
 Communications
 ----
+mean
+h2 whose elements are Gaussian with zero
+channels h1
+˜
 ˜
 where ZF (H) is the fairness penalty for the homogeneous
 ˜
-˜
-channels h1
-h2 whose elements are Gaussian with zero
-mean
 --
 i
 [[[ META ]]]
@@ -50,7 +45,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569564097
 xmlsession -> S14.T3: Multiple-Antenna Broadcast Channels
 xmldate -> 1341500400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564097.txt
+file -> PapersDataset\1569564097.txt
 xmlstarttime -> 17:00
 xmlauthors -> Juyul Lee
 xmlroom -> Stratton S. de P. Rico (202)

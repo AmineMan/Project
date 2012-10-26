@@ -25,13 +25,10 @@ M. Alsan. Channel polarization
 ----
 I. S. Gradshteyn
 --
-Series and
 Products
 ----
 F (ρ1 ) < 0
 --
-we proceed with the proof of the theorem for the case
-˜
 ρ2 > ρ1 
 ----
 Lemma 5: Given a B-DMC W
@@ -52,7 +49,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566395
 xmlsession -> S16.T8: Error Exponents
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566395.txt
+file -> PapersDataset\1569566395.txt
 xmlstarttime -> 12:10
 xmlauthors -> Mine Alsan
 xmlroom -> Stratton (491)

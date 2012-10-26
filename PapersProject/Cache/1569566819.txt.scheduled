@@ -16,17 +16,15 @@ S. M. Aji
 --
 and Computing
 ----
-J. Coughlan
-H. Shen. Dynamic quantization for belief propagation in
 sparse spaces. Computer Vision
+H. Shen. Dynamic quantization for belief propagation in
+J. Coughlan
 --
-106(1):47–
 58
 ----
-A. T. Ihler
 D. McAllester. Particle belief propagation. In Proceedings of the Conference on Artiﬁcial Intelligence
+A. T. Ihler
 --
-pages
 256–263
 ----
 N. Noorshams
@@ -39,11 +37,10 @@ New York
 ----
 M. J. Wainwright
 --
-Exponential
 Families
 ----
-Fig. 2.
 Plot of a typical BP message
+Fig. 2.
 --
 5
 [[[ META ]]]
@@ -55,7 +52,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569566819
 xmlsession -> S7.T7: Approximate Belief Propagation
 xmldate -> 1341321600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566819.txt
+file -> PapersDataset\1569566819.txt
 xmlstarttime -> 15:20
 xmlauthors -> Nima Noorshams, Martin J. Wainwright
 xmlroom -> Stratton (407)

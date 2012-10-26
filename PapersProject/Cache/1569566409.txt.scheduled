@@ -17,12 +17,10 @@ Not saved
 [[[ REFS ]]]
 M. A. Nielsen
 --
-Quantum Computation and Quantum
 Information
 ----
 H. P. Yuen
 --
-“Ultimate information carrying limit of
 quantum systems
 [[[ META ]]]
 xmlpapertitle -> The Ultimate Limits of Optical Communication Efficiency with Photon-Counting Receivers
@@ -33,7 +31,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569566409
 xmlsession -> S3.T9: Communication Problems in Quantum Optics
 xmldate -> 1341232800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566409.txt
+file -> PapersDataset\1569566409.txt
 xmlstarttime -> 14:40
 xmlauthors -> Sam Dolinar, Baris I Erkmen, Bruce Moision, Kevin Birnbaum, Dariush Divsalar
 xmlroom -> Stratton West Lounge (201)

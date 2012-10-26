@@ -19,12 +19,10 @@ T. Han
 ----
 G. Bresler
 --
-“The two-user gaussian interference channel:
 a deterministic view
 ----
 A. Gamal
 --
-“The capacity region of a class of deterministic
 interference channels (corresp
 [[[ META ]]]
 xmlpapertitle -> A Deterministic Approach to Random Access Interference Channel
@@ -35,7 +33,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566911
 xmlsession -> S11.T3: Deterministic Models
 xmldate -> 1341475800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566911.txt
+file -> PapersDataset\1569566911.txt
 xmlstarttime -> 10:10
 xmlauthors -> Javad Behrouzi Moghaddam, Akbar Ghasemi, Amir K. Khandani
 xmlroom -> Stratton S. de P. Rico (202)

@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 C. Suh
 --
-“Exact-repair MDS codes for distributed
 storage using interference alignment
 ----
 Y. Wu
 --
-“Reducing repair trafﬁc for erasure coding-based
 storage via interference alignment
 [[[ META ]]]
 xmlpapertitle -> Access vs. Bandwidth in Codes for Storage
@@ -31,7 +29,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569564861
 xmlsession -> S7.T5: Regenerating Codes
 xmldate -> 1341320400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564861.txt
+file -> PapersDataset\1569564861.txt
 xmlstarttime -> 15:00
 xmlauthors -> Itzhak Tamo, Zhiying Wang, Jehoshua Bruck
 xmlroom -> Kresge Little Theatre (035)

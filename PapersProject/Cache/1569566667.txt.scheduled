@@ -18,26 +18,22 @@ B. Schein
 ----
 S. Shamai
 --
-“A broadcast approach for a single-user slowly
 fading MIMO channel
 ----
 A. Steiner
 --
-“Single-user broadcasting protocols over a
 two-hop relay fading channel
 ----
 P. Minero
 --
-“A broadcast approach to multiple access with
 random states
 ----
 M. Zamani
 --
-“On the maximum achievable rates in the
 decode-forward diamond channel
 ----
-subject to the power
 rate constraints eqs. (18)
+subject to the power
 --
 however is looser than the above upper-bound
 [[[ META ]]]
@@ -49,7 +45,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566667
 xmlsession -> S9.T2: Relaying over Interference Networks
 xmldate -> 1341391800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566667.txt
+file -> PapersDataset\1569566667.txt
 xmlstarttime -> 10:50
 xmlauthors -> Mahdi Zamani, Amir K. Khandani
 xmlroom -> Kresge Auditorium (109)

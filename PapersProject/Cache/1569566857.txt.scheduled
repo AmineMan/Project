@@ -13,37 +13,35 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-M. Mitzenmacher
-E. Upfal. Probability
-Computing: Randomized
 Algorithms
+Computing: Randomized
+E. Upfal. Probability
+M. Mitzenmacher
 --
-New
 York
 ----
 D. S. Hochbaum
 --
-37:843–
 862
 ----
 M. Grant
 --
 version 1
 ----
-M. Grant
-S. Boyd. Graph implementations for nonsmooth convex
 programs. In Recent Advances in Learning
+S. Boyd. Graph implementations for nonsmooth convex
+M. Grant
 --
 pages 95–110
 ----
-S. M. Stefanov. Convex separable minimization subject to bounded
 variables. Comp. Optimization
+S. M. Stefanov. Convex separable minimization subject to bounded
 --
 18
 ----
-and hence Pe → 0 as n → ∞.
-Proof:
 The proof follows directly from Lemma 1
+Proof:
+and hence Pe → 0 as n → ∞.
 --
 since p ≥ Ep logrr 
 [[[ META ]]]
@@ -55,7 +53,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566857
 xmlsession -> S16.T1: Coded Storage and Caching
 xmldate -> 1341567000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566857.txt
+file -> PapersDataset\1569566857.txt
 xmlstarttime -> 11:30
 xmlauthors -> Vasileios Ntranos, Giuseppe Caire, Alex Dimakis
 xmlroom -> Kresge Rehearsal B (030)

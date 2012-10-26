@@ -45,7 +45,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569565547
 xmlsession -> S9.T8: Portfolios and Estimation
 xmldate -> 1341390600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565547.txt
+file -> PapersDataset\1569565547.txt
 xmlstarttime -> 10:30
 xmlauthors -> Jayadev Acharya, Hirakendu Das, Ashkan Jafarpour, Alon  Orlitsky, Shengjun Pan
 xmlroom -> Stratton (491)

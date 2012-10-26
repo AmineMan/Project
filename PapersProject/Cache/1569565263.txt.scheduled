@@ -12,18 +12,16 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-A. D. Wyner. A note on a class of binary cyclic codes which correct
 solid-burst errors. IBM Journal of Research
+A. D. Wyner. A note on a class of binary cyclic codes which correct
 --
-pages
 68–69
 ----
-that the burst error correcting ability of the corresponding
-Gilbert code is b = 6. Such code would have length 105.
-Suppose we want to correct bursts of length at most 6 with
 weight 2. By choosing the divisors d1 (x)
+Suppose we want to correct bursts of length at most 6 with
+Gilbert code is b = 6. Such code would have length 105.
+that the burst error correcting ability of the corresponding
 --
-we obtain from (7) a code with
 redundancy 14 that achieves this goal
 [[[ META ]]]
 xmlpapertitle -> On Codes for Structured Bursts
@@ -34,7 +32,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569565263
 xmlsession -> S2.T6: Constrained Coding
 xmldate -> 1341223800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565263.txt
+file -> PapersDataset\1569565263.txt
 xmlstarttime -> 12:10
 xmlauthors -> Luis A Lastras-Montaño, Mario Blaum
 xmlroom -> Kresge Rehearsal A (033)

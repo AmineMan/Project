@@ -14,22 +14,18 @@ Not saved
 [[[ REFS ]]]
 S. Yang
 --
-“Optimal space-time codes for the mimo
 amplify-and-forward cooperative channel
 ----
 C. Hollanti
 --
-“Construction methods for asymmetric and
 multi-block space-time codes
 ----
 E. Viterbo
 --
-“A universal lattice code decoder for fading
 channel
 ----
 G. R. Jithamithra
 --
-“A quadratic form approach
 to ML decoding complexity of STBCs
 ----
 R. Vehkalahti
@@ -42,12 +38,10 @@ An Optimal Two Transmit Antenna SpaceTime Code And Its Stacked Extensions
 ----
 L. P. Natarajan
 --
-“Fast group-decodable STBCs via codes
 over GF(4)
 ----
 G. Susinder Rajan
 --
-“Multi-group ML Decodable
 Collocated and Distributed Space Time Block Codes
 ----
 C. Hollanti
@@ -62,7 +56,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569566141
 xmlsession -> S6.T2: Code Design for Relay Channels
 xmldate -> 1341309000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566141.txt
+file -> PapersDataset\1569566141.txt
 xmlstarttime -> 11:50
 xmlauthors -> Camilla J. Hollanti, Nadya Markin
 xmlroom -> Kresge Auditorium (109)

@@ -19,7 +19,6 @@ J. K. Hart
 ----
 E. Candes
 --
-“Sparsity and incoherence in compressive
 sampling
 ----
 A. Giorgetti
@@ -28,12 +27,10 @@ A. Giorgetti
 ----
 S. Lin
 --
-Error Control Coding: Fundamentals and
 Applications
 ----
 M. Zorzi
 --
-“Outage probability in multiple access packet
 radio networks in the presence of fading
 ----
 Fig. 5. The savings in energy
@@ -48,7 +45,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566635
 xmlsession -> S9.T7: Medium Access Control
 xmldate -> 1341391800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566635.txt
+file -> PapersDataset\1569566635.txt
 xmlstarttime -> 10:50
 xmlauthors -> Fatemeh Fazel, Maryam Fazel, Milica Stojanovic
 xmlroom -> Stratton (407)

@@ -22,7 +22,6 @@ F. Oggier
 ----
 C. Suh
 --
-“Exact regeneration codes for distributed
 storage repair using interference alignment
 ----
 D. S. Papailiopoulos
@@ -31,8 +30,6 @@ D. S. Papailiopoulos
 ----
 J. Han
 --
-“Reliable memories with subline
-n
 accesses” in Proc
 [[[ META ]]]
 xmlpapertitle -> Locally Repairable Codes
@@ -43,7 +40,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566887
 xmlsession -> S16.T1: Coded Storage and Caching
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566887.txt
+file -> PapersDataset\1569566887.txt
 xmlstarttime -> 12:10
 xmlauthors -> Dimitris Papailiopoulos, Alex Dimakis
 xmlroom -> Kresge Rehearsal B (030)

@@ -22,12 +22,10 @@ S. Kannan
 ----
 V.I. Levenshtein
 --
-“Error graphs and the reconstruction
 of elements in groups
 ----
 K. Viswanathan
 --
-“Improved string reconstruction
 over insertion-deletion channels
 [[[ META ]]]
 xmlpapertitle -> On the Uncertainty of Information Retrieval in Associative Memories
@@ -40,7 +38,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569564919
 xmlsession -> S1.T6: Combinatorial Problems in Coding
 xmldate -> 1341216600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564919.txt
+file -> PapersDataset\1569564919.txt
 xmlstarttime -> 10:10
 xmlauthors -> Eitan Yaakobi, Jehoshua Bruck
 xmlroom -> Kresge Rehearsal A (033)

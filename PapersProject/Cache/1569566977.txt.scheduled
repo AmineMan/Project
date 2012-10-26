@@ -22,12 +22,10 @@ Distributed space-timecoded protocols for exploiting cooperative diversity in wi
 ----
 M. Yuksel
 --
-Multi-antenna cooperative wireless systems: A
 diversity multiplexing tradeoff perspective
 ----
 A. Ozgur
 --
-Approximately achieving Gaussian relay
 network capacity with lattice codes
 [[[ META ]]]
 xmlpapertitle -> Dynamic QMF for Half-Duplex Relay Networks
@@ -38,7 +36,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569566977
 xmlsession -> S3.T3: *-and-Forward Relaying
 xmldate -> 1341235200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566977.txt
+file -> PapersDataset\1569566977.txt
 xmlstarttime -> 15:20
 xmlauthors -> Ayfer Özgür, Suhas Diggavi
 xmlroom -> Stratton S. de P. Rico (202)

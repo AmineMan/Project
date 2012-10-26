@@ -20,7 +20,6 @@ J. L. Massey
 ----
 Y. Yu
 --
-“High-throughput random access using
 successive interference cancellation in a tree algorithm
 ----
 T. Richardson
@@ -29,17 +28,14 @@ T. Richardson
 ----
 A. Jimenez Felstr¨ m
 --
-“Time-varying periodic convoo
 lutional codes with low-density parity-check matrix
 ----
 M. Lentmaier
 --
-“On the thresholds of generalized
 LDPC convolutional codes based on protographs
 ----
 S. Kudekar
 --
-“The effect of spatial coupling on compressive
 sensing
 [[[ META ]]]
 xmlpapertitle -> Spatially-Coupled Random Access on Graphs
@@ -50,7 +46,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569565315
 xmlsession -> S3.T6: Codes and Their Applications
 xmldate -> 1341232800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565315.txt
+file -> PapersDataset\1569565315.txt
 xmlstarttime -> 14:40
 xmlauthors -> Gianluigi Liva, Enrico Paolini, Michael Lentmaier, Marco Chiani
 xmlroom -> Kresge Rehearsal A (033)

@@ -23,13 +23,10 @@ U. Niesen
 ----
 B. Hassibi
 --
-“How much training is needed in
 multiple-antenna wireless links
 ----
 U. Erez
 --
-“Achieving 1 log(1 + SNR) on the awgn channel
-2
 with lattice encoding and decoding
 ----
 B. Hern
@@ -44,7 +41,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569566697
 xmlsession -> S3.T3: *-and-Forward Relaying
 xmldate -> 1341232800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566697.txt
+file -> PapersDataset\1569566697.txt
 xmlstarttime -> 14:40
 xmlauthors -> Chen Feng, Danilo Silva, Frank R. Kschischang
 xmlroom -> Stratton S. de P. Rico (202)

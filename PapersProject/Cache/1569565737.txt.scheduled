@@ -16,12 +16,10 @@ Not saved
 [[[ REFS ]]]
 F.-M. Li
 --
-“On the new stopping criteria of iterative turbo
 decoding by using decoding threshold
 ----
 J. Schalkwijk
 --
-“Syndrome decoding of binary rate-1/2
 convolutional codes
 ----
 T. Minowa
@@ -30,23 +28,19 @@ T. Minowa
 ----
 T. Ngatched
 --
-“Simple stopping criterion for turbo
 decoding
 ----
 R. Johannesson
 --
-Fundamentals of Convolutional
 Coding
 ----
 P. Wu
 --
-“Coding versus arq in fading channels: How reliable
 should the phy be?” IEEE Trans
 ----
-VI. C ONCLUSIONS
 A syndrome based MAP decoding approach for convolutional codes has been presented in this paper
+VI. C ONCLUSIONS
 --
-with negligible performance
 loss around a given typical working point
 [[[ META ]]]
 xmlpapertitle -> Low Complexity Syndrome Based Decoding of Turbo Codes
@@ -57,7 +51,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569565737
 xmlsession -> S13.T6: Convolutional and Turbo Codes
 xmldate -> 1341496800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565737.txt
+file -> PapersDataset\1569565737.txt
 xmlstarttime -> 16:00
 xmlauthors -> Jan Geldmacher, Klaus Hueske, Jürgen Götze, Martin Kosakowski
 xmlroom -> Kresge Rehearsal A (033)

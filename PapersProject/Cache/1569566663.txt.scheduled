@@ -15,8 +15,6 @@ Not saved
 [[[ REFS ]]]
 L. Kleinrock
 --
-’‘Packet switching in radio channels:
-Part I–carrier sense multiple-access modes and their throughput-delay
 characteristics”
 ----
 P. Minero,,M. Franceschetti
@@ -25,37 +23,31 @@ Tse
 ----
 S.A. Jafar
 --
-’‘Degrees of freedom region of the MIMO X
 channel”
 ----
 V.R. Cadambe
 --
-’‘Degrees of freedom of wireless X
 networks”
 ----
 C. Huang,V.R. Cadambe
 --
-’‘On the capacity and generalized
 degrees of freedom of the x channel”
 ----
 G. Bresler
 --
-’two-user Gaussian interference channel: a
 deterministic view”
 ----
 U. Niesen
 --
-’‘Interference Alignment: From
 Degrees-of-Freedom to Constant-Gap Capacity Approximations”
 ----
-3
-4) 4 ≤ α ≤ 1: Using signal transmission with linear precoding makes the X channel preform much better than IC by
-exploiting the possibility of suppressing the interference using
-the interference alignment. The optimized signaling which is
-based on the signal space alignment method is described in
 details in [8]
+based on the signal space alignment method is described in
+the interference alignment. The optimized signaling which is
+exploiting the possibility of suppressing the interference using
+4) 4 ≤ α ≤ 1: Using signal transmission with linear precoding makes the X channel preform much better than IC by
+3
 --
-depending on the
 value of nα
 [[[ META ]]]
 xmlpapertitle -> Random Access in Wireless X Networks: A Deterministic View
@@ -66,7 +58,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569566663
 xmlsession -> S11.T3: Deterministic Models
 xmldate -> 1341474600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566663.txt
+file -> PapersDataset\1569566663.txt
 xmlstarttime -> 09:50
 xmlauthors -> Seyyed Mahboubi, Ehsan Ebrahimzadeh, Amir K. Khandani
 xmlroom -> Stratton S. de P. Rico (202)

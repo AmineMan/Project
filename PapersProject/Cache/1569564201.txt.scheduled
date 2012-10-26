@@ -19,7 +19,6 @@ Stream cryptography and its applications
 ----
 R.A.Games
 --
-“A fast algorithm for determining the
 complexity of a binary sequence with period 2n 
 ----
 S.W.Golomb
@@ -42,7 +41,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569564201
 xmlsession -> S7.T6: Sequences and Their Properties
 xmldate -> 1341322800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564201.txt
+file -> PapersDataset\1569564201.txt
 xmlstarttime -> 15:40
 xmlauthors -> Min Zeng, Yuan Luo, Guang Gong
 xmlroom -> Kresge Rehearsal A (033)

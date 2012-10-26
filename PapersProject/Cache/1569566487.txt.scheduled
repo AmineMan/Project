@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 I.-J. Baik
 --
-“Network coding for two-way relay channels
 using lattices
 ----
 P. Popovski
 --
-“Physical network coding in two-way wireless
 relay channels
 ----
 B. Nazer
@@ -41,12 +39,10 @@ H. Rubin
 ----
 A. Elbert
 --
-“An asymptotic relation for the zeros of
 Bessel functions”
 ----
 U. Erez
 --
-“Achieving 1/2log(1+SNR) on the AWGN channel
 with Lattice Encoding and Decoding
 [[[ META ]]]
 xmlpapertitle -> Secure Computation in a Bidirectional Relay
@@ -57,7 +53,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569566487
 xmlsession -> S7.T4: Secrecy in Computation and Communication
 xmldate -> 1341320400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566487.txt
+file -> PapersDataset\1569566487.txt
 xmlstarttime -> 15:00
 xmlauthors -> Navin Kashyap, Shashank V, Andrew Thangaraj
 xmlroom -> Stratton 20 Chimneys (306)

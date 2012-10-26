@@ -14,18 +14,14 @@ Not saved
 [[[ REFS ]]]
 I. Csisz´ r
 --
-“Broadcast channels with conﬁdential mesa
-o
 sages
 ----
 Y. Chia
 --
-“3-receiver broadcast channels with
 common and conﬁdential messages
 ----
 N. Cai
 --
-“How to broadcast privacy: Secret coding for
 deterministic broadcast channels
 ----
 A. E. Gamal
@@ -34,18 +30,16 @@ Network Information Theory
 ----
 S. N. Diggavi
 --
-“The worst additive noise under a
 covariance constraint
 ----
-from which we recover (13) by deﬁning P21 = P1 − P11 . The
-upper bounds on R12
-R22 can be established in a similar
-fashion
-will be skipped.
-VI. C ONCLUSION
 We study the problem of secure broadcasting of two messages to two groups of users over two independent
+VI. C ONCLUSION
+will be skipped.
+fashion
+R22 can be established in a similar
+upper bounds on R12
+from which we recover (13) by deﬁning P21 = P1 − P11 . The
 --
-both interested in a
 common message
 [[[ META ]]]
 xmlpapertitle -> On Private Broadcasting over Independent Parallel Channels
@@ -56,7 +50,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569566725
 xmlsession -> S3.T4: Secure Communications
 xmldate -> 1341234000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566725.txt
+file -> PapersDataset\1569566725.txt
 xmlstarttime -> 15:00
 xmlauthors -> Ashish Khisti, Tie Liu
 xmlroom -> Stratton 20 Chimneys (306)

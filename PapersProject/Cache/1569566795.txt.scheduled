@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 Y. Birk
 --
-“Informed-source coding-on-demand (iscod)
 over broadcast channels
 ----
 M. Langberg
@@ -28,7 +27,6 @@ E. Lubetzky
 ----
 D. Welsh
 --
-“An upper bound for the chromatic
 number of a graph and its application to timetabling problems
 [[[ META ]]]
 xmlpapertitle -> Bipartite Index Coding
@@ -39,7 +37,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566795
 xmlsession -> S13.T1: Index Coding
 xmldate -> 1341495600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566795.txt
+file -> PapersDataset\1569566795.txt
 xmlstarttime -> 15:40
 xmlauthors -> Arash Saber Tehrani, Alex Dimakis, Michael J. Neely
 xmlroom -> Kresge Rehearsal B (030)

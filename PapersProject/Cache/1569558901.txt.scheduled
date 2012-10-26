@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 H. L. Abbot
 --
-“On the construction of snake in the
 box codes
 ----
 A. Barg
 --
-“Codes in permutations and error correction
 for rank modulation
 ----
 J. Brewer
 --
-Nonvolatile Memory Technologies with Emphasis
 on Flash
 ----
 M. Deza
@@ -37,7 +34,6 @@ Rank Correlation Methods
 ----
 I. Tamo
 --
-“Correcting limited-magnitude errors in the
 rank-modulation scheme
 ----
 Z. Wang
@@ -46,7 +42,6 @@ Z. Wang
 ----
 Y. Yehezkeally
 --
-“Snake-in-the-box codes for rank
 modulation
 [[[ META ]]]
 xmlpapertitle -> Snake-in-the-Box Codes for Rank Modulation
@@ -57,7 +52,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569558901
 xmlsession -> S17.T1: Rank-Modulation Coding
 xmldate -> 1341580800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569558901.txt
+file -> PapersDataset\1569558901.txt
 xmlstarttime -> 15:20
 xmlauthors -> Yonatan Yehezkeally, Moshe Schwartz
 xmlroom -> Kresge Rehearsal B (030)

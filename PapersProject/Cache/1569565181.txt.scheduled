@@ -17,17 +17,14 @@ Cambridge
 ----
 J. A. O’Sullivan
 --
-“Large deviations performance
 analysis for biometrics recognition
 ----
 E. Tuncel
 --
-“Identiﬁcation and lossy reconstruction in noisy
 databases
 ----
 M. B. Westover
 --
-“Achievable rates for pattern
 recognition
 [[[ META ]]]
 xmlpapertitle -> Recognition Capacity Versus Search Speed in Noisy Databases
@@ -38,7 +35,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569565181
 xmlsession -> S14.T7: Topics in Shannon Theory
 xmldate -> 1341499200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565181.txt
+file -> PapersDataset\1569565181.txt
 xmlstarttime -> 16:40
 xmlauthors -> Ertem Tuncel
 xmlroom -> Stratton (407)

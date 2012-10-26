@@ -18,13 +18,10 @@ A. Fiat
 ----
 F. Fu
 --
-“On the capacity of generalized write-once
-memory with state transitions described by an arbitrary directed acyclic
 graph
 ----
 R. Gabrys
 --
-“Characterizing capacity achieving write once
 memory codes for multilevel ﬂash memoriess
 ----
 R.L. Rivest
@@ -33,7 +30,6 @@ R.L. Rivest
 ----
 Y. Wu
 --
-“Position modulation code for rewriting write-once
 memories
 [[[ META ]]]
 xmlpapertitle -> High Sum-Rate Three-Write and Non-Binary WOM Codes
@@ -46,7 +42,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569564249
 xmlsession -> S8.T5: WOM Codes
 xmldate -> 1341327600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564249.txt
+file -> PapersDataset\1569564249.txt
 xmlstarttime -> 17:00
 xmlauthors -> Eitan Yaakobi, Amir Shpilka
 xmlroom -> Kresge Little Theatre (035)

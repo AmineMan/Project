@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 N. Ratnakar
 --
-52(6):2425 –
 2432
 ----
 G. Kramer
@@ -37,11 +36,11 @@ A. El Gamal
 --
 2011
 ----
-Now we ask whether R1(SNNC) in (15) with the constraint (16)
-is equivalent to R1(NNC) in (17). This is equivalent to asking
-K
-K
 whether RSNNC = RNNC in point 1
+K
+K
+is equivalent to R1(NNC) in (17). This is equivalent to asking
+Now we ask whether R1(SNNC) in (15) with the constraint (16)
 --
 choose R2 = ǫ
 [[[ META ]]]
@@ -53,7 +52,7 @@ xmlendtime -> 13:10
 xmlpaperid -> 1569565953
 xmlsession -> S10.T1: Network Coding: Capacity and Bounds
 xmldate -> 1341399000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565953.txt
+file -> PapersDataset\1569565953.txt
 xmlstarttime -> 12:50
 xmlauthors -> Jie Hou, Gerhard Kramer
 xmlroom -> Kresge Rehearsal B (030)

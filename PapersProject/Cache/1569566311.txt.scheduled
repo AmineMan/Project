@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 J. F. Chamberland
 --
-“Decentralized detection in
 sensor networks
 ----
 M. M. AI-Ibrahim
@@ -24,7 +23,6 @@ M. M. AI-Ibrahim
 ----
 A. Nasipuri
 --
-“Nonparametric distributed detection
 using wilconxin statistics
 ----
 B. Scholkopf
@@ -39,7 +37,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566311
 xmlsession -> S2.T8: Distributed Detection and Estimation
 xmldate -> 1341223800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566311.txt
+file -> PapersDataset\1569566311.txt
 xmlstarttime -> 12:10
 xmlauthors -> Jiayao Hu, Yingbin Liang, Eric P Xing
 xmlroom -> Stratton (491)

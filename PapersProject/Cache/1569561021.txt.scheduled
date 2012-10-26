@@ -15,32 +15,27 @@ Not saved
 [[[ REFS ]]]
 I. Csiczar
 --
-Information Theory: Coding theorems for
 discrete memoryless systems
 ----
-W. Elmenreich
 T. Ibounig
+W. Elmenreich
 --
-Robustness versus
 Performance in Sorting and Tournament Algorithms
 ----
-J. Giesen
 E. Schuberth
+J. Giesen
 --
 Approximate Sorting
 ----
-K. B. Lakshmanan
 B. Ravikumar
+K. B. Lakshmanan
 --
-Coping with
 Erroneous Information While Sorting
 ----
-V. C ONCLUSION
-Algorithm design has been mostly concerned with resource
 issues like time
+Algorithm design has been mostly concerned with resource
+V. C ONCLUSION
 --
-we
-have presented a new analysis technique for algorithms: The
 trajectories of algorithm runs are tracked in the relevant solution space
 [[[ META ]]]
 xmlpapertitle -> The Information Content in Sorting Algorithms
@@ -51,7 +46,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569561021
 xmlsession -> S15.T9: Strings, Sorting, and Biology
 xmldate -> 1341562200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569561021.txt
+file -> PapersDataset\1569561021.txt
 xmlstarttime -> 10:10
 xmlauthors -> Ludwig Busse, Morteza Chehreghani, Joachim Buhmann
 xmlroom -> Stratton West Lounge (201)

@@ -17,17 +17,14 @@ Not saved
 [[[ REFS ]]]
 S. Arora
 --
-“Computational Complexity: A
 Modern Ap- proach
 ----
 Y. Ben-Asher
 --
-“Decision trees with
 boolean threshold queries
 ----
 H. Buhrman
 --
-“Complexity measures and
 decision tree complexity: A survey
 ----
 H. Kowshik
@@ -44,7 +41,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569565369
 xmlsession -> S15.T6: Fundamental Limits on Complexity
 xmldate -> 1341562200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565369.txt
+file -> PapersDataset\1569565369.txt
 xmlstarttime -> 10:10
 xmlauthors -> Hirakendu Das, Ashkan Jafarpour, Alon  Orlitsky, Shengjun Pan, Ananda Theertha Suresh
 xmlroom -> Kresge Rehearsal A (033)

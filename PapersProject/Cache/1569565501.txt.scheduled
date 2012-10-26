@@ -21,7 +21,6 @@ Elements of Information Theory
 ----
 A. El Gamal
 --
-“The capacity of the semideterministic relay
 channel
 [[[ META ]]]
 xmlpapertitle -> An upper bound on relaying over capacity
@@ -32,7 +31,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569565501
 xmlsession -> S5.T2: Relay Channels
 xmldate -> 1341301800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565501.txt
+file -> PapersDataset\1569565501.txt
 xmlstarttime -> 09:50
 xmlauthors -> Feng Xue
 xmlroom -> Kresge Auditorium (109)

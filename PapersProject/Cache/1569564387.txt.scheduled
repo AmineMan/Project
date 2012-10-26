@@ -32,10 +32,9 @@ R. Raz
 --
 and sub-constant error-probability PCP characterization of NP
 ----
-We then conclude (recall that d = maxv∈V dv ):
 Theorem 4 The cooperative data exchange problem on general topologies has an approximation ratio
+We then conclude (recall that d = maxv∈V dv ):
 --
-∆ 1 + k−d¯
 
 [[[ META ]]]
 xmlpapertitle -> Coded Cooperative Data Exchange Problem for General Topologies
@@ -48,7 +47,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569564387
 xmlsession -> S15.T1: Data Exchange and Gathering
 xmldate -> 1341561000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564387.txt
+file -> PapersDataset\1569564387.txt
 xmlstarttime -> 09:50
 xmlauthors -> Mira Gonen, Michael Langberg
 xmlroom -> Kresge Rehearsal B (030)

@@ -20,12 +20,10 @@ R. Koetter
 ----
 A. R. Lehman
 --
-“Complexity classiﬁcation of network
 information ﬂow problems
 ----
 V. R. Cadambe
 --
-“Interference alignment and degrees
 of freedom of the k-user interference channel
 [[[ META ]]]
 xmlpapertitle -> On the Feasibility of Precoding-Based Network Alignment for Three Unicast Sessions
@@ -36,7 +34,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566445
 xmlsession -> S11.T1: Network Coding for Multiple Unicast Sessions
 xmldate -> 1341477000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566445.txt
+file -> PapersDataset\1569566445.txt
 xmlstarttime -> 10:30
 xmlauthors -> Chun Meng, Abinesh Ramakrishnan, Athina Markopoulou, Syed Ali Jafar
 xmlroom -> Kresge Rehearsal B (030)

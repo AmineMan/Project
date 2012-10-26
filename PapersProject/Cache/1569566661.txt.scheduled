@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 J. Dean
 --
-“MapReduce: Simpliﬁed data processing
 on large clusters
 ----
 T. Richardson
@@ -33,7 +32,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566661
 xmlsession -> S6.T4: Distributed Applications
 xmldate -> 1341311400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566661.txt
+file -> PapersDataset\1569566661.txt
 xmlstarttime -> 12:30
 xmlauthors -> Qiaomin Xie, Yi Lu
 xmlroom -> Stratton 20 Chimneys (306)

@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 A. J. Felstr¨ m
 --
-“Time-varying periodic convoo
 lutional codes with low-density parity-check matrix
 ----
 T. Richardson
@@ -24,7 +23,6 @@ Modern Coding Theory
 ----
 V. Aref
 --
-“Universal rateless codes from coupled LT
 codes
 ----
 T. Richardson
@@ -33,12 +31,10 @@ T. Richardson
 ----
 T. Tanaka
 --
-“Typical performance of regular low-density
 parity-check codes over general symmetric channels
 ----
 K. Kasai
 --
-“Spatially-coupled MacKay-Neal codes and
 Hsu-Anastasopoulos codes
 ----
 A. Montanari
@@ -47,7 +43,6 @@ A. Montanari
 ----
 S. Kudekar
 --
-“Spatially coupled codes over the multiple
 access channel
 [[[ META ]]]
 xmlpapertitle -> Spatially-Coupled Binary MacKay-Neal Codes for Channels with Non-Binary Inputs and Affine Subspace Outputs
@@ -58,7 +53,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569565883
 xmlsession -> S3.T5: Spatially-Coupled Coding
 xmldate -> 1341235200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565883.txt
+file -> PapersDataset\1569565883.txt
 xmlstarttime -> 15:20
 xmlauthors -> Kenta Kasai, Takayuki Nozaki, Kohichi Sakaniwa
 xmlroom -> Kresge Little Theatre (035)

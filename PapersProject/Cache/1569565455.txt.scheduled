@@ -19,33 +19,26 @@ N. T. Gaarder
 ----
 C. Suh
 --
-“Feedback capacity of the Gaussian interference
 channel to within 2 bits
 ----
 T. M. Cover
 --
-“An achievable rate region for
 the multiple-access channel with feedback
 ----
 S. I. Bross
 --
-“An improved achievable rate region for
-the discrete memoryless two-user multiple-access channel with noiseless
 feedback
 ----
 R. Venkataramanan
 --
-“A new achievable rate region for
 the multiple-access channel with noiseless feedback
 ----
 J. P. M. Schalkwijk
 --
-“A coding scheme for additive
 noise channels with feedback - part I: No bandwith constraint
 ----
 F. M. J. Willems
 --
-“The discrete memoryless
 multiple-access channel with cribbing encoders
 [[[ META ]]]
 xmlpapertitle -> Approximate Feedback Capacity of the Gaussian Multicast Channel
@@ -56,7 +49,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569565455
 xmlsession -> S16.T7: Feedback
 xmldate -> 1341567000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565455.txt
+file -> PapersDataset\1569565455.txt
 xmlstarttime -> 11:30
 xmlauthors -> Changho Suh, Naveen Goela, Michael  Gastpar
 xmlroom -> Stratton (407)

@@ -21,10 +21,10 @@ D. L. Donoho
 --
 2003
 ----
-R. Calderbank
-S. Jafarpour. Reed-Muller sensing matrices
-the
 LASSO. International Conference on Sequences
+the
+S. Jafarpour. Reed-Muller sensing matrices
+R. Calderbank
 --
 pp
 [[[ META ]]]
@@ -36,7 +36,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569565425
 xmlsession -> S10.T9: Compressive Sensing and Algorithms
 xmldate -> 1341394200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565425.txt
+file -> PapersDataset\1569565425.txt
 xmlstarttime -> 11:30
 xmlauthors -> Sina Jafarpour, Marco F Duarte, Robert Calderbank
 xmlroom -> Stratton West Lounge (201)

@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 N. Cai
 --
-“Secure Network Coding on a Wiretap
 Network
 ----
 F. Cheng
 --
-“Performance Bounds in Secure Network
 Coding
 ----
 L. H. Ozarow
@@ -41,7 +39,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566813
 xmlsession -> S1.T4: Secrecy Models in Wiretap Channels
 xmldate -> 1341217800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566813.txt
+file -> PapersDataset\1569566813.txt
 xmlstarttime -> 10:30
 xmlauthors -> Fan Cheng, Raymond W. Yeung, Kenneth W. Shum
 xmlroom -> Stratton 20 Chimneys (306)

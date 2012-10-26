@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 G. D. Forney Jr.
 --
-“Modulation and coding for linear
 Gaussian channels
 ----
 J. H. Conway
@@ -23,7 +22,6 @@ Sphere packings
 ----
 U. Erez
 --
-“Achieving 1/2 log(1+SNR) over the additive
 white Gaussian noise channel with lattice encoding and decoding
 ----
 P. M. Gruber
@@ -38,7 +36,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566901
 xmlsession -> S1.T7: Gaussian Channels
 xmldate -> 1341217800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566901.txt
+file -> PapersDataset\1569566901.txt
 xmlstarttime -> 10:30
 xmlauthors -> Amir Ingber, Ram Zamir
 xmlroom -> Stratton (407)

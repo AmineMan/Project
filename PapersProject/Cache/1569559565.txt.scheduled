@@ -13,12 +13,10 @@ Not saved
 [[[ REFS ]]]
 M. V. Burnashev
 --
-“On reliability function of quantum
 communication channel
 ----
 M. Nussbaum
 --
-“The chernoff lower bound for symmetric
 quantum hypothesis testing
 [[[ META ]]]
 xmlpapertitle -> Sphere Packing Bound for Quantum Channels
@@ -29,7 +27,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569559565
 xmlsession -> S1.T9: Theory of Quantum Error Correction
 xmldate -> 1341215400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559565.txt
+file -> PapersDataset\1569559565.txt
 xmlstarttime -> 09:50
 xmlauthors -> Marco Dalai
 xmlroom -> Stratton West Lounge (201)

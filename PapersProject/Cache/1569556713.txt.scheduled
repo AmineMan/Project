@@ -18,12 +18,10 @@ I. Csiszar
 ----
 Y. K. Chia
 --
-“3-Receiver broadcast channels with
 common and conﬁdential messages
 ----
 S. Salehkalaibar
 --
-“The capacity region of a class of
 3-receiver broadcast channels with two eavesdroppers
 ----
 Y. Chen
@@ -32,7 +30,6 @@ Y. Chen
 ----
 Y. K. Chia
 --
-“Wiretap channel with causal state
 information
 [[[ META ]]]
 xmlpapertitle -> On the Secrecy Capacity of 3-Receiver Broadcast Channel With Causal States and Conferencing
@@ -43,7 +40,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569556713
 xmlsession -> S7.T4: Secrecy in Computation and Communication
 xmldate -> 1341321600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569556713.txt
+file -> PapersDataset\1569556713.txt
 xmlstarttime -> 15:20
 xmlauthors -> Sadaf Salehkalaibar, Mohammad Reza Aref
 xmlroom -> Stratton 20 Chimneys (306)

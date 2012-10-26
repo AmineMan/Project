@@ -15,28 +15,22 @@ Not saved
 [[[ REFS ]]]
 M. A. Maddah-Ali
 --
-“Completely stale transmitter channel
 state information is still very useful
 ----
 C. S. Vaze
 --
-“The degrees of freedom region and
-interference alignment for the MIMO interference channel with delayed
 CSI
 ----
 C. S. Vaze
 --
-“The degrees of freedom region of
 the MIMO interference channel with Shannon feedback
 ----
 V. R. Cadambe
 --
-“Degrees of freedom of wireless
 networks with relays
 ----
 C. S. Vaze
 --
-“The degrees of freedom regions of
 MIMO broadcast
 [[[ META ]]]
 xmlpapertitle -> Full-duplex Transmitter Cooperation, Feedback, and the Degrees of Freedom of SISO Gaussian Interference and X Channels
@@ -47,7 +41,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569558509
 xmlsession -> S17.T7: Interference Channels with Feedback
 xmldate -> 1341579600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569558509.txt
+file -> PapersDataset\1569558509.txt
 xmlstarttime -> 15:00
 xmlauthors -> Mohammad Javad Abdoli, Akbar Ghasemi, Amir K. Khandani
 xmlroom -> Stratton (407)

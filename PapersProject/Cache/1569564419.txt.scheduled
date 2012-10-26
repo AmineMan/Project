@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 T. S. Han
 --
-“A new achievable rate region for the
 interference channel
 ----
 J. Korner
@@ -31,7 +30,6 @@ X. Shang
 ----
 X. Shang
 --
-”On the capacity of Gaussian broadcast channels
 that receive interference
 ----
 Y. Liu
@@ -48,12 +46,10 @@ Elements of Information Theory 2nd Edt
 ----
 M. Costa
 --
-“The capacity region of the discrete
 memoryless interference channel with strong interference
 ----
 C. Nair
 --
-“The capacity region of the three receiver
 less noisy broadcast channel
 [[[ META ]]]
 xmlpapertitle -> On a Class of Discrete Memoryless Broadcast Interference Channels
@@ -64,7 +60,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569564419
 xmlsession -> S13.T2: Interference Channels
 xmldate -> 1341494400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564419.txt
+file -> PapersDataset\1569564419.txt
 xmlstarttime -> 15:20
 xmlauthors -> Yuanpeng Liu, Elza Erkip
 xmlroom -> Kresge Auditorium (109)

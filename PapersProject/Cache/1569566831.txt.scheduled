@@ -19,23 +19,15 @@ W. A. Gale
 ----
 A. Dhulipala
 --
-“Universal compression of markov and
 related sources over arbitrary alphabets
 ----
 From Lemmas 7
 --
 the proofs of which are omitted
 ----
-n
 Lemma 8. For n ≥ 2
---
-we have
-√
 n
-2
-hn
-q hn (ψ1 )
-√
+--
 
 [[[ META ]]]
 xmlpapertitle -> Alternating Markov Chains for Distribution Estimation in the Presence of Errors
@@ -46,7 +38,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566831
 xmlsession -> S11.T8: Patterns, Estimation, Hypothesis Testing
 xmldate -> 1341475800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566831.txt
+file -> PapersDataset\1569566831.txt
 xmlstarttime -> 10:10
 xmlauthors -> Farzad Farnoud, Narayana Prasad Santhanam, Olgica Milenkovic
 xmlroom -> Stratton (491)

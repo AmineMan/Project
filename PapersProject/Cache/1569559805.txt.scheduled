@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 R. Koetter
 --
-“On the block error probability of LP
 decoding of LDPC codes
 ----
 N. Halabi
 --
-“LP decoding of regular LDPC codes in
 memoryless channels
 ----
 G. Even
@@ -28,7 +26,6 @@ G. Even
 ----
 P. O. Vontobel
 --
-Graph-cover decoding and ﬁnite-length
 analysis of message-passing iterative decoding of LDPC codes
 ----
 J. Feldman
@@ -37,13 +34,12 @@ J. Feldman
 ----
 V. Skachek
 --
-“Generalized minimum distance iterative
 decoding of expander codes
 ----
-for some constant α < 1.
-2) [asymptotic bound] Let d = d0
-g = Ω(log N )
 sufﬁciently large. For the values of d0
+g = Ω(log N )
+2) [asymptotic bound] Let d = d0
+for some constant α < 1.
 --
 provided that p p0 (d0 )
 [[[ META ]]]
@@ -59,7 +55,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569559805
 xmlsession -> S15.T5: Decoding Algorithms for Codes on Graphs
 xmldate -> 1341561000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559805.txt
+file -> PapersDataset\1569559805.txt
 xmlstarttime -> 09:50
 xmlauthors -> Nissim Halabi, Guy  Even
 xmlroom -> Kresge Little Theatre (035)

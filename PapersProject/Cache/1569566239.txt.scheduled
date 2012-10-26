@@ -42,7 +42,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566239
 xmlsession -> S2.T4: Wiretap Channels with Feedback, Side Information, and Common Messaes
 xmldate -> 1341221400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566239.txt
+file -> PapersDataset\1569566239.txt
 xmlstarttime -> 11:30
 xmlauthors -> Yingbin Liang, Lifeng Lai, H. Vincent Poor, Shlomo (Shitz) Shamai
 xmlroom -> Stratton 20 Chimneys (306)

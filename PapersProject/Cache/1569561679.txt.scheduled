@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 A. Kim
 --
-“Scalar-linear Solvability of Matroidal
 Networks Associated with Representable Matroids”
 ----
 R.W. Yeung
@@ -23,24 +22,20 @@ R.W. Yeung
 ----
 S. Yang
 --
-“Construction of Linear Network Codes that
 achieve a Reﬁned Singleton Bound”
 ----
 R. Koetter
 --
-“An Algebraic Approach to Network
 Coding”
 ----
 K. Prasad
 --
-“A Matroidal Framework
 for Network-Error Correcting Codes”
 ----
-= HLj ,
-where the second equality above follows from the induction
 assumption
+where the second equality above follows from the induction
+= HLj ,
 --
-1j is a column vector of
 length |E| with all zeros except for the 1 at j th position
 [[[ META ]]]
 xmlpapertitle -> A Matroidal Framework for Network-Error Correcting Codes
@@ -51,7 +46,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569561679
 xmlsession -> S9.T1: Network Coding:  Security and Reliability
 xmldate -> 1341390600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569561679.txt
+file -> PapersDataset\1569561679.txt
 xmlstarttime -> 10:30
 xmlauthors -> Krishnan Prasad, B. Sundar Rajan
 xmlroom -> Kresge Rehearsal B (030)

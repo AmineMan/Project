@@ -13,15 +13,10 @@ Not saved
 [[[ REFS ]]]
 O. H¨ ggstr¨ m
 --
-“Nearest neighbor and hard sphere
-a
-o
 models in continuum percolation
 ----
 P. Balister
 --
-“Percolation in the k-nearest neighbor
-a
 graph
 ----
 A. Sarkar
@@ -34,12 +29,10 @@ Continuum percolation
 ----
 R. Meester
 --
-“Uniqueness of unbounded occupied and vacant
 components in boolean models
 ----
 R. M. Burton
 --
-“Long range percolation in stationary
 point processes
 [[[ META ]]]
 xmlpapertitle -> Percolation in Directed Random Geometric Graphs
@@ -50,7 +43,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569565171
 xmlsession -> S4.T3: Connectivity and Interference
 xmldate -> 1341240000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565171.txt
+file -> PapersDataset\1569565171.txt
 xmlstarttime -> 16:40
 xmlauthors -> Olivier Dousse
 xmlroom -> Stratton S. de P. Rico (202)

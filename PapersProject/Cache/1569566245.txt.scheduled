@@ -13,9 +13,9 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-R. Affentranger
-R. Schneider. Random projections of regular
 simplices. Discr.
+R. Schneider. Random projections of regular
+R. Affentranger
 --
 7:219–226
 ----
@@ -45,17 +45,16 @@ D. L. Donoho
 ----
 D. L. Donoho
 --
-with implications for modern data analysis
 and signal processing
 ----
-P. Schniter. Turbo Reconstruction of Structured Sparse Signals. In
 Proceedings of the Conference on Information Sciences
+P. Schniter. Turbo Reconstruction of Structured Sparse Signals. In
 --
 2010
 ----
-A. M. Vershik
-P. V. Sporyshev. Asymptotic behavior of the number
 of faces of random polyhedra
+P. V. Sporyshev. Asymptotic behavior of the number
+A. M. Vershik
 --
 11:181201
 [[[ META ]]]
@@ -67,7 +66,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569566245
 xmlsession -> S9.T9: Compressive Sensing and Phase Transitions
 xmldate -> 1341389400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566245.txt
+file -> PapersDataset\1569566245.txt
 xmlstarttime -> 10:10
 xmlauthors -> Mohsen Bayati, Marc Lelarge, Andrea Montanari
 xmlroom -> Stratton West Lounge (201)

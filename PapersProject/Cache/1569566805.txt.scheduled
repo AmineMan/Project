@@ -15,17 +15,14 @@ Not saved
 [[[ REFS ]]]
 M. Davey
 --
-“Low-density parity check codes over
 GF(q)
 ----
 F. J. MacWilliams
 --
-The Theory of Error-Correcting
 Codes
 ----
 R. Lidl
 --
-Introduction to ﬁnite ﬁelds and their
 applications
 ----
 T. Richardson
@@ -40,7 +37,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569566805
 xmlsession -> S13.T5: Analysis of LDPC Codes
 xmldate -> 1341494400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566805.txt
+file -> PapersDataset\1569566805.txt
 xmlstarttime -> 15:20
 xmlauthors -> Takayuki Nozaki, Kenta Kasai, Kohichi Sakaniwa
 xmlroom -> Kresge Little Theatre (035)

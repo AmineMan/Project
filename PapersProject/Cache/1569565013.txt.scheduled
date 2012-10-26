@@ -15,13 +15,10 @@ Not saved
 [[[ REFS ]]]
 A. Guill´ n i F` bregas
 --
-“Bit-interleaved coded modulae
-a
 tion with shaping
 ----
 E. Agrell
 --
-“Optimal signal sets and binary labelings
 for BICM at low SNR
 [[[ META ]]]
 xmlpapertitle -> Mismatched Shaping Schemes for Bit-Interleaved Coded Modulation
@@ -32,7 +29,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569565013
 xmlsession -> S13.T8: Coded Modulation
 xmldate -> 1341495600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565013.txt
+file -> PapersDataset\1569565013.txt
 xmlstarttime -> 15:40
 xmlauthors -> Li Peng, Albert Guillén i Fàbregas, Alfonso Martinez
 xmlroom -> Stratton (491)

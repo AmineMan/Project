@@ -14,28 +14,22 @@ Not saved
 [[[ REFS ]]]
 H. Holma
 --
-LTE for UMTS: OFDMA and SC-FDMA
 based radio access
 ----
 H. Kushner
 --
-“Convergence of proportional-fair sharing
 algorithms under general conditions
 ----
 J. Choi
 --
-“Cell-throughput analysis of the proportional fair
 scheduler in the single-cell environment
 ----
 E. Liu
 --
-“Proportional fair scheduling: analytical insight
 under rayleigh fading environment
 ----
 K. Shanmugam
 --
-“Wireless downloading delay under
-proportional fair scheduling with coupled service and requests: An
 approximated analysis
 ----
 G. Grimmett
@@ -50,7 +44,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569565495
 xmlsession -> S16.T4: Delay and Deadline Constrained Communication
 xmldate -> 1341568200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565495.txt
+file -> PapersDataset\1569565495.txt
 xmlstarttime -> 11:50
 xmlauthors -> Karthikeyan Shanmugam, Giuseppe Caire
 xmlroom -> Stratton 20 Chimneys (306)

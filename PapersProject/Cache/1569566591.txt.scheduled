@@ -26,12 +26,10 @@ Elements of Information Theory
 ----
 B. Chen
 --
-“On the optimality of likelihood ratio test
 for local sensor decisions in the presence of non-ideal channels
 ----
 J.N. Tsitsiklis
 --
-“On the complexity of decentralized
 decision making and detection problems
 ----
 K. Eswaran
@@ -40,15 +38,10 @@ K. Eswaran
 ----
 R. F. Ahlswede
 --
-“Source coding with side information and
-o
 a converse for degraded broadcast channels 
 ----
 S. Kamath
 --
-“A new dual to the G´ cs-K¨ rner
-a
-o
 common information deﬁned via the Gray-Wyner system
 [[[ META ]]]
 xmlpapertitle -> The sufficiency principle for decentralized data reduction
@@ -59,7 +52,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569566591
 xmlsession -> S2.T8: Distributed Detection and Estimation
 xmldate -> 1341222600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566591.txt
+file -> PapersDataset\1569566591.txt
 xmlstarttime -> 11:50
 xmlauthors -> Ge Xu, Biao Chen
 xmlroom -> Stratton (491)

@@ -13,28 +13,27 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-Fig. 5: Behavior of λ with bandwidth b packets/slot for the
 no-feedback
+Fig. 5: Behavior of λ with bandwidth b packets/slot for the
 --
 and logarithms are to the natural base
 ----
-where K is the smallest integer such that
-Rk ≥ n. The
-random variables Ik are i.i.d. since each belongs to a different
-renewal interval. We now determine the asymptotic decay rate
-of Pr(I > t) as deﬁned by Lemma 3
-use it to ﬁnd E[Pn ].
-We can model the system by a random walk Sn = X1 +
-X2 +..Xn where Xi ’s are i.i.d. binary random variables which
-are b − 1 with probability 1 − ρ
-−1 with probability 1 − ρ.
-Sn is the difference between the number of packets decoded
-at receiver
-number of packets generated at source until
-time n. Since ρb > 1 this random walk has a positive drift.
 Consider two thresholds 0
+time n. Since ρb > 1 this random walk has a positive drift.
+number of packets generated at source until
+at receiver
+Sn is the difference between the number of packets decoded
+−1 with probability 1 − ρ.
+are b − 1 with probability 1 − ρ
+X2 +..Xn where Xi ’s are i.i.d. binary random variables which
+We can model the system by a random walk Sn = X1 +
+use it to ﬁnd E[Pn ].
+of Pr(I > t) as deﬁned by Lemma 3
+renewal interval. We now determine the asymptotic decay rate
+random variables Ik are i.i.d. since each belongs to a different
+Rk ≥ n. The
+where K is the smallest integer such that
 --
-the probability that the
 random walk crosses −t before crossing 0
 [[[ META ]]]
 xmlpapertitle -> On Playback Delay in Streaming Communication
@@ -45,7 +44,7 @@ xmlendtime -> 13:10
 xmlpaperid -> 1569566779
 xmlsession -> S16.T4: Delay and Deadline Constrained Communication
 xmldate -> 1341571800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566779.txt
+file -> PapersDataset\1569566779.txt
 xmlstarttime -> 12:50
 xmlauthors -> Gauri Joshi, Yuval Kochman, Gregory Wornell
 xmlroom -> Stratton 20 Chimneys (306)

@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 V. R. Cadambe
 --
-“Interference Alignment and Degrees
 of Freedom of the K-User Interference Channel
 ----
 M. Maddah-Ali
 --
-“Completely stale transmitter channel
 state information is still very useful
 [[[ META ]]]
 xmlpapertitle -> On the Degrees of Freedom of MIMO X Channel with Delayed CSIT
@@ -31,7 +29,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566609
 xmlsession -> S11.T2: Interference Channels with Delayed CSI
 xmldate -> 1341478200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566609.txt
+file -> PapersDataset\1569566609.txt
 xmlstarttime -> 10:50
 xmlauthors -> Akbar Ghasemi, Mohammad Javad Abdoli, Amir K. Khandani
 xmlroom -> Kresge Auditorium (109)

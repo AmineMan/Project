@@ -15,22 +15,18 @@ Not saved
 [[[ REFS ]]]
 P. Moqvist
 --
-“Serially concatenated continuous phase
 modulation with iterative decoding
 ----
 M. Xiao
 --
-“Serially concatenated continuous phase
 modulation with convolutional codes over rings
 ----
 S. Lin
 --
-Error Control Coding: Fundamentals and
 Applications
 ----
 A. J. Viterbi
 --
-Principles of Digital Communication and
 Coding
 ----
 M. Rouanne
@@ -49,7 +45,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569564353
 xmlsession -> S13.T7: Communication Systems
 xmldate -> 1341495600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564353.txt
+file -> PapersDataset\1569564353.txt
 xmlstarttime -> 15:40
 xmlauthors -> Li Bing, Tor M. Aulin, Bao-Ming Bai
 xmlroom -> Stratton (407)

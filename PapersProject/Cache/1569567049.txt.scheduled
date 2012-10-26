@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 T. S. Han
 --
-“A new achievable rate region for
 the interference channel
 ----
 M. H. M. Costa
@@ -24,18 +23,14 @@ vol
 ----
 V. S. Annapureddy
 --
-“Gaussian interference
-networks: sum capacity in the low interference regime and new
 outer bounds on the capacity region
 ----
 A. Jafarian
 --
-“Achievable Rates for Gaussian
 Interference Channels”
 ----
 D. Krithivasan
 --
-“distributed source coding
 using abelian group codes: A new achievable rate-distortion function”
 ----
 I. Csisz´r
@@ -44,7 +39,6 @@ Inf
 ----
 A. Padakandla
 --
-“Nested linear codes achieve
 Marton’s inner bound for general broadcast channels”
 [[[ META ]]]
 xmlpapertitle -> A new achievable rate region for the 3-user discrete memoryless interference channel
@@ -55,7 +49,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569567049
 xmlsession -> S13.T2: Interference Channels
 xmldate -> 1341492000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569567049.txt
+file -> PapersDataset\1569567049.txt
 xmlstarttime -> 14:40
 xmlauthors -> Arun Padakandla, Aria Ghasemian Sahebi, Sandeep Pradhan
 xmlroom -> Kresge Auditorium (109)

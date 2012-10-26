@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 T. Zhang
 --
-“Text categorization based on regularized linear
 classiﬁcation methods
 ----
 D. Huang
 --
-“Error exponents for composite hypothesis
 testing with small samples
 [[[ META ]]]
 xmlpapertitle -> Classification with High-Dimensional Sparse Samples
@@ -38,7 +36,7 @@ xmlendtime -> 17:00
 xmlpaperid -> 1569563725
 xmlsession -> S14.T8: High-Dimensional Inference
 xmldate -> 1341499200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569563725.txt
+file -> PapersDataset\1569563725.txt
 xmlstarttime -> 16:40
 xmlauthors -> Dayu Huang, Sean Meyn
 xmlroom -> Stratton (491)

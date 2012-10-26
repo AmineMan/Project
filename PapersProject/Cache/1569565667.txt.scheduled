@@ -22,17 +22,14 @@ A. Lempel
 ----
 C. Ferreira
 --
-“Asymptotic expansions of the Hurwitzo
 Lerch zeta function
 ----
 J. Yang
 --
-“A T-decomposition algorithm with O(n log n)
 time and space complexity
 ----
 K. Hamano
 --
-“A differential equation method to derive
 the formulas of the T-complexity and the LZ-complexity
 ----
 G. Clark
@@ -47,7 +44,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569565667
 xmlsession -> S15.T6: Fundamental Limits on Complexity
 xmldate -> 1341561000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565667.txt
+file -> PapersDataset\1569565667.txt
 xmlstarttime -> 09:50
 xmlauthors -> Ulrich Speidel, T. Aaron Gulliver
 xmlroom -> Kresge Rehearsal A (033)

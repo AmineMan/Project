@@ -14,23 +14,18 @@ Not saved
 [[[ REFS ]]]
 L. Cottatellucci
 --
-“The effect of line of sight on the
 asymptotic capacity of MIMO systems
 ----
 A. Maaref
 --
-“Capacity of MIMO Rician fading channels
-ı
 with transmitter and receiver channel state information
 ----
 A. M. Tulino
 --
-“Random matrix theory and wireless commuu
 nications
 ----
 R. Couillet
 --
-Random Matrix Methods for Wireless
 Communications
 ----
 F. Hiai
@@ -39,7 +34,6 @@ The Semicircle Law
 ----
 P. Biane
 --
-“Computation of some examples of Brown’s
 spectral measure in free probability
 ----
 A. Jarosz
@@ -48,7 +42,6 @@ A. Jarosz
 ----
 U. Haagerup
 --
-“Brown’s spectral distribution measure
 for R-diagonal elements in ﬁnite von Neumann algebras
 [[[ META ]]]
 xmlpapertitle -> Channel Modelling of MU-MIMO Systems by Quaternionic Free Probability
@@ -59,7 +52,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569565223
 xmlsession -> S15.T3: Topics in MIMO
 xmldate -> 1341563400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565223.txt
+file -> PapersDataset\1569565223.txt
 xmlstarttime -> 10:30
 xmlauthors -> Ralf R. Müller, Burak Çakmak
 xmlroom -> Stratton S. de P. Rico (202)

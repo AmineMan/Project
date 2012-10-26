@@ -21,12 +21,10 @@ T. Cover
 ----
 J. Cances
 --
-“Optimized low density parity check codes
 designs for half duplex relay channels
 ----
 M. Davey
 --
-“Low-density parity check codes over
 GF(q)
 ----
 T. Richardson
@@ -35,12 +33,10 @@ Modern Coding Theory
 ----
 F. J. MacWilliams
 --
-The Theory of Error-Correcting
 Codes
 ----
 D. Declercq
 --
-“Decoding algorithms for nonbinary
 LDPC codes over GF(q)
 [[[ META ]]]
 xmlpapertitle -> Code Design for Very Noisy Relay Channels
@@ -51,7 +47,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566865
 xmlsession -> S6.T2: Code Design for Relay Channels
 xmldate -> 1341307800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566865.txt
+file -> PapersDataset\1569566865.txt
 xmlstarttime -> 11:30
 xmlauthors -> Puripong Suthisopapan, Kenta Kasai, Anupap Meesomboon, Virasit Imtawil, Kohichi Sakaniwa
 xmlroom -> Kresge Auditorium (109)

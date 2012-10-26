@@ -18,17 +18,14 @@ B. Rankov
 ----
 N. Lee
 --
-“A novel signaling for communication on MIMO
 Y channel: Signal space alignment for network coding
 ----
 V. R. Cadambe
 --
-“Interference alignment and the degrees
 of freedom for the K user interference channel
 ----
 A. Chaaban
 --
-“The capacity region of the linear shift
 deterministic Y-channel
 ----
 B. Nazer
@@ -43,7 +40,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566137
 xmlsession -> S12.T2: Interference Alignment
 xmldate -> 1341484200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566137.txt
+file -> PapersDataset\1569566137.txt
 xmlstarttime -> 12:30
 xmlauthors -> Anas Chaaban, Aydin Sezgin
 xmlroom -> Kresge Auditorium (109)

@@ -20,12 +20,10 @@ R. Basri
 ----
 X. Shu
 --
-“Imaging via three-dimensional compressive
 sampling (3DCS)
 ----
 M. Golbabaee
 --
-“Hyperspectral image compressed
 sensing via low-rank and joint sparse matrix recovery
 ----
 M. McCoy
@@ -34,18 +32,14 @@ M. McCoy
 ----
 E. Cand` s
 --
-“Exact matrix completion via convex optie
 mzation
 ----
 D. Needell
 --
-“CoSaMP: Iterative signal recovery from
 incomplete and inaccurate samples
 ----
 E. Cand` s
 --
-“Simple bounds for low-complexity model
-e
 reconstruction
 [[[ META ]]]
 xmlpapertitle -> Compressive Principal Component Pursuit
@@ -56,7 +50,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569565559
 xmlsession -> S7.T9: Compressive Sensing
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565559.txt
+file -> PapersDataset\1569565559.txt
 xmlstarttime -> 14:40
 xmlauthors -> John Wright, Arvind Ganesh, Kerui Min, Yi Ma
 xmlroom -> Stratton West Lounge (201)

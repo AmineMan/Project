@@ -16,12 +16,10 @@ Not saved
 [[[ REFS ]]]
 C. Heegard
 --
-“Rate distortion when side information may
 be absent
 ----
 T. Weissman
 --
-“Source coding with limited-look-ahead
 side information at the decoder
 [[[ META ]]]
 xmlpapertitle -> On the Heegard-Berger Problem with Common Reconstruction Constraints
@@ -32,7 +30,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569553909
 xmlsession -> S2.T1: Network Source Coding with Side Information
 xmldate -> 1341222600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569553909.txt
+file -> PapersDataset\1569553909.txt
 xmlstarttime -> 11:50
 xmlauthors -> Behzad Ahmadi, Ravi Tandon, Osvaldo Simeone, H. Vincent Poor
 xmlroom -> Kresge Rehearsal B (030)

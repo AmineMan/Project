@@ -18,7 +18,6 @@ A. Ashikhmin
 ----
 W.D. Chen
 --
-“The weight hierarchies of q-ary codes of
 dimension 4
 ----
 M.A. Tsfasman
@@ -27,7 +26,6 @@ M.A. Tsfasman
 ----
 J. Yuan
 --
-“Secret sharing schemes from three classes of
 linear codes
 [[[ META ]]]
 xmlpapertitle -> On a Class of Three-Weight Codes with Cryptographic Applications
@@ -38,7 +36,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569565933
 xmlsession -> S14.T6: Applications of Codes in Cryptography
 xmldate -> 1341500400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565933.txt
+file -> PapersDataset\1569565933.txt
 xmlstarttime -> 17:00
 xmlauthors -> Zihui Liu, Xin-Wen Wu
 xmlroom -> Kresge Rehearsal A (033)

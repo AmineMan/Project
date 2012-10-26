@@ -14,22 +14,18 @@ Not saved
 [[[ REFS ]]]
 Y. E. Sagduyu
 --
-“A game-theoretic look at
 simple relay channel
 ----
 C. T. M.
 --
-“Capacity theorems for the relay
 channel
 ----
 F. M. J. Willems
 --
-“The discrete
 memoryless multiple access channel with cribbing encoders
 ----
 R. Berry
 --
-“Shannon meets nash on the interference
 channel
 [[[ META ]]]
 xmlpapertitle -> Incentives for Cooperative Relaying in a Simple Information-Theoretic Model
@@ -40,7 +36,7 @@ xmlendtime -> 17:40
 xmlpaperid -> 1569560349
 xmlsession -> S14.T4: Game Theory
 xmldate -> 1341501600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569560349.txt
+file -> PapersDataset\1569560349.txt
 xmlstarttime -> 17:20
 xmlauthors -> Dileep Kalathil, Rahul Jain
 xmlroom -> Stratton 20 Chimneys (306)

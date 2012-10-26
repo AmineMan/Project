@@ -20,7 +20,6 @@ Oct
 ----
 M. Esmaeili
 --
-“Structured quasi-cyclic LDPC codes with
 girth 18 and column-weight J ≥ 3
 [[[ META ]]]
 xmlpapertitle -> A Greedy Search for Improved QC LDPC Codes with Good Girth Profile and Degree Distribution
@@ -31,7 +30,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569565039
 xmlsession -> S17.T5: Cyclic and Quasicyclic LDPC Codes
 xmldate -> 1341582000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565039.txt
+file -> PapersDataset\1569565039.txt
 xmlstarttime -> 15:40
 xmlauthors -> Irina Bocharova, Florian Hug, Rolf Johannesson, Boris Kudryashov
 xmlroom -> Kresge Little Theatre (035)

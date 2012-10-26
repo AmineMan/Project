@@ -16,12 +16,10 @@ Not saved
 [[[ REFS ]]]
 R. Urbanke
 --
-“Lattice codes can achieve capacity on the
 AWGN channel
 ----
 U. Erez
 --
-“Achieving 1/2 log (1+SNR) on the AWGN
 channel with lattice encoding and decoding
 [[[ META ]]]
 xmlpapertitle -> Iterative Encoding with Gauss-Seidel method for Spatially-Coupled Low-Density Lattice Codes
@@ -32,7 +30,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569565271
 xmlsession -> S10.T4: Coding with Lattices
 xmldate -> 1341396600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565271.txt
+file -> PapersDataset\1569565271.txt
 xmlstarttime -> 12:10
 xmlauthors -> Hironori Uchikawa, Brian Michael Kurkoski, Kenta Kasai, Kohichi Sakaniwa
 xmlroom -> Stratton 20 Chimneys (306)

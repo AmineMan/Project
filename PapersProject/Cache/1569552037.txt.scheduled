@@ -18,12 +18,10 @@ A. Deshpande
 ----
 K. L. Clarkson
 --
-“Numerical linear algebra in the
 streaming model
 ----
 We then evaluate the effectiveness of (1)
 --
-whose entries are independently sampled from a standard
 normal distribution with mean 0 and variance 1
 [[[ META ]]]
 xmlpapertitle -> Bilateral Random Projections
@@ -34,7 +32,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569552037
 xmlsession -> S7.T9: Compressive Sensing
 xmldate -> 1341321600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569552037.txt
+file -> PapersDataset\1569552037.txt
 xmlstarttime -> 15:20
 xmlauthors -> Tianyi Zhou, Dacheng Tao
 xmlroom -> Stratton West Lounge (201)

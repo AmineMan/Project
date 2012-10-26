@@ -15,13 +15,10 @@ Not saved
 [[[ REFS ]]]
 N. Ahmed
 --
-“A self-managing architecture for thin
 access points
 ----
 M. Kalisch
 --
-“Estimating high-dimensional directed
-u
 acyclic graphs with the pc-algorithm
 [[[ META ]]]
 xmlpapertitle -> Passive Learning of the Interference Graph of a Wireless Network
@@ -32,7 +29,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566115
 xmlsession -> S15.T8: Tree Learning
 xmldate -> 1341564600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566115.txt
+file -> PapersDataset\1569566115.txt
 xmlstarttime -> 10:50
 xmlauthors -> Jing Yang, Stark C Draper, Robert Nowak
 xmlroom -> Stratton (491)

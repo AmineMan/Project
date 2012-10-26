@@ -21,8 +21,6 @@ B. Li
 ----
 L. Tassiulas
 --
-“Stability Properties of Constrained
-Queueing Systems and Scheduling Policies for Maximum Throughput
 in Multihop Radio Networks
 ----
 L. Jiang
@@ -31,25 +29,19 @@ L. Jiang
 ----
 J. Ni
 --
-“Distributed CSMA/CA Algorithms for Achieving
 Maximum Throughput in Wireless Networks
 ----
 B. Rong
 --
-“Joint MAC and Rate Control for Stability
 and Delay in Wireless Multi-Access Channels
 ----
-where Bs (Q) = Rs Q11 + rs (Q12 + Q21 ) + Rs Q22 . Let us
-denote the maximum supportable arrival rate in the fading
-case by the notation λmax . We will ﬁrst analyze the Laypunov
-drift term at λ = λmax . Notice that λmax can be written as
-a convex combination of λs (where λs are some rate points
 inside the stability region on the line λ1 = λ2 )
+a convex combination of λs (where λs are some rate points
+drift term at λ = λmax . Notice that λmax can be written as
+case by the notation λmax . We will ﬁrst analyze the Laypunov
+denote the maximum supportable arrival rate in the fading
+where Bs (Q) = Rs Q11 + rs (Q12 + Q21 ) + Rs Q22 . Let us
 --
-we can rewrite the Lyapunov
-drift as
-|S|
-
 
 [[[ META ]]]
 xmlpapertitle -> Fast-CSMA Based Distributed Scheduling Algorithm under SINR Model
@@ -60,7 +52,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569566489
 xmlsession -> S9.T7: Medium Access Control
 xmldate -> 1341388200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566489.txt
+file -> PapersDataset\1569566489.txt
 xmlstarttime -> 09:50
 xmlauthors -> Subhash Lakshminarayana, Bin Li, Mohamad Assaad, Atilla Eryilmaz, Mérouane Debbah
 xmlroom -> Stratton (407)

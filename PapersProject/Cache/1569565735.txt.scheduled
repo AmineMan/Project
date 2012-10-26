@@ -20,12 +20,10 @@ A. J. Felstrom
 ----
 S. Kudekar
 --
-“The effect of spatial coupling on compressive
 sensing
 ----
 S. Ciliberti
 --
-“The theoretical capacity of the parity source
 coder
 ----
 M. Wainwright
@@ -34,17 +32,14 @@ M. Wainwright
 ----
 T. Filler
 --
-“Binary quantization using belief propagation
 with decimation over factor graphs of ldgm codes
 ----
 D. Castanheira
 --
-“Lossy source coding using belief
 propagation and soft-decimation over ldgm codes
 ----
 V. Aref
 --
-“Universal rateless codes from coupled lt
 codes
 ----
 T. Richardson
@@ -63,7 +58,7 @@ xmlendtime -> 16:20
 xmlpaperid -> 1569565735
 xmlsession -> S3.T1: Lossy Source Coding
 xmldate -> 1341237600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565735.txt
+file -> PapersDataset\1569565735.txt
 xmlstarttime -> 16:00
 xmlauthors -> Vahid Aref, Nicolas Macris, Ruediger L Urbanke, Marc Vuffray
 xmlroom -> Kresge Rehearsal B (030)

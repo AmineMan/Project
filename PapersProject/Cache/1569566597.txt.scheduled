@@ -14,23 +14,18 @@ Not saved
 [[[ REFS ]]]
 I. Csisz´ r
 --
-“Broadcast Channels with Conﬁdential Mesa
-o
 sages
 ----
 M. Bloch
 --
-Physical-Layer Security: From Information
 Theory to Security Engineering
 ----
 J. Muramatsu
 --
-“Construction of Wiretap Channel Codes
 by Using Sparse Matrices
 ----
 X. He
 --
-“Providing secrecy when the eavesdropper channel
 is arbitrarily varying: A case for multiple antennas
 ----
 Y. Chen
@@ -39,13 +34,10 @@ Y. Chen
 ----
 S. Watanabe
 --
-“Broadcast Channels with Conﬁdential
 Messages by Randomness Constrained Stochastic Encoder
 ----
 R. Ahlswede
 --
-“Common Randomness in Information
-a
 Theory and Cryptography
 [[[ META ]]]
 xmlpapertitle -> On Secure Communication with Constrained Randomization
@@ -56,7 +48,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566597
 xmlsession -> S7.T4: Secrecy in Computation and Communication
 xmldate -> 1341322800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566597.txt
+file -> PapersDataset\1569566597.txt
 xmlstarttime -> 15:40
 xmlauthors -> Matthieu Bloch, Joerg Kliewer
 xmlroom -> Stratton 20 Chimneys (306)

@@ -22,7 +22,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569558779
 xmlsession -> S5.T1: Multiterminal Source Coding
 xmldate -> 1341303000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569558779.txt
+file -> PapersDataset\1569558779.txt
 xmlstarttime -> 10:10
 xmlauthors -> Thomas Courtade, Tsachy Weissman
 xmlroom -> Kresge Rehearsal B (030)

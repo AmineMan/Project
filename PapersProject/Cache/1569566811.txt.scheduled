@@ -19,17 +19,14 @@ K. Nagananda
 ----
 C. Suh
 --
-“Feedback Capacity of the Gaussian Interference
 Channel to within 2 Bits
 ----
 V. Prabhakaran
 --
-“Interference channels with source
 cooperation
 ----
 S. A. Jafar
 --
-“Generalized degrees of freedom of
 the symmetric gaussian K user interference channel
 [[[ META ]]]
 xmlpapertitle -> The Sum-Capacity of the Linear Deterministic Three-User Cognitive Interference Channel
@@ -40,7 +37,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569566811
 xmlsession -> S12.T3: Deterministic Channels
 xmldate -> 1341484200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566811.txt
+file -> PapersDataset\1569566811.txt
 xmlstarttime -> 12:30
 xmlauthors -> Diana Maamari, Daniela Tuninetti, Natasha Devroye
 xmlroom -> Stratton S. de P. Rico (202)

@@ -13,7 +13,6 @@ Not saved
 [[[ REFS ]]]
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 E. Abbe
@@ -30,7 +29,6 @@ E. Arıkan
 ----
 R. Mori
 --
-“Performance and construction of polar codes
 on symmetric binary-input memoryless channels
 ----
 I. Tal
@@ -39,13 +37,12 @@ I. Tal
 ----
 B. Rimoldi
 --
-“Asynchronous Slepian-Wolf coding via
 source-splitting
 ----
-where u2i
-u2i denote the sub-vectors consisting of oddo
-e
 numbered
+e
+u2i denote the sub-vectors consisting of oddo
+where u2i
 --
 respectively
 [[[ META ]]]
@@ -57,7 +54,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569559111
 xmlsession -> S4.T1: The Slepian-Wolf and CEO Problems
 xmldate -> 1341241200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559111.txt
+file -> PapersDataset\1569559111.txt
 xmlstarttime -> 17:00
 xmlauthors -> Erdal Arıkan
 xmlroom -> Kresge Rehearsal B (030)

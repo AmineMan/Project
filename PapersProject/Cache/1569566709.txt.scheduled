@@ -18,17 +18,14 @@ M. Naghshvar
 ----
 A. V. Kusnetsov
 --
-“Coding in a memory with
 defective cells
 ----
 C. Heegard
 --
-“On the capacity of computer memories
 with defects
 ----
 A. Lapidoth
 --
-“The multiple access channel with
 causal and strictly causal side information at the encoders
 ----
 A. El Gamal
@@ -51,7 +48,7 @@ xmlendtime -> 16:00
 xmlpaperid -> 1569566709
 xmlsession -> S17.T4: Communication Models
 xmldate -> 1341582000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566709.txt
+file -> PapersDataset\1569566709.txt
 xmlstarttime -> 15:40
 xmlauthors -> Chiranjib Choudhuri, Urbashi Mitra
 xmlroom -> Stratton 20 Chimneys (306)

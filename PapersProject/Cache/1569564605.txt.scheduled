@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 M. Esmaeili
 --
-“Structured quasi-cyclic LDPC codes with
 girth 18 and column-weight J = 3
 ----
 J.L. Gross
@@ -23,7 +22,6 @@ Topological Graph Theory
 ----
 M. Karimi
 --
-“A message-passing algorithm for
 counting short cycles in a graph
 ----
 C. A. Kelley
@@ -46,7 +44,7 @@ xmlendtime -> 15:40
 xmlpaperid -> 1569564605
 xmlsession -> S17.T5: Cyclic and Quasicyclic LDPC Codes
 xmldate -> 1341580800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564605.txt
+file -> PapersDataset\1569564605.txt
 xmlstarttime -> 15:20
 xmlauthors -> Mehdi Karimi, Amir Banihashemi
 xmlroom -> Kresge Little Theatre (035)

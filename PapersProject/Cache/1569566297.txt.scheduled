@@ -16,7 +16,6 @@ Not saved
 [[[ REFS ]]]
 A. R. Lehman
 --
-“Complexity classiﬁcation of network
 information ﬂow problems
 ----
 R. Dougherty
@@ -25,13 +24,10 @@ R. Dougherty
 ----
 C.-C. Wang
 --
-“Beyond the butterﬂy−A graph- theoretic
-characterization of the feasibility of network coding with two simple
 unicast sessions
 ----
 C. Fragouli
 --
-“Information ﬂow decomposition for
 network coding
 [[[ META ]]]
 xmlpapertitle -> Network Coding for Two-Unicast with Rate (1,2)
@@ -42,7 +38,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566297
 xmlsession -> S11.T1: Network Coding for Multiple Unicast Sessions
 xmldate -> 1341478200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566297.txt
+file -> PapersDataset\1569566297.txt
 xmlstarttime -> 10:50
 xmlauthors -> Wentu Song, Rongquan Feng, Kai Cai, Junshan Zhang
 xmlroom -> Kresge Rehearsal B (030)

@@ -34,8 +34,6 @@ D.L. Neuhoff
 ----
 D.L. Neuhoff
 --
-“Information rates of densely sampled
-Gaussian data: distributed vector quantization and scalar quantization
 with transforms
 [[[ META ]]]
 xmlpapertitle -> Rate-Distortion Behavior at Low Distortion for Densely Sampled Gaussian Data
@@ -46,7 +44,7 @@ xmlendtime -> 15:20
 xmlpaperid -> 1569566851
 xmlsession -> S3.T1: Lossy Source Coding
 xmldate -> 1341234000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566851.txt
+file -> PapersDataset\1569566851.txt
 xmlstarttime -> 15:00
 xmlauthors -> David L Neuhoff, Sandeep Pradhan
 xmlroom -> Kresge Rehearsal B (030)

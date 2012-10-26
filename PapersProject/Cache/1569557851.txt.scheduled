@@ -18,23 +18,19 @@ T. M. Cover
 ----
 D. Gunduz
 --
-“Reliable cooperative source transmission with
 side information
 ----
-T. Cover
 A. El Gamal
+T. Cover
 --
-“Multiple access channels
 with arbitrarily correlated sources
 ----
 D. Slepian
 --
-“Noiseless coding of correlated information
 sources
 ----
 T. S. Han
 --
-“Broadcast channels with arbitrarily
 correlated sources
 ----
 M. Salehi
@@ -49,7 +45,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569557851
 xmlsession -> S11.T4: Joint Source-Channel Coding in Networks
 xmldate -> 1341475800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569557851.txt
+file -> PapersDataset\1569557851.txt
 xmlstarttime -> 10:10
 xmlauthors -> Sadaf Salehkalaibar, Mohammad Reza Aref
 xmlroom -> Stratton 20 Chimneys (306)

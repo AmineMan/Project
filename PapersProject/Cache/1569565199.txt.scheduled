@@ -22,12 +22,10 @@ Y. Han
 ----
 S. Landner
 --
-“Algorithmic and combinatorial analysis
 of trapping sets in structured LDPC codes
 ----
 M. G. Stepanov
 --
-“Improving convergence of belief
 propagation decoding
 [[[ META ]]]
 xmlpapertitle -> A Two Stage Selective Averaging LDPC Decoding
@@ -38,7 +36,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569565199
 xmlsession -> S16.T5: Decoding Techniques for LDPC Codes
 xmldate -> 1341568200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565199.txt
+file -> PapersDataset\1569565199.txt
 xmlstarttime -> 11:50
 xmlauthors -> Dinesh Kumar A., Ambedkar Dukkipati
 xmlroom -> Kresge Little Theatre (035)

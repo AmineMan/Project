@@ -14,12 +14,10 @@ Not saved
 [[[ REFS ]]]
 M. Xiong
 --
-“Deriving deadlines and periods for
 real-time update transactions
 ----
 Y. C. Hu
 --
-“Ensuring cache freshness in on-demand
 ad hoc network routing protocols
 [[[ META ]]]
 xmlpapertitle -> Real-Time Status Updating: Multiple Sources
@@ -30,7 +28,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569565607
 xmlsession -> S15.T4: Delay and Distributed Scheduling
 xmldate -> 1341561000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565607.txt
+file -> PapersDataset\1569565607.txt
 xmlstarttime -> 09:50
 xmlauthors -> Roy Yates, Sanjit Kaul
 xmlroom -> Stratton 20 Chimneys (306)

@@ -17,7 +17,6 @@ Not saved
 [[[ REFS ]]]
 J.J. Boutros
 --
-“Signal space diversity: a power- and
 bandwidth-efﬁcient diversity technique for the Rayleigh fading channel
 ----
 J.J. Boutros
@@ -26,24 +25,18 @@ J.J. Boutros
 ----
 A. Guill´ n i F` bregas
 --
-“Multidimensional coded modue
-a
 lation in block-fading channels
 ----
 A. Guill´ n i F` bregas
 --
-“Coded modulation in the blocke
-a
 fading channel: coding theorems and code construction
 ----
 E.R. Larsson
 --
-“Space-Time Block Coding for Wireless
 Communications
 ----
 C. Oestges
 --
-“MIMO Wireless Communications: from
 real world propagation to space-time code design
 ----
 K.P. Srinath
@@ -52,7 +45,6 @@ K.P. Srinath
 ----
 L. Zheng
 --
-“Diversity and Multiplexing: A Fundamental
 Tradeoff in Multiple-Antenna Channels
 ----
 Because |gi |2 ∼ χ2 (2)
@@ -67,7 +59,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569566157
 xmlsession -> S16.T3: MIMO coding
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566157.txt
+file -> PapersDataset\1569566157.txt
 xmlstarttime -> 12:10
 xmlauthors -> Dieter Duyck, Marc Moeneclaey, Sheng Yang, Fambirai Takawira, Joseph Jean Boutros
 xmlroom -> Stratton S. de P. Rico (202)

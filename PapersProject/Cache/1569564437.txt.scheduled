@@ -15,22 +15,18 @@ Not saved
 [[[ REFS ]]]
 S. Diggavi
 --
-“Information transmission over ﬁnite
 buffer channels
 ----
 P. Jacquet
 --
-“Entropy computations via analytic
 depoissonization
 ----
 Y. Kanoria
 --
-“On the deletion channel with small
 deletion probability
 ----
 M. Mitzenmacher
 --
-“A simple lower bound for the capacity
 of the deletion channel
 [[[ META ]]]
 xmlpapertitle -> Mutual Information for a Deletion Channel
@@ -41,7 +37,7 @@ xmlendtime -> 18:00
 xmlpaperid -> 1569564437
 xmlsession -> S14.T6: Applications of Codes in Cryptography
 xmldate -> 1341502800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564437.txt
+file -> PapersDataset\1569564437.txt
 xmlstarttime -> 17:40
 xmlauthors -> Michael Drmota, Wojciech Szpankowski, Krishnamurthy Viswanathan
 xmlroom -> Kresge Rehearsal A (033)

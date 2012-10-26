@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 C. Baum
 --
-“A sequential procedure for multiple
 hypothesis testing
 ----
 M. Naghshvar
 --
-“Active M-ary sequential hypothesis
 testing
 ----
 M. Naghshvar
 --
-“Variable-length coding with noiseless
 feedback and ﬁnite messages
 ----
 T. M. Cover
@@ -33,16 +30,14 @@ Elements of Information Theory
 ----
 V. Veeravalli
 --
-“Asymptotic efﬁciency of a sequential
 multihypothesis test
 ----
 P. L. Hsu
 --
-“Complete convergence and the law of large
 numbers
 ----
-A PPENDIX
 Proof of (27)
+A PPENDIX
 --
 i
 [[[ META ]]]
@@ -54,7 +49,7 @@ xmlendtime -> 12:10
 xmlpaperid -> 1569565549
 xmlsession -> S12.T8: Hypothesis Testing
 xmldate -> 1341481800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565549.txt
+file -> PapersDataset\1569565549.txt
 xmlstarttime -> 11:50
 xmlauthors -> George Atia, Venugopal Veeravalli
 xmlroom -> Stratton (491)

@@ -16,14 +16,14 @@ I. Csiszar. Linear Codes for Sources
 --
 Universal Coding
 ----
-U. Erez
-R. Zamir. Achieving 2 log(1 + SNR) on the AWGN
 Channel With Lattice Encoding
+R. Zamir. Achieving 2 log(1 + SNR) on the AWGN
+U. Erez
 --
 50:2293–2314
 ----
-U. Erez
 R. Zamir. Capacity
+U. Erez
 --
 2005
 ----
@@ -35,15 +35,14 @@ T. Gariby
 --
 Canada
 ----
-S. I. Gelfand
-M. S. Pinsker. Coding for channel with random
 parameters. Problems of Control
+M. S. Pinsker. Coding for channel with random
+S. I. Gelfand
 --
 9:19–31
 ----
 P Harremos
 --
-22(1):186–
 202
 ----
 J. Korner
@@ -70,8 +69,8 @@ R. Urbanke
 --
 44:273–278
 ----
-A. Wyner. The rate distortion function for source coding with side
 information at the decoder-ii. Information
+A. Wyner. The rate distortion function for source coding with side
 --
 38:60–80
 ----
@@ -95,7 +94,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569566943
 xmlsession -> S4.T4: Structured Codes
 xmldate -> 1341241200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566943.txt
+file -> PapersDataset\1569566943.txt
 xmlstarttime -> 17:00
 xmlauthors -> Aria Ghasemian Sahebi, Sandeep Pradhan
 xmlroom -> Stratton 20 Chimneys (306)

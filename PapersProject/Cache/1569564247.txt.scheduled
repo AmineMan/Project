@@ -41,7 +41,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569564247
 xmlsession -> S10.T2: Multiple Access Channels with Side Information
 xmldate -> 1341396600000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564247.txt
+file -> PapersDataset\1569564247.txt
 xmlstarttime -> 12:10
 xmlauthors -> Ziv Goldfeld, Haim H Permuter, Benjamin Zaidel
 xmlroom -> Kresge Auditorium (109)

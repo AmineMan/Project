@@ -19,12 +19,10 @@ Linear and Nonlinear Programming 3rd ed
 ----
 A. Ozgur
 --
-“Approximately achieving Gaussian
 relay network capacity with lattice codes”
 ----
 F. Xue
 --
-“Cooperation in a half-duplex Gaussian diamond
 relay channel”
 [[[ META ]]]
 xmlpapertitle -> Simple Schedules for Half-duplex Networks
@@ -35,7 +33,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569566387
 xmlsession -> S7.T2: Relay Channels in Wireless Networks
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566387.txt
+file -> PapersDataset\1569566387.txt
 xmlstarttime -> 14:40
 xmlauthors -> Siddhartha Brahma, Ayfer Özgür, Christina Fragouli
 xmlroom -> Kresge Auditorium (109)

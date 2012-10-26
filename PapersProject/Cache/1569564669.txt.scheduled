@@ -14,7 +14,6 @@ Not saved
 [[[ REFS ]]]
 B. Karp
 --
-“GPSR: greedy perimeter stateless routing for
 wireless networks
 ----
 P. Gupta
@@ -23,17 +22,14 @@ P. Gupta
 ----
 M. Grossglauser
 --
-“Mobility increases the capacity of
 ad hoc wireless networks
 ----
 M. Grossglauser
 --
-“Locating mobile nodes with EASE:
 learning efﬁcient routes from encounter histories alone
 ----
 R. Flury
 --
-“MLS: an efﬁcient location service for
 mobile ad hoc networks
 [[[ META ]]]
 xmlpapertitle -> Can geographic routing scale when nodes are mobile?
@@ -44,7 +40,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569564669
 xmlsession -> S2.T3: Multi-Hop Multi-Flow Wireless Networks
 xmldate -> 1341223800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564669.txt
+file -> PapersDataset\1569564669.txt
 xmlstarttime -> 12:10
 xmlauthors -> Dinesh Ramasamy, Upamanyu Madhow
 xmlroom -> Stratton S. de P. Rico (202)

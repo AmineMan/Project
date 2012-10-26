@@ -12,9 +12,9 @@ Not saved
 [[[ BODY ]]]
 Not saved
 [[[ REFS ]]]
-T. M. Cover
-J. A. Thomas. Elements of Information Theory. Wiley
 Series in Telecommunications
+J. A. Thomas. Elements of Information Theory. Wiley
+T. M. Cover
 --
 2nd edition
 ----
@@ -24,7 +24,6 @@ April 2012
 ----
 where (i) follows from the countability of YAw
 --
-and (ii) follows from
 (14)
 [[[ META ]]]
 xmlpapertitle -> Is Gaussian Noise the Worst-Case Additive Noise in Wireless Networks?
@@ -35,7 +34,7 @@ xmlendtime -> 11:50
 xmlpaperid -> 1569566473
 xmlsession -> S2.T3: Multi-Hop Multi-Flow Wireless Networks
 xmldate -> 1341221400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566473.txt
+file -> PapersDataset\1569566473.txt
 xmlstarttime -> 11:30
 xmlauthors -> Ilan Shomorony, Salman Avestimehr
 xmlroom -> Stratton S. de P. Rico (202)

@@ -14,17 +14,14 @@ Not saved
 [[[ REFS ]]]
 J.-F. Biasse
 --
-“A polynomial time algorithm for computing
 the hnf of a module over the integers of a number ﬁeld
 ----
 V. Guruswami
 --
-“Improved decoding of reed-solomon
 and algebraic-geometric codes
 ----
 H. Cohn
 --
-“Ideal forms of coppersmith’s theorem
 and guruswami-sudan list decoding
 ----
 C. Fieker
@@ -39,7 +36,7 @@ xmlendtime -> 10:50
 xmlpaperid -> 1569566269
 xmlsession -> S1.T5: List Decoding and Reed-Solomon Codes
 xmldate -> 1341217800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566269.txt
+file -> PapersDataset\1569566269.txt
 xmlstarttime -> 10:30
 xmlauthors -> Jean-Francois Biasse, Guillaume Quintin
 xmlroom -> Kresge Little Theatre (035)

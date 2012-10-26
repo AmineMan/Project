@@ -18,13 +18,10 @@ T. S. Han
 ----
 S. Vembu
 --
-“Generating random bits from an arbitrary
-u
 source: Fundamental limits
 ----
 Y. Steinberg
 --
-“Simulation of random processes and rateu
 distortion theory
 ----
 R. Nomura
@@ -39,7 +36,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569564635
 xmlsession -> S5.T4: Finite Blocklength Analysis
 xmldate -> 1341301800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564635.txt
+file -> PapersDataset\1569564635.txt
 xmlstarttime -> 09:50
 xmlauthors -> Ryo Nomura, Te Sun Han
 xmlroom -> Stratton 20 Chimneys (306)

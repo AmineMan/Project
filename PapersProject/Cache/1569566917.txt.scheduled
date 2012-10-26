@@ -19,12 +19,10 @@ Y. Xie
 ----
 V. Raghavan
 --
-“Quickest change detection of a
 markov process across a sensor array
 ----
 O. P. Kreidl
 --
-“Inference with minimum communication:
 a decision-theoretic variational approach
 ----
 A. G. Tartakovsky
@@ -33,27 +31,25 @@ A. G. Tartakovsky
 ----
 A. A. Amini
 --
-“Sequential detection of multiple change
 points in networks: A graphical model based approach
 ----
 A. G. Tartakovsky
 --
-“General asymptotic bayesian
 theory of quickest change detection
 ----
-At the heart of the proof are two concentration inequalities:
-1
-1
-ε
-ε
-n
-n,n
-log Rm (e) ≍ Ie ,
-log Sm (E) ≍ IE ,
-(16)
-n
-n
 where the ﬁrst holds conditioned on λe ≤ m w.h.p.
+n
+n
+(16)
+log Sm (E) ≍ IE ,
+log Rm (e) ≍ Ie ,
+n,n
+n
+ε
+ε
+1
+1
+At the heart of the proof are two concentration inequalities:
 --
 w
 [[[ META ]]]
@@ -65,7 +61,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569566917
 xmlsession -> S11.T7: Message Passing Algorithms
 xmldate -> 1341478200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566917.txt
+file -> PapersDataset\1569566917.txt
 xmlstarttime -> 10:50
 xmlauthors -> XuanLong Nguyen, Arash Amini, Ram Rajagopal
 xmlroom -> Stratton (407)

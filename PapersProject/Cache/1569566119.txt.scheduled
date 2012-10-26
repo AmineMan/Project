@@ -14,36 +14,32 @@ Not saved
 [[[ REFS ]]]
 V. R. Cadambe
 --
-“Interference alignment and the degrees
 of freedom for the K user interference channel
 ----
 S. A. Jafar
 --
-“Degrees of freedom region for the MIMO
 X channel
 ----
 V. R. Cadambe
 --
-“Degrees of freedom of wireless
 networks with relays
 ----
 T. Gou
 --
-“Degrees of freedom of the K user MIMO
 interference channel
 ----
 T. Cover
 --
 Elements of information theory
 ----
-hr2 (i) ˜
-¯
-(e) follows by the constructing Y2 (i) = Y3 (i)+ hr1 (i) Y1 (i)+
-n
-n
-˜
-˜
 Z(i)
+˜
+˜
+n
+n
+(e) follows by the constructing Y2 (i) = Y3 (i)+ hr1 (i) Y1 (i)+
+¯
+hr2 (i) ˜
 --
 m1 
 [[[ META ]]]
@@ -55,7 +51,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569566119
 xmlsession -> S9.T2: Relaying over Interference Networks
 xmldate -> 1341388200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569566119.txt
+file -> PapersDataset\1569566119.txt
 xmlstarttime -> 09:50
 xmlauthors -> Anas Chaaban, Aydin Sezgin
 xmlroom -> Kresge Auditorium (109)

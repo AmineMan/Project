@@ -19,7 +19,6 @@ E. S. Lander
 ----
 A. Frieze
 --
-“Greedy algorithms for the
 shortest common superstring that are asymptotically optimal
 [[[ META ]]]
 xmlpapertitle -> Information Theory for DNA Sequencing: Part I: A Basic Model
@@ -30,7 +29,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569567029
 xmlsession -> S15.T9: Strings, Sorting, and Biology
 xmldate -> 1341561000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569567029.txt
+file -> PapersDataset\1569567029.txt
 xmlstarttime -> 09:50
 xmlauthors -> Abolfazl Motahari, Guy Bresler, David Tse
 xmlroom -> Stratton West Lounge (201)

@@ -19,8 +19,6 @@ A. Edelman
 ----
 A. M. Tulino
 --
-“Random matrix theory and wireless
-u
 communications
 ----
 P. J. Winzer
@@ -37,7 +35,6 @@ Table of Integrals
 ----
 L. Zheng
 --
-“Diversity and multiplexing: A fundamental
 tradeoff in multiple antenna channels
 [[[ META ]]]
 xmlpapertitle -> The Jacobi MIMO Channel
@@ -50,7 +47,7 @@ xmlendtime -> 10:30
 xmlpaperid -> 1569565337
 xmlsession -> S15.T3: Topics in MIMO
 xmldate -> 1341562200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565337.txt
+file -> PapersDataset\1569565337.txt
 xmlstarttime -> 10:10
 xmlauthors -> Ronen Dar, Meir Feder, Mark Shtaif
 xmlroom -> Stratton S. de P. Rico (202)

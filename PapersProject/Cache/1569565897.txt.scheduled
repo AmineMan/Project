@@ -14,22 +14,18 @@ Not saved
 [[[ REFS ]]]
 G. J. Foschini
 --
-“A simple distributed autonomous power
 control algorithm and its convergence
 ----
 M. Franceschetti
 --
-Random Networks for Communication:
 From Statistical Physics to Information Systems
 ----
 F. Baccelli
 --
-“Stochastic geometry and wireless
 networks: Theory
 ----
 A. M. Tulino
 --
-“Random matrix theory and wireless commuu
 nications
 [[[ META ]]]
 xmlpapertitle -> Power Optimization on a Network: The effects of randomness
@@ -40,7 +36,7 @@ xmlendtime -> 17:20
 xmlpaperid -> 1569565897
 xmlsession -> S4.T3: Connectivity and Interference
 xmldate -> 1341241200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569565897.txt
+file -> PapersDataset\1569565897.txt
 xmlstarttime -> 17:00
 xmlauthors -> Aris Moustakas, Nicholas Bambos
 xmlroom -> Stratton S. de P. Rico (202)

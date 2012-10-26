@@ -15,7 +15,6 @@ Not saved
 [[[ REFS ]]]
 S. Shamai
 --
-“A broadcast approach for a single-user slowly
 fading mimo channel
 ----
 S. Verdu
@@ -24,7 +23,6 @@ S. Verdu
 ----
 A. Steiner
 --
-“Multi-layer broadcasting over a block fading
 mimo channel
 ----
 I. M. Gelfand
@@ -39,7 +37,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569559035
 xmlsession -> S2.T2: Variations on Broadcast Channels
 xmldate -> 1341225000000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559035.txt
+file -> PapersDataset\1569559035.txt
 xmlstarttime -> 12:30
 xmlauthors -> Kfir M. Cohen, Avi Steiner, Shlomo (Shitz) Shamai
 xmlroom -> Kresge Auditorium (109)

@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 N. Merhav
 --
-“A strong version of the redundancy-capacity
 theorem of universal coding
 ----
 A. Beirami
 --
-“Results on the redundancy of universal
 compression for ﬁnite-length sequences
 ----
 A. Beirami
@@ -29,7 +27,6 @@ A. Beirami
 ----
 B. Clarke
 --
-“Information-theoretic asymptotics of Bayes
 methods
 [[[ META ]]]
 xmlpapertitle -> Results on the Fundamental Gain of Memory-Assisted Universal Source Coding
@@ -40,7 +37,7 @@ xmlendtime -> 15:00
 xmlpaperid -> 1569555891
 xmlsession -> S7.T1: Lossless and Universal Source Coding
 xmldate -> 1341319200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569555891.txt
+file -> PapersDataset\1569555891.txt
 xmlstarttime -> 14:40
 xmlauthors -> Ahmad Beirami, Mohsen Sardari, Faramarz Fekri
 xmlroom -> Kresge Rehearsal B (030)

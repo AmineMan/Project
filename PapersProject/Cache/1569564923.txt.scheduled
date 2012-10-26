@@ -39,18 +39,14 @@ R. Koetter
 ----
 F. J. MacWilliams
 --
-The Theory of Error-Correcting
 Codes
 ----
 R. Matsumoto
 --
-“Secure multiplex network coding
 (v3)
 ----
 M. Nishiara
 --
-“Strongly secure secret sharing scheme
-with ramp threshold based on Shamir’s polynomial interpolation
 scheme
 ----
 L. H. Ozarow
@@ -59,12 +55,10 @@ L. H. Ozarow
 ----
 D. Silva
 --
-“Universal weakly secure network
 coding
 ----
 Z. Zhang
 --
-“An application of the relative network
 generalized Hamming weight to erroneous wiretap networks
 [[[ META ]]]
 xmlpapertitle -> Explicit construction of universal strongly secure network coding via MRD codes
@@ -75,7 +69,7 @@ xmlendtime -> 10:10
 xmlpaperid -> 1569564923
 xmlsession -> S9.T1: Network Coding:  Security and Reliability
 xmldate -> 1341388200000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569564923.txt
+file -> PapersDataset\1569564923.txt
 xmlstarttime -> 09:50
 xmlauthors -> Jun Kurihara, Tomohiko Uyematsu, Ryutaroh Matsumoto
 xmlroom -> Kresge Rehearsal B (030)

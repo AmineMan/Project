@@ -15,12 +15,10 @@ Not saved
 [[[ REFS ]]]
 M. Shariff
 --
-“On the capacity of MIMO broadcast
 channels with partial side information
 ----
 D. Gesbert
 --
-“How much feedback is multi-user diversity
 really worth?
 [[[ META ]]]
 xmlpapertitle -> Optimal Selective Feedback Policies for Opportunistic Beamforming Under Peak Feedback Constraints
@@ -31,7 +29,7 @@ xmlendtime -> 12:30
 xmlpaperid -> 1569559995
 xmlsession -> S16.T7: Feedback
 xmldate -> 1341569400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559995.txt
+file -> PapersDataset\1569559995.txt
 xmlstarttime -> 12:10
 xmlauthors -> Tharaka Samarasinghe, Hazer Inaltekin, Jamie Evans
 xmlroom -> Stratton (407)

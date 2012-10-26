@@ -21,7 +21,6 @@ I. Csisz´ r
 ----
 C. Y. S. Nitinawarat
 --
-“Secret key generation for a
 pairwise independent network model
 ----
 C. Chan
@@ -36,7 +35,7 @@ xmlendtime -> 11:10
 xmlpaperid -> 1569559259
 xmlsession -> S9.T1: Network Coding:  Security and Reliability
 xmldate -> 1341391800000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569559259.txt
+file -> PapersDataset\1569559259.txt
 xmlstarttime -> 10:50
 xmlauthors -> Chung Chan
 xmlroom -> Kresge Rehearsal B (030)

@@ -13,37 +13,30 @@ Not saved
 [[[ REFS ]]]
 R. M. Capocelli
 --
-“On the redundancy of optimal codes
 with limited word length
 ----
 P. M. Chaikin
 --
-Principles of Condensed Matter
 Physics
 ----
 A. Garg
 --
-“Speckle in the diffraction patterns of Hendricks–
 Teller and icosahedral glass models
 ----
 S. Hendricks
 --
-“X–ray interference in partially ordered layer
 lattices
 ----
 P. Jacquet
 --
-“Asymptotic behavior of the Lempel–Ziv
 parsing scheme and digital search trees
 ----
 G. Louchard
 --
-“Average redundancy of the Lempel–
 Ziv code
 ----
 S. A. Savari
 --
-“Generalized Tunstall codes for sources
 with memory
 [[[ META ]]]
 xmlpapertitle -> Relations Between Redundancy Patterns of the Shannon Code and Wave Diffraction Patterns of Partially Disordered Media
@@ -54,7 +47,7 @@ xmlendtime -> 12:50
 xmlpaperid -> 1569551539
 xmlsession -> S6.T1: Finite Blocklength Analysis for Source Coding
 xmldate -> 1341311400000
-file -> C:\Users\Amine\git\Project\PapersProject\PapersDataset\1569551539.txt
+file -> PapersDataset\1569551539.txt
 xmlstarttime -> 12:30
 xmlauthors -> Neri Merhav
 xmlroom -> Kresge Rehearsal B (030)
